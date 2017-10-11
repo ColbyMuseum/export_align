@@ -1,0 +1,354 @@
+{
+    "url": "objects_1.csv",
+    "dc:identifier": "Objects_1",
+    "dc:title": "Objects",
+    "foreignKeys": [
+        {
+            "columnReference": "Artist_ID",
+            "reference": {
+                "columnReference": "Artist_ID",
+                "resource": "artist_maker.csv"
+            }
+        }
+    ],
+    "tableSchema": {
+    	"aboutUrl": "/object/{Objects_1_ID}",
+        "primaryKey": "Objects_1_ID",
+        "columns": [
+            {
+                "name": "Artist_ID",
+                "suppressOutput": false,
+				"aboutUrl": "/object/{Objects_1_ID}/production",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                "valueUrl": "/constituent/{Artist_ID}"
+            },
+            {
+                "datatype": "long",
+                "dc:description": "The internal ID number for object records.",
+                "name": "Objects_1_ID",
+                "suppressOutput": false,
+                "titles": "ID",
+                "aboutUrl": "/object/{Objects_1_ID}/pref_id",
+                "propertyUrl": "rdfs:label"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "The five components of the Accession number concatenated in a single string for efficiency of display and retrieval.",
+                "name": "Disp_Access_No",
+                "suppressOutput": false,
+                "titles": "Accession Number",
+                "aboutUrl": "/object/{Objects_1_ID}/acc_no",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "An alternate title assigned to an object, e.g., the historical or original title, the primary title in its original language, or, if the primary title is in the original language, a translation into the language of the cataloging institution, or a transliteration from another alphabet. This information may be accessed by visitors to the collection through the scrolling list of Notes & Histories on page 4 of the Object Info layout.",
+                "name": "Alt_Title",
+                "suppressOutput": false,
+                "titles": "Alternate Title",
+                "aboutUrl": "/object/{Objects_1_ID}/alt_title",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A formal public credit statement about a transfer of ownership, acquisition, source, or sponsorship of an item suitable for use in a display, label or publication. The full text of lengthy credit statements may be accessed by visitors to the collection through the scrolling list of Notes & Histories on page 4 of the Object Info layout.",
+                "name": "Dedication",
+                "suppressOutput": false,
+                "titles": "Credit Line",
+                "aboutUrl": "/object/{Objects_1_ID}/credit_line",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A display field that contains the dimensions of the object - the Display Height, Width, and Depth. As information is entered into these three fields, EmbARK will concatenate the information into a single string and automatically fill in this field. The data may be then be edited for display on the Object Information layout. Information may also be directly entered into this field.",
+                "name": "Disp_Dimen",
+                "suppressOutput": false,
+                "titles": "Display Dimensions",
+                "aboutUrl": "/object/{Objects_1_ID}/dimension",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "The title displayed in the kiosk view of the Object Info screen.",
+                "name": "Disp_Title",
+                "suppressOutput": false,
+                "titles": "Display Title",
+                "aboutUrl": "/object/{Objects_1_ID}/title",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": " Indicates status of object:  permanent collection, loan, etc.",
+                "name": "Department",
+                "suppressOutput": false,
+                "titles": "Disposition",
+                "propertyUrl": "rdfs:label",
+                "aboutUrl": "/thesauri/department/{Department}"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A display field for information concerning the material/media & support of the object. As information is entered into the Medium and Support fields, EmbARK will concatenate the information into a single string and automatically fill in this field. The data may be then be edited to conform to the way the institution would like it displayed, published, and reproduced, e.g., 'oil on panel.' Information may also be directly entered into this field.",
+                "name": "Disp_Medium",
+                "suppressOutput": false,
+                "titles": "Media & Support",
+                "aboutUrl": "/thesauri/material/{Disp_Medium}",
+                "propertyUrl": "rdfs:label"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Classifies the object as to general media or technique to provide a broad categorization for purposes of public access retrieval and Info Page description, e.g., 'painting,' 'print,' 'Decorative Arts,' 'Media Arts.'",
+                "name": "Disp_Obj_Type",
+                "suppressOutput": false,
+                "titles": "Object Type",
+                "aboutUrl": "/thesauri/classification/{Disp_Obj_Type}",
+                "propertyUrl": "rdfs:label"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Previously called Creation Date.  A field to accommodate the natural language entry and display of the object’s creation date and any modifications to the date to indicate uncertain scholarship, e.g., 'circa 1645' or 'first exhibited 1765-66.'",
+                "name": "Disp_Create_DT",
+                "suppressOutput": false,
+                "titles": "Year",
+                "aboutUrl": "/object/{Objects_1_ID}/production/timespan",
+                "propertyUrl": "rdfs:label"
+            },
+            {
+                "datatype": "string",
+                "name": "_Disp_Start_Dat",
+                "suppressOutput": false,
+                "titles": "Start Date",
+                "aboutUrl": "/object/{Objects_1_ID}/production/timespan",
+                "propertyUrl": "begin_of_the_begin"
+            },
+            {
+                "datatype": "string",
+                "name": "_Disp_End_Date",
+                "suppressOutput": false,
+                "titles": "End Date",
+                "aboutUrl": "/object/{Objects_1_ID}/production/timespan",
+                "propertyUrl": "end_of_the_end" 
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/production/timespan",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/production",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E12_Production"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/production",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                "valueUrl": "/object/{Objects_1_ID}/production/timespan"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by",
+                "valueUrl": "/object/{Objects_1_ID}/production"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu",
+                "propertyUrl": "rdfs:label",
+                "default": "Colby College Museum of Art"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner",
+                "valueUrl": "http://data.museum.colby.edu"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/pref_id",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/pref_id",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300404670"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                "valueUrl": "/object/{Objects_1_ID}/pref_id"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/acc_no",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300312355"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                "valueUrl": "/object/{Objects_1_ID}/acc_no"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/acc_no",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P102_has_title",
+                "valueUrl": "/object/{Objects_1_ID}/alt_title"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/credit_line",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300026687"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/credit_line",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                "valueUrl": "/object/{Objects_1_ID}/credit_line"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/dimension",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/dimension",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300266036"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                "valueUrl": "/object/{Objects_1_ID}/dimension"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P102_has_title",
+                "valueUrl": "/object/{Objects_1_ID}/title"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/title",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E35_Title"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/title",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300404670"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/title",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                "valueUrl": "aat:300404670"  
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by",
+                "valueUrl": "/object/{Objects_1_ID}/classification"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/classification",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/classification",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P42_assigned",
+                "valueUrl": "/thesauri/classification/{Disp_Obj_Type}"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/thesauri/classification/{Disp_Obj_Type}",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E55_Type"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/thesauri/classification/{Disp_Obj_Type}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose",
+                "valueUrl": "aat:300179869"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/thesauri/material/{Disp_Medium}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300264237"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/thesauri/material/{Disp_Medium}",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E57_Material"  
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                "valueUrl": "/thesauri/material/{Disp_Medium}"  
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P45_consists_of",
+                "valueUrl": "/thesauri/material/{Disp_Medium}"  
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of",
+                "valueUrl": "/object/{Objects_1_ID}/physical_object"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/thesauri/department/{Department}",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E74_Group"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/physical_object",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P49_has_current_keeper",
+                "valueUrl": "/thesauri/department/{Department}"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}/physical_object",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "/object/{Objects_1_ID}",
+                "propertyUrl": "foat:homepage",
+                "valueUrl": "http://embark.colby.edu/Obj{Objects_1_ID}"  
+            }
+        ]
+    }
+}

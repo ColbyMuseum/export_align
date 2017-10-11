@@ -1,0 +1,2003 @@
+_Artist_ID,Biography,Start_Date_Disp,End_Date_Disp,Display_Name,First_Name,Last_Name,Nat_Culture_L2,Sort_Name,Artist_Code
+2,,1904,1964,Edith Abigail Abbott,Edith Abigail,Abbott,American,"Abbott, Edith Abigail",
+3,,,,Charles Abbott,Charles,Abbott,,"Abbott, Charles",
+4,,,,C. E. Abbott,C. E.,Abbott,American,"Abbott, C. E.",
+5,"American printmaker and sculptor, born 1934",1934,,Sigmund Abeles,Sigmund,Abeles,American,"Abeles, Sigmund",500046227
+6,,1883,1973,Friedrich Ahlers-Hestermann,Friedrich,Ahlers-Hestermann,German,"Ahlers-Hestermann, Friedrich",500074940
+7,,1886,1966,Vivian Akers,Vivian,Akers,American,"Akers, Vivian",
+8,,1825,1861,Benjamin Paul Akers,Benjamin Paul,Akers,American,"Akers, Benjamin Paul",500372315
+9,,1888,1995,Anni Albers,Anni,Albers,American (b. Germany),"Albers, Anni",500012591
+10,,1888,1976,Josef Albers,Josef,Albers,"American, b. Germany","Albers, Josef",500033049
+11,,1857,1946,Ernest Albert,Ernest,Albert,American,"Albert, Ernest",500117530
+12,,1918,2007,Calvin Albert,Calvin,Albert,American,"Albert, Calvin",
+13,,1917,2008,Albert Alcalay,Albert,Alcalay,b. France but lived in the USA since 1945,"Alcalay, Albert",
+14,,1870,1954,Clifford Greer Alexander,Clifford Greer,Alexander,American,"Alexander, Clifford Greer",
+15,,1886,1950,Charles Curtis Allen,Charles Curtis,Allen,American,"Allen, Charles Curtis",500011540
+16,,1959,,Francis Alys,Francis,Alys,Belgian,"Alys, Francis",500116308
+17,,,,F.L. (?) Amanter (?),F.L. (?),Amanter (?),Mexican,"Amanter (?), F.L. (?)",
+18,,1948,,Gregory Amenoff,Gregory,Amenoff,American,"Amenoff, Gregory",500011440
+19,,1768,1836,Ezra Ames,Ezra,Ames,American,"Ames, Ezra",500018732
+20,,1859,1933,William King Amsden,William King,Amsden,American,"Amsden, William King",
+21,,,,Wesley Andersens,Wesley,Andersens,,"Andersens, Wesley",
+22,,1891,1957,Ruth A. Anderson,Ruth A.,Anderson,American,"Anderson, Ruth A.",500333228
+23,,1947,,Laurie Anderson,Laurie,Anderson,American,"Anderson, Laurie",500070794
+24,,1922,,Audmunda Andresdottir,Audmunda,Andresdottir,Icelandic,"Andresdottir, Audmunda",
+25,,1897,,Dorothy Eileen Andrews,Dorothy Eileen,Andrews,American,"Andrews, Dorothy Eileen",
+26,,1915,2006,Raul Anguiano,Raul,Anguiano,Mexican,"Anguiano, Raul",500061635
+27,,,,Ethan Allen Greenwood,Ethan Allen,Greenwood,,"Greenwood, Ethan Allen",
+28,,,,"Anonymous, Pre-Columbian, Carchi",,"Anonymous, Pre-Columbian, Carchi","Pre-Columbian, Carchi","Anonymous, Pre-Columbian, Carchi",
+29,,,,"Anonymous, Pre-Columbian, Chupicuaro",,"Anonymous, Pre-Columbian, Chupicuaro","Pre-Columbian, Chupicuaro","Anonymous, Pre-Columbian, Chupicuaro",
+30,,,,"Anonymous, Pre-Columbian, Nicoya",,"Anonymous, Pre-Columbian, Nicoya","Pre-Columbian, Nicoya","Anonymous, Pre-Columbian, Nicoya",
+31,,,,"Anonymous, English",,"Anonymous, English",English,"Anonymous, English",
+32,,,,"Anonymous, French",,"Anonymous, French",French,"Anonymous, French",
+33,,,,"Anonymous, Japanese",,"Anonymous, Japanese",Japanese,"Anonymous, Japanese",
+34,,1772,1848,Ruth Henshaw Bascom,Ruth Henshaw,Bascom,American,"Bascom, Ruth Henshaw",500008597
+35,,,,"Anonymous, Chinese Ming Dynasty (?)",,"Anonymous, Chinese Ming Dynasty (?)",Chinese Ming Dynasty (?),"Anonymous, Chinese Ming Dynasty (?)",
+36,,,,"Anonymous, English (?)",,"Anonymous, English (?)",English (?),"Anonymous, English (?)",
+37,,,,"Anonymous, Italian",,"Anonymous, Italian",Italian,"Anonymous, Italian",
+38,,,,"Anonymous, Russian",,"Anonymous, Russian",Russian,"Anonymous, Russian",
+39,,,,"Anonymous, Tibetan",,"Anonymous, Tibetan",Tibetan,"Anonymous, Tibetan",
+40,,,,"Anonymous, African",,"Anonymous, African",African,"Anonymous, African",
+41,,,,"Anonymous, African, Ashanti",,"Anonymous, African, Ashanti","African, Ashanti","Anonymous, African, Ashanti",
+42,,,,"Anonymous, African, Bali",,"Anonymous, African, Bali","African, Bali","Anonymous, African, Bali",
+43,,,,"Anonymous, African, Bambara",,"Anonymous, African, Bambara","African, Bambara","Anonymous, African, Bambara",
+44,,,,"Anonymous, African, Baule",,"Anonymous, African, Baule","African, Baule","Anonymous, African, Baule",
+45,,,,"Anonymous, African, Mali",,"Anonymous, African, Mali","African, Mali","Anonymous, African, Mali",
+46,,,,"Anonymous, African, Senufu",,"Anonymous, African, Senufu","African, Senufu","Anonymous, African, Senufu",
+47,,,,"Anonymous, African, West",,"Anonymous, African, West","African, West","Anonymous, African, West",
+48,,,,"Anonymous, Byzantine",,"Anonymous, Byzantine",Byzantine,"Anonymous, Byzantine",
+49,,,,"Anonymous, Chinese",,"Anonynous, Chinese",Chinese,"Anonymous, Chinese",
+50,,,,"Anonymous, Cypriote",,"Anonymous, Cypriote",Cypriote,"Anonymous, Cypriote",
+51,,,,"Anonymous, German",,"Anonymous, German",German,"Anonymous, German",
+52,,,,"Anonymous, Greek",,"Anonymous, Greek",Greek,"Anonymous, Greek",
+53,,1858,,Kayashima Shuzan,Kayashima,Shuzan,Japanese/Edo,"Shuzan, Kayashima",
+54,,,,"Anonymous, Pre-Columbian, Colima",,"Anonymous, Pre-Columbian, Colima","Pre-Columbian, Colima","Anonymous, Pre-Columbian, Colima",
+55,,,,"Anonymous, Pre-Columbian, Meso-American, Colima",,"Anonymous, Pre-Columbian, Meso-American, Colima","Pre-Columbian, Meso-American, Colima","Anonymous, Pre-Columbian, Meso-American, Colima",
+56,,,,"Anonymous, Pre-Columbian, Meso-American",,"Anonymous, Pre-Columbian, Meso-American","Pre-Columbian, Meso-American","Anonymous, Pre-Columbian, Meso-American",
+57,,,,"Anonymous, Pre-Columbian",,"Anonymous, Pre-Columbian",Pre-Columbian,"Anonymous, Pre-Columbian",
+58,,,,"Anonymous, &quot;Pre-Columbian, Colima&quot;",,"Anonymous, &quot;Pre-Columbian, Colima&quot;","&quot;Pre-Columbian, Colima&quot;","Anonymous, &quot;Pre-Columbian, Colima&quot;",
+59,,,,"Anonymous, Pre-Columbian, Huastec",,"Anonymous, Pre-Columbian, Huastec","Pre-Columbian, Huastec","Anonymous, Pre-Columbian, Huastec",
+60,,,,"Anonymous, Pre-Columbian, Jalisco",,"Anonymous, Pre-Columbian, Jalisco","Pre-Columbian, Jalisco","Anonymous, Pre-Columbian, Jalisco",
+61,,,,"Anonymous, Pre-Columbian; Meso American",,"Anonymous, Pre-Columbian; Meso American",Pre-Columbian; Meso American,"Anonymous, Pre-Columbian; Meso American",
+62,,,,"Anonymous, Pre-Columbian, Mezcala",,"Anonymous, Pre-Columbian, Mezcala","Pre-Columbian, Mezcala","Anonymous, Pre-Columbian, Mezcala",
+63,,,,"Anonymous, &quot;Pre-Columbian, Meso-American&quot;",,"Anonymous, &quot;Pre-Columbian, Meso-American&quot;","&quot;Pre-Columbian, Meso-American&quot;","Anonymous, &quot;Pre-Columbian, Meso-American&quot;",
+64,,,,"Anonymous, Pre-Columbian, Mexican (Vera Cruz)",,"Anonymous, Pre-Columbian, Mexican (Vera Cruz)","Pre-Columbian, Mexican (Vera Cruz)","Anonymous, Pre-Columbian, Mexican (Vera Cruz)",
+65,,,,"Anonymous, Pre-Columbian, Michoacan",,"Anonymous, Pre-Columbian, Michoacan","Pre-Columbian, Michoacan","Anonymous, Pre-Columbian, Michoacan",
+66,,,,"Anonymous, Pre-Columbian, Nayarit",,"Anonymous, Pre-Columbian, Nayarit","Pre-Columbian, Nayarit","Anonymous, Pre-Columbian, Nayarit",
+67,,,,"Anonymous, New Guinea",,"Anonymous, New Guinea",New Guinea,"Anonymous, New Guinea",
+68,,,,"Anonymous, European",,"Anonymous, European",European,"Anonymous, European",
+69,,,,"Anonymous, Indian",,"Anonymous, Indian",Indian,"Anonymous, Indian",
+70,,,,"Anonymous, Spanish",,"Anonymous, Spanish",Spanish,"Anonymous, Spanish",
+71,,1834,1903,Ethan Allen Greenwood,Ethan Allen,Greenwood,,"Greenwood, Ethan Allen",
+72,,,,"Anonymous, American, And French",,"Anonymous, American, And French","American, And French","Anonymous, American, And French",
+73,,,,"Anonymous, Egyptian",,"Anonymous, Egyptian",Egyptian,"Anonymous, Egyptian",
+74,,,,"Anonymous, Korean",,"Anonymous, Korean",Korean,"Anonymous, Korean",
+75,,,,"Anonymous, Korean Or Manchurian",,"Anonymous, Korean Or Manchurian",Korean Or Manchurian,"Anonymous, Korean Or Manchurian",
+76,,,,"Anonymous, Siamese?",,"Anonymous, Siamese?",Siamese?,"Anonymous, Siamese?",
+77,,,,"Anonymous, Manchurian?",,"Anonymous, Manchurian?",Manchurian?,"Anonymous, Manchurian?",
+78,,,,"Anonymous, Greece (Fabricated In Southern Italy)",,"Anonymous, Greece (Fabricated In Southern Italy)",Greece (Fabricated In Southern Italy),"Anonymous, Greece (Fabricated In Southern Italy)",
+79,,,,"Anonymous, Boeotian (?)",,"Anonymous, Boeotian (?)",Boeotian (?),"Anonymous, Boeotian (?)",
+80,,,,"Anonymous, Etruscan",,"Anonymous, Etruscan",Etruscan,"Anonymous, Etruscan",
+81,,,,"Anonymous, Etruscan/Faliscan",,"Anonymous, Etruscan/Faliscan",Etruscan/Faliscan,"Anonymous, Etruscan/Faliscan",
+82,,,,"Anonymous, Villanovan",,"Anonymous, Villanovan",Villanovan,"Anonymous, Villanovan",
+83,,,,"Anonymous, Roman",,"Anonymous, Roman",Roman,"Anonymous, Roman",
+84,,,,"Anonymous, Athenian",,"Anonymous, Athenian",Athenian,"Anonymous, Athenian",
+85,,,,"Anonymous, Etruscan Or Faliscan",,"Anonymous, Etruscan Or Faliscan",Etruscan Or Faliscan,"Anonymous, Etruscan Or Faliscan",
+86,,,,"Anonymous, Apulian",,"Anonymous, Apulian",Apulian,"Anonymous, Apulian",
+87,,,,"Anonymous, Etruscan Or Greek",,"Anonymous, Etruscan Or Greek",Etruscan Or Greek,"Anonymous, Etruscan Or Greek",
+88,,,,"Anonymous, Bronze",,"Anonymous, Bronze",Bronze,"Anonymous, Bronze",
+89,,,,"Anonymous, Probably Late Roman",,"Anonymous, Probably Late Roman",Probably Late Roman,"Anonymous, Probably Late Roman",
+90,,,,"Anonymous, Italo-Corinthian",,"Anonymous, Italo-Corinthian",Italo-Corinthian,"Anonymous, Italo-Corinthian",
+91,,,,"Anonymous, Daunian",,"Anonymous, Daunian",Daunian,"Anonymous, Daunian",
+92,,,,"Anonymous, Etruscan Or Campanian",,"Anonymous, Etruscan Or Campanian",Etruscan Or Campanian,"Anonymous, Etruscan Or Campanian",
+93,,,,"Anonymous, South Italian",,"Anonymous, South Italian",South Italian,"Anonymous, South Italian",
+94,,,,"Anonymous, Chinese, Han Dynasty (206 Bc - 220ad)",,"Anonymous, Chinese, Han Dynasty (206 Bc - 220ad)","Chinese, Han Dynasty (206 Bc - 220ad)","Anonymous, Chinese, Han Dynasty (206 Bc - 220ad)",
+95,,,,"Anonymous, Coptic",,"Anonymous, Coptic",Coptic,"Anonymous, Coptic",
+96,,,,"Anonymous, English (Battersea)",,"Anonymous, English (Battersea)",English (Battersea),"Anonymous, English (Battersea)",
+97,,,,"Anonymous, French (Sevres)",,"Anonymous, French (Sevres)",French (Sevres),"Anonymous, French (Sevres)",
+98,,,,"Anonymous, German(Meissen)",,"Anonymous, German(Meissen)",German(Meissen),"Anonymous, German(Meissen)",
+99,,,,"Anonymous, Russian ( St. Petersburg)",,"Anonymous, Russian ( St. Petersburg)",Russian ( St. Petersburg),"Anonymous, Russian ( St. Petersburg)",
+100,,,,"Anonymous, Ostrogothic",,"Anonymous, Ostrogothic",Ostrogothic,"Anonymous, Ostrogothic",
+101,,,,"Anonymous, Cambodian",,"Anonymous, Cambodian",Cambodian,"Anonymous, Cambodian",
+102,,,,"Anonymous, Mexican Indian",,"Anonymous, Mexican Indian",Mexican Indian,"Anonymous, Mexican Indian",
+103,,,,"Anonymous, Central American",,"Anonymous, Central American",Central American,"Anonymous, Central American",
+104,,,,"Anonymous, Mexican",,"Anonymous, Mexican",Mexican,"Anonymous, Mexican",
+105,,,,"Anonymous, Valley Of Mexico, Nahua",,"Anonymous, Valley Of Mexico, Nahua","Valley Of Mexico, Nahua","Anonymous, Valley Of Mexico, Nahua",
+106,,,,"Anonymous, Calixtlahuaca",,"Anonymous, Calixtlahuaca",Calixtlahuaca,"Anonymous, Calixtlahuaca",
+107,,,,"Anonymous, Tenayuca",,"Anonymous, Tenayuca",Tenayuca,"Anonymous, Tenayuca",
+108,,,,"Anonymous, Oaxaco Tazapoteca",,"Anonymous, Oaxaco Tazapoteca",Oaxaco Tazapoteca,"Anonymous, Oaxaco Tazapoteca",
+109,,,,"Anonymous, Aztec",,"Anonymous, Aztec",Aztec,"Anonymous, Aztec",
+110,,,,"Anonymous, Pre Columbian",,"Anonymous, Pre Columbian",Pre Columbian,"Anonymous, Pre Columbian",
+111,,,,"Anonymous, Arizona, Preconquest Xii Century",,"Anonymous, Arizona, Preconquest Xii Century","Arizona, Preconquest Xii Century","Anonymous, Arizona, Preconquest Xii Century",
+112,,,,"Anonymous, Central America",,"Anonymous, Central America",Central America,"Anonymous, Central America",
+113,,,,"Anonymous, Pistoiese",,"Anonymous, Pistoiese",Pistoiese,"Anonymous, Pistoiese",
+114,,,,"Anonymous, Burmese",,"Anonymous, Burmese",Burmese,"Anonymous, Burmese",
+115,,,,"Anonymous, Mexico",,"Anonymous, Mexico",Mexico,"Anonymous, Mexico",
+116,,,,"Anonymous, Dutch",,"Anonymous, Dutch",Dutch,"Anonymous, Dutch",
+117,,,,"Anonymous, Palestinian",,"Anonymous, Palestinian",Palestinian,"Anonymous, Palestinian",
+118,,,,"Anonymous, East Indian",,"Anonymous, East Indian",East Indian,"Anonymous, East Indian",
+119,,,,"Anonymous, Tibetian",,"Anonymous, Tibetian",Tibetian,"Anonymous, Tibetian",
+120,,,,"Anonymous, Chinese (Han Dynasty 206 Bc-220 Ad)",,"Anonymous, Chinese (Han Dynasty 206 Bc-220 Ad)",Chinese (Han Dynasty 206 Bc-220 Ad),"Anonymous, Chinese (Han Dynasty 206 Bc-220 Ad)",
+121,,,,"Anonymous, Persian",,"Anonymous, Persian",Persian,"Anonymous, Persian",
+122,,,,"Anonymous, Danish",,"Anonymous, Danish",Danish,"Anonymous, Danish",
+123,,,,"Anonymous, Chinese (Shang Period)",,"Anonymous, Chinese (Shang Period)",Chinese (Shang Period)8,"Anonymous, Chinese (Shang Period)",
+124,,,,"Anonymous, Japanese (Hamada ?)",,"Anonymous, Japanese (Hamada ?)",Japanese (Hamada ?),"Anonymous, Japanese (Hamada ?)",
+125,,,,"Anonymous, Iranian",,"Anonymous, Iranian",Iranian,"Anonymous, Iranian",
+126,,,,"Anonymous, Iranian (Persian)",,"Anonymous, Iranian (Persian)",Iranian (Persian),"Anonymous, Iranian (Persian)",
+127,,,,"Anonymous, Chinese (T&#39;ang Dynasty)",,"Anonymous, Chinese (T&#39;ang Dynasty)",Chinese (Tang Dynasty),"Anonymous, Chinese (T&#39;ang Dynasty)",
+128,,,,Anonymous (J.Lerat?),,Anonymous (J.Lerat?),,Anonymous (J.Lerat?),
+129,,,,Jean Jacques Anteaume,Jean Jacques,Anteaume,French (Vincennes),"Anteaume, Jean Jacques",
+130,,1930,,Richard Joseph Anuszkiewicz,Richard Joseph,Anuszkiewicz,American,"Anuszkiewicz, Richard Joseph",500025580
+131,,1818,1898,Adolphe Appian,Adolphe,Appian,French,"Appian, Adolphe",500009819
+132,,1887,1964,Alexander Archipenko,Alexander,Archipenko,American (b. Russia),"Archipenko, Alexander",500022523
+133,,1908/1909,1985,Luis Arenal,Luis,Arenal,Mexican,"Arenal, Luis",500042439
+134,,1887,1953,John Taylor Arms,John Taylor,Arms,American,"Arms, John Taylor",500022283
+135,,1930,1992,Robert Arneson,Robert,Arneson,American,"Arneson, Robert",
+136,,1925,,Anne Arnold,Anne,Arnold,American,"Arnold, Anne",
+137,,1925,,Anne Arnold (Attr. To),Anne,Arnold (Attr. To),American,"Arnold (Attr. To), Anne",
+138,,1923,,David Aronson,David,Aronson,American,"Aronson, David",500003363
+139,,1886,1966,Jean Arp,Jean,Arp,French,"Arp, Jean",
+140,,1923,2013,Richard Artschwager,Richard,Artschwager,American,"Artschwager, Richard",500114981
+141,,1927,,John Ashbery,John,Ashbery,American,"Ashbery, John",500008217
+142,,,,Ashiyuki,,Ashiyuki,Japanese,Ashiyuki,
+143,,,,H. Atken (Drawn By),H.,Atken (Drawn By),English,"Atken (Drawn By), H.",
+144,,1806,1884,George M. W. Atkinson,George M. W.,Atkinson,Irish,"Atkinson, George M. W.",
+145,,1730,1781,Attributed to Sugo Shohaku,Attributed to Sugo,Shohaku,Japanese,"Shohaku, Attributed to Sugo",
+146,,1785,1851,John James Audubon,John James,Audubon,American (b. Haiti),"Audubon, John James",500016578
+147,,1891,1948,George Ault,George,Ault,American,"Ault, George",
+148,,1923,2004,Richard Avedon,Richard,Avedon,American,"Avedon, Richard",500013773
+149,,1893,1965,Milton Avery,Milton,Avery,American,"Avery, Milton",500002713
+150,,1839,1912,Henry Bacon,Henry,Bacon,American,"Bacon, Henry",500010027
+151,,1708,1765,Joseph Badger,Joseph,Badger,American,"Badger, Joseph",500022577
+152,,1792,1868,Thomas Badger,Thomas,Badger,American,"Badger, Thomas",500027019
+153,,1956,,Donald Baechler,Donald,Baechler,American,"Baechler, Donald",500118756
+154,,1947,,Malcolm Bailey,Malcolm,Bailey,American,"Bailey, Malcolm",500034659
+155,,,,Collin E. Balch,Collin E.,Balch,,"Balch, Collin E.",
+156,,1819,1911,Thomas Ball,Thomas,Ball,American,"Ball, Thomas",500225571
+157,,1951,,Richard Ballard,Richard,Ballard,English,"Ballard, Richard",
+158,,1909,1967,John R. Ballator,John R.,Ballator,American,"Ballator, John R.",
+159,,1909,1967,John Ballator,John,Ballator,American,"Ballator, John",
+160,,1815,1897,James Bard,James,Bard,American,"Bard, James",500006629
+161,,1872,1948,Lucy Hayward Barker,Lucy Hayward,Barker,American,"Barker, Lucy Hayward",500334648
+162,,1870,1938,Ernst Barlach,Ernst,Barlach,German,"Barlach, Ernst",500013940
+163,,1889,1971,Antonio Barone,Antonio,Barone,American (b. Italy),"Barone, Antonio",500065174
+164,,1854,1927,William Samuel Barrett,William Samuel,Barrett,American,"Barrett, William Samuel",500028196
+165,,1926,,Harris Barron,Harris,Barron,American,"Barron, Harris",
+166,,1946,,Jack Barth,Jack,Barth,American,"Barth, Jack",500105627
+167,,1873,1953,Frederic Clay Bartlett,Frederic Clay,Bartlett,American,"Bartlett, Frederic Clay",500021314
+168,,1817,1902,Jonathan Adams Bartlett,Jonathan Adams,Bartlett,American,"Bartlett, Jonathan Adams",
+169,,1941,,Jennifer Bartlett,Jennifer,Bartlett,American,"Bartlett, Jennifer",500021315
+170,,1873,1953,Frederick Clay Bartlett,Frederick Clay,Bartlett,American,"Bartlett, Frederick Clay",500021314
+171,,1922,2000,Leonard Baskin,Leonard,Baskin,American,"Baskin, Leonard",500003136
+172,,1895,1958,Carol Bates,Carol,Bates,American,"Bates, Carol",
+173,,1796,1875,Louis Antoine Barye,Louis Antoine,Barye,French,"Barye, Louis Antoine",500007044
+174,,1931,,Jack Beal,Jack,Beal,American,"Beal, Jack",500010820
+175,,1911,1988,Romare Bearden,Romare,Bearden,American,"Bearden, Romare",
+176,,1904,1980,Cecil Beaton,Cecil,Beaton,American,"Beaton, Cecil",
+177,,1924,,C. Ronald Bechtle,C. Ronald,Bechtle,American,"Bechtle, C. Ronald",
+178,,1889,1975,Maurice Becker,Maurice,Becker,American (b. Russia),"Becker, Maurice",500117706
+179,,1840,1904,Maria Becket,Maria,Becket,American,"Becket, Maria",
+180,,1814,1867,Charles E. Beckett (Attributed To),Charles E.,Beckett (Attributed To),American,"Beckett (Attributed To), Charles E.",
+181,,1884,1950,Max Beckmann,Max,Beckmann,German,"Beckmann, Max",500024106
+182,,1500,1550,Hans Sebold Beham,Hans Sebold,Beham,German,"Beham, Hans Sebold",500115491
+183,,1957,,Dozier Bell,Dozier,Bell,American,"Bell, Dozier",500332251
+184,,1882,1925,George Bellows,George Wesley,Bellows,American,"Bellows, George Wesley",
+1750,,1980,,Ben Pier,Ben,Pier,American,"Pier, Ben",
+186,,1891,1940,Euyeline Benbow,Euyeline,Benbow,America,"Benbow, Euyeline",
+187,,1882,1934,Gerrit A. Beneker,Gerrit A.,Beneker,American,"Beneker, Gerrit A.",500027967
+188,,1884,1983,Ben Benn,Ben,Benn,American (b. Russia),"Benn, Ben",500038228
+189,,1899,1971,Richard Bennett,Richard,Bennett,American,"Bennett, Richard",
+190,,1973,,Sadie Benning,Sadie,Benning,American,"Benning, Sadie",500114576
+191,,,,P.D. Benoit,P.D.,Benoit,American,"Benoit, P.D.",
+192,,1862,1951,Frank Weston Benson,Frank Weston,Benson,American,"Benson, Frank Weston",500026137
+193,,1927,2008,John Bentham-Dinsdale,John,Bentham-Dinsdale,American,"Bentham-Dinsdale, John",
+194,,1889,1975,Thomas Hart Benton,Thomas Hart,Benton,American,"Benton, Thomas Hart",500005998
+195,,1886,1978,Carroll Thayer Berry,Carroll Thayer,Berry,American,"Berry, Carroll Thayer",
+196,,1935,,Eric Beynon,Eric,Beynon,Swiss,"Beynon, Eric",500084499
+197,,1906,1994,Pamela Ruby Bianco,Pamela Ruby,Bianco,American,"Bianco, Pamela Ruby",
+198,,1837,1915,Albion Harris Bicknell,Albion Harris,Bicknell,American,"Bicknell, Albion Harris",500106147
+199,,,,E.M. Bicknell,E.M.,Bicknell,American,"Bicknell, E.M.",
+200,,1830,1902,Albert Bierstadt,Albert,Bierstadt,"American, b. Germany","Bierstadt, Albert",500001248
+201,,1779,1851,Thomas Birch,Thomas,Birch,American (b. England),"Birch, Thomas",500009204
+202,,1968,,Fabian Birgfeld,Fabian,Birgfeld,"American, b. Germany","Birgfeld, Fabian",
+203,,1946,,Dara Birnbaum,Dara,Birnbaum,American,"Birnbaum, Dara",500034772
+204,,1858,1909,William Verplank Birney,William Verplank,Birney,,"Birney, William Verplank",500016668
+205,,1902,1988,Isabel Bishop,Isabel,Bishop,American,"Bishop, Isabel",500032484
+206,,,,Richard W. Bishop,Richard W.,Bishop,American,"Bishop, Richard W.",
+207,,,,Bisson Freres,,Bisson Freres,French,Bisson Freres,
+208,,1895,1976,Emil Bisttram,Emil,Bisttram,American,"Bisttram, Emil",
+209,,1730,A. 1778,Joseph Blackburn,Joseph,Blackburn,American (b. England),"Blackburn, Joseph",500021703
+210,,1881,1965,Simon Blaisdell,Simon,Blaisdell,American,"Blaisdell, Simon",
+211,,1847,1919,Ralph (Albert) Blakelock,Ralph (Albert),Blakelock,American,"Blakelock, Ralph (Albert)",500023101
+212,,1847,1919,Ralph(Albert) Blakelock,Ralph(Albert),Blakelock,American,"Blakelock, Ralph(Albert)",500023101
+213,,1913,2009,Hyman Bloom,Hyman,Bloom,American,"Bloom, Hyman",500022094
+214,,1921,1999,Norman Bluhm,Norman,Bluhm,American,"Bluhm, Norman",500027802
+215,,1798,1835,John Samuel Blunt,John Samuel,Blunt,American,"Blunt, John Samuel",500015499
+216,,1945,,Willard Boepple,Willard,Boepple,American,"Boepple, Willard",500088408
+217,,1923,,Martine Boileau,Martine,Boileau,French,"Boileau, Martine",
+218,,,,Bokov Possibly Bukov,,Bokov Possibly Bukov,,Bokov Possibly Bukov,
+219,,1842,1931,Giovanni Boldini,Giovanni,Boldini,Italian,"Boldini, Giovanni",500024511
+220,,,,Booker,,Booker,,Booker,
+221,,1949,,Robert Bordo,Robert,Bordo,Canadian,"Bordo, Robert",500332846
+222,,1944,,Richard Bosman,Richard,Bosman,"American, b. India","Bosman, Richard",500010976
+223,,1902,2000,Dorr Bothwell,Dorr,Bothwell,American,"Bothwell, Dorr",500096320
+224,,1896,1983,Henry Botkin,Henry,Botkin,American,"Botkin, Henry",
+225,,1621,1676,Jacques Courtois Bourguignon,Jacques Courtois,Bourguignon,French,"Bourguignon, Jacques Courtois",
+226,,,,Mary Bourke,Mary,Bourke,American,"Bourke, Mary",
+227,,1904,1971,Margaret Bourke-White,Margaret,Bourke-White,American,"Bourke-White, Margaret",500023145
+2026,,1955,,Tyree Guyton,Tyree,Guyton,American,"Guyton, Tyree",500273534
+229,,1922,,Thomas Boutis,Thomas,Boutis,American,"Boutis, Thomas",500097116
+230,,1875,1952,Alexander Bower,Alexander,Bower,American,"Bower, Alexander",500043572
+231,,1961,,Astrid Bowlby,Astrid,Bowlby,American,"Bowlby, Astrid",
+232,,1898,1961,Francis Bradford,Francis,Bradford,American,"Bradford, Francis",
+233,,1898,1961,Francis Scott Bradford,Francis Scott,Bradford,American,"Bradford, Francis Scott",
+234,,1882,,Ethelwynn Bradish,Ethelwynn,Bradish,American,"Bradish, Ethelwynn",
+235,,,,E. H. Bramhall,E. H.,Bramhall,American,"Bramhall, E. H.",
+236,,1867,1956,Frank Brangwyn,Frank,Brangwyn,Belgian,"Brangwyn, Frank",500026093
+237,,,,Patricia Branstead,Patricia,Branstead,American,"Branstead, Patricia",
+238,,,,Patricia Branstead And Students,Patricia,Branstead And Students,American,"Branstead And Students, Patricia",
+239,,1882,1963,Georges Braque,Georges,Braque,French,"Braque, Georges",500025200
+240,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Los Angeles, Calif. Has had an amazing career as sculptor, set and costume designer and ceramic artist...His works have won numerous awards and are distinguished for extraordinary color and rhythmic composition.&quot;",,,Sascha Brastoff,Sascha,Brastoff,,"Brastoff, Sascha",
+241,,,,Brawford,,Brawford,,Brawford,
+242,,1766,1854,"John C. Brewster, Jr.",John C.,"Brewster, Jr.",American,"Brewster, Jr., John C.",
+243,,1837,1908,Alfred Thompson Bricher,Alfred Thompson,Bricher,American,"Bricher, Alfred Thompson",500021690
+244,,1837,1908,Alfred Bricher,Alfred,Bricher,American,"Bricher, Alfred",
+245,,1906,,James Brooks,James,Brooks,French,"Brooks, James",500017163
+246,,,,N.(Icholas) A.(Lden) Brooks,N.(Icholas) A.(Lden),Brooks,American,"Brooks, N.(Icholas) A.(Lden)",
+247,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Beverly, Mass. Top honors in many national shows...his stoneware bowl is on permanent display, International Museum of Ceramics, Florence, Italy...Exhibited: Institute of Contemporary Art, Boston; Worcester Art Museum; National Ceramic Exhibition, Syracuse Museum...Listed: Who&#39;s Who In American Art.&quot;",1920,,David Broudo,David,Broudo,American,"Broudo, David",
+248,,1606,1638,Adriaen Brouwer,Adriaen,Brouwer,Flemish,"Brouwer, Adriaen",500012394
+249,,,,Ethel Pennewill Brown,Ethel Pennewill,Brown,American,"Brown, Ethel Pennewill",
+250,,1831,1915,Harrison Bird Brown,Harrison Bird,Brown,American,"Brown, Harrison Bird",500005065
+251,,1914,1971,Philip Wass Brown,Philip Wass,Brown,American,"Brown, Philip Wass",
+252,,1818,1891,Henry B. Brown,Henry B.,Brown,American,"Brown, Henry B.",
+253,,1814,1886,Henry Kirke Brown,Henry Kirke,Brown,American,"Brown, Henry Kirke",500112040
+254,,1951,,James Brown,James,Brown,American,"Brown, James",500200212
+255,,1850,1936,Jennie Augusta Brownscombe,Jennie Augusta,Brownscombe,American,"Brownscombe, Jennie Augusta",500024093
+256,,1923,,Ashley Bryan,Ashley,Bryan,American,"Bryan, Ashley",500344621
+257,,1828,1890,Frank Buchser (Attributed),Frank,Buchser (Attributed),Swiss,"Buchser (Attributed), Frank",
+258,,,,Bucker,,Bucker,,Bucker,
+259,,1764,1840,Tani Buncho,Tani,Buncho,Japanese,"Buncho, Tani",500121188
+260,,1923,1991,George Bunker,George,Bunker,American,"Bunker, George",500345959
+261,,,,G Bunker,G,Bunker,,"Bunker, G",
+262,,1861,1890,Dennis Miller Bunker,Dennis Miller,Bunker,American,"Bunker, Dennis Miller",500009855
+263,,1893,1967,Charles E. Burchfield,Charles E.,Burchfield,American,"Burchfield, Charles E.",500015189
+264,,1914,1999,Rudy YBurckhardt,Rudy,YBurckhardt,American (b. Switzerland),"YBurckhardt, Rudy",500085966
+265,,,,George Burk,George,Burk,American,"Burk, George",
+266,,1922,1991,Ainslie Burke,Ainslie,Burke,American,"Burke, Ainslie",
+267,,1914,1999,Rudy Burckhardt,Rudy,Burckhardt,American (b. Switzerland),"Burckhardt, Rudy",500085966
+268,,1886,1969,Paul Burlin,Paul,Burlin,American,"Burlin, Paul",500005636
+269,,1877?,,G. W. Burnham,G. W.,Burnham,American,"Burnham, G. W.",
+270,,1890,1983,Mildred Burrage,Mildred,Burrage,American,"Burrage, Mildred",
+271,,1914,1983,Peter Busa,Peter,Busa,American,"Busa, Peter",500068845
+272,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Columbia, MO. Assistant Prof. of Cermics, University of Mo. ... 1961-62 Fulbright Research Scholar in Art, University of Calcutta, India...Exhibitied: Michigan Artists Annual; Indiana Artists Annual...One man show: Ohio State U.; Texas Art Association; Dallas Craft Guild; Academy of Fine Arts, Calcutta, India...sculptor, ceramist, artist.&quot;",1922,,Robert Bussaberger,Robert,Bussaberger,American,"Bussaberger, Robert",
+273,,1945,,Richard S. Buswell,Richard S.,Buswell,American,"Buswell, Richard S.",
+274,,1814,1891,Esteria Butler,Esteria,Butler,American,"Butler, Esteria",
+275,,1949,,Deborah Butterfield,Deborah,Butterfield,American,"Butterfield, Deborah",500020000
+276,,1868,1931,Albert Prentice Button,Albert Prentice,Button,American,"Button, Albert Prentice",
+277,,1929,1982,John C. Button,John C.,Button,American,"Button, John C.",
+278,,1932,,James Lee Byers,James Lee,Byers,American,"Byers, James Lee",500089748
+279,,1952,,David Byrne,David,Byrne,Scottish,"Byrne, David",500333457
+280,,1849,1935,Henry N. Cady,Henry N.,Cady,American,"Cady, Henry N.",500044259
+281,,1893,1971,Doris Caesar,Doris,Caesar,American,"Caesar, Doris",500062996
+282,,1921,,Charles Cajori,Charles,Cajori,American,"Cajori, Charles",
+283,,1913,1993,Lawrence Calcagno,Lawrence,Calcagno,American,"Calcagno, Lawrence",500011144
+284,,1898,1976,Alexander Calder,Alexander,Calder,American,"Calder, Alexander",500007824
+285,,1877,1966,Mary B. Call,Mary B.,Call,American,"Call, Mary B.",
+286,,1906,1986,Kenneth Callahan,Kenneth,Callahan,American,"Callahan, Kenneth",500019403
+287,,1912,1999,Harry Callahan,Harry,Callahan,American,"Callahan, Harry",500000873
+288,,1592,1635,Jacques Callot,Jacques,Callot,French,"Callot, Jacques",500021688
+289,,,,Hendrick Cantelbeek,Hendrick,Cantelbeek,Flemish,"Cantelbeek, Hendrick",
+290,,1932,,Paul Caponigro,Paul,Caponigro,American,"Caponigro, Paul",500019913
+291,,1818,1900,Gonsalvo Carelli,Gonsalvo,Carelli,Italian,"Carelli, Gonsalvo",500024888
+292,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Lawrence, K.S. Prof., Cermaic Art, U. of Kans...Fellow, American Ceramic Society...1962-Represented in &quot;1000 Years of American Pottery&quot; Museum of Contemporary Crafts, New York City...Work in permanent collection: Metropolitan Museum, New York City; Everson Museum, Syracuse, N.Y.; also in Belgium, Geneva and Finland...chosen as &quot;The Outstanding American Potter&quot; 1958.&quot;",1911,1999,J. Sheldon Carey,J. Sheldon,Carey,American,"Carey, J. Sheldon",
+293,,1878,1968,Anne Carleton,Anne,Carleton,American,"Carleton, Anne",500336635
+294,,1853,1932,(S&#246;ren) Emil Carlsen,(S&#246;ren) Emil,Carlsen,American (b. Denmark),"Carlsen, (S&#246;ren) Emil",
+295,,,,Harold Carney,Harold,Carney,American,"Carney, Harold",
+296,,1947,,Squeak Carnwath,Squeak,Carnwath,American,"Carnwath, Squeak",500329681
+297,,1914,1992,James Carpenter,James,Carpenter,American,"Carpenter, James",
+298,,,,Don Carr,Don,Carr,Canadian,"Carr, Don",
+299,,1555,1619,Ludovico Carracci,Ludovico,Carracci,Italian,"Carracci, Ludovico",500009619
+300,,1917,2011,Leonora Carrington,Leonora,Carrington,English,"Carrington, Leonora",500018196
+301,,1881,1963,Francis E. Carson,Francis E.,Carson,American,"Carson, Francis E.",
+302,,1927,,Aldo John Casanova,Aldo John,Casanova,American,"Casanova, Aldo John",
+303,,1879,1956,Karl Caspar,Karl,Caspar,German,"Caspar, Karl",500015889
+304,,1844,1926,Mary Cassatt,Mary,Cassatt,American,"Cassatt, Mary",500012368
+305,,1961,,Fabian Cereijido,Fabian,Cereijido,Argentina,"Cereijido, Fabian",500333802
+306,"Viviano COdazzi, 1604-1670",,,Michelangelo &amp; Viviano Cerquozzi &amp; Codazzi,Michelangelo &amp; Viviano,Cerquozzi &amp; Codazzi,Italian,"Cerquozzi &amp; Codazzi, Michelangelo &amp; Viviano",
+307,lives and works in the United States,1975,,Alejandro Cesarco,Alejandro,Cesarco,Uruguayan,"Cesarco, Alejandro",
+308,,1839,1906,Paul Cezanne,Paul,Cezanne,French,"Cezanne, Paul",500004793
+309,,1914,2003,Lynn Chadwick,Lynn,Chadwick,English,"Chadwick, Lynn",
+310,,1881,1944,Oliver Holbert Chaffee,Oliver Holbert,Chaffee,American,"Chaffee, Oliver Holbert",
+311,,1887,1985,Marc Chagall,Marc,Chagall,French (b. Russia),"Chagall, Marc",500115354
+312,,1927,2011,John Chamberlain,John,Chamberlain,American,"Chamberlain, John",500118724
+313,,1808,1869,Thomas Chambers,Thomas,Chambers,American(b. England),"Chambers, Thomas",500023474
+314,,1858,1947,Minerva (Josephine) Chapman,Minerva (Josephine),Chapman,American,"Chapman, Minerva (Josephine)",500003811
+315,,,,Nancy Chase,Nancy,Chase,American,"Chase, Nancy",
+316,,1849,1916,William Merritt Chase,William Merritt,Chase,American,"Chase, William Merritt",500115356
+317,,,,A. P. Chase,A. P.,Chase,American,"Chase, A. P.",
+318,,1951,,Louisa Chase,Louisa,Chase,American,"Chase, Louisa",
+319,,1905,1969,Louis Chervin,Louis,Chervin,French,"Chervin, Louis",
+320,,1935,,Carl Chiarenza,Carl,Chiarenza,American,"Chiarenza, Carl",500333278
+321,,1872,1920s/30s,Robert Coleman Child,Robert Coleman,Child,American,"Child, Robert Coleman",
+322,,1936,2016,William Christenberry,William,Christenberry,American,"Christenberry, William",500074045
+323,,1935,,Javachef* Christo,Javachef*,Christo,American (b. Bulgaria),"Christo, Javachef*",
+324,,1935,,Christo,,Christo,American b. Bulgaria,Christo,500115266
+325,,1928,1984,John Chumley,John,Chumley,American,"Chumley, John",
+326,,1894,1987,Nickolai Cikovsky,Nickolai,Cikovsky,American (b. Russia),"Cikovsky, Nickolai",500030276
+327,,,,Cikovsky,,Cikovsky,,Cikovsky,
+328,,1875,1969,Gustave E. Cimiotti,Gustave E.,Cimiotti,American,"Cimiotti, Gustave E.",
+329,,1969,,David Claerbout,David,Claerbout,Belgian,"Claerbout, David",500198348
+330,,1876,1949,Alson Skinner Clark,Alson Skinner,Clark,American,"Clark, Alson Skinner",500020848
+331,,1804,1887,Alvin Clark,Alvin,Clark,American,"Clark, Alvin",500009532
+332,,1952,,Francesco Clemente,Francesco,Clemente,Italian,"Clemente, Francesco",500116236
+333,,1807,1890,Ann Marian Clifford,Ann Marian,Clifford,American,"Clifford, Ann Marian",
+334,,1950,2003,Howard Clifford,Howard,Clifford,American,"Clifford, Howard",
+335,,1940,,Chuck Close,Chuck,Close,American,"Close, Chuck",500031023
+336,,1848,1926,William Baxter Palmer Closson,William Baxter Palmer,Closson,American,"Closson, William Baxter Palmer",500001829
+337,,1816,1871,Edmund Coates,Edmund,Coates,American,"Coates, Edmund",
+338,,1914,2008,Ruth Cobb,Ruth,Cobb,American,"Cobb, Ruth",
+339,,1906,,Gifford Cochran,Gifford,Cochran,American,"Cochran, Gifford",
+340,,ca. 1604,1870,Viviano (Circle Of) Codazzi,Viviano (Circle Of),Codazzi,Italian,"Codazzi, Viviano (Circle Of)",
+341,,1800,1842,Charles Codman,Charles,Codman,American,"Codman, Charles",500003290
+342,,1927,2013,Jean Cohen,Jean,Cohen,American,"Cohen, Jean",
+343,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;E. Weymouth, Mass. Herring Run Pottery. 1962-Joint winnter $500 purchase prize, Ceramic National, Everson Museum, Syracuse, N.Y. ... Schoo, Michigal...one of the most outstading young potters in America.&quot;",1936,,Michael Cohen,Michael,Cohen,American,"Cohen, Michael",
+344,,1935,,Harriet Goodwin Cohen,Harriet Goodwin,Cohen,American,"Cohen, Harriet Goodwin",
+345,,1927,,David Cohen,David,Cohen,American,"Cohen, David",
+346,,,,Mike Cohen,Mike,Cohen,,"Cohen, Mike",
+347,,1927,2013,Jean Cohen (Attributed To),Jean,Cohen (Attributed To),American,"Cohen (Attributed To), Jean",
+348,,1925,,James Coignard,James,Coignard,French,"Coignard, James",500089736
+349,,1837,1892,J(oseph) Foxcroft Cole,J(Oseph) Foxcroft,Cole,American,"Cole, J(oseph) Foxcroft",
+350,,1814,1858,Charles Octavius Cole,Charles Octavius,Cole,American,"Cole, Charles Octavius",
+351,,1801,1848,Thomas Cole,Thomas,Cole,American (b. England),"Cole, Thomas",500028323
+352,,,,John Coles,John,Coles,American,"Coles, John",
+353,,1926,1982,John Ireland Collins,John Ireland,Collins,American,"Collins, John Ireland",
+354,,1970,,Bonnie Collura,Bonnie,Collura,American,"Collura, Bonnie",500331566
+355,,1832,1920,Samuel Colman,Samuel,Colman,American,"Colman, Samuel",500031860
+356,,,,Maury Iii Colton,Maury Iii,Colton,American,"Colton, Maury Iii",
+357,,1918,1991,Walter Condit,Walter,Condit,American,"Condit, Walter",
+358,,1893,1970,Jay Hall Connaway,Jay Hall,Connaway,American,"Connaway, Jay Hall",500000605
+359,,,,Thomas Connolly,Thomas,Connolly,American,"Connolly, Thomas",
+360,,1776,1837,John Constable,John,Constable,English,"Constable, John",500115382
+361,,1901,1980,Howard (Norton) Cook,Howard (Norton),Cook,American,"Cook, Howard (Norton)",500010422
+362,,,,Alvin Cooke,Alvin,Cooke,American,"Cooke, Alvin",
+363,,1850,1938,D.D. Coombs,D.D.,Coombs,American,"Coombs, D.D.",500283741
+364,,1850,1938,D.D. Coombs,D.D.,Coombs,American,"Coombs, D.D.",500083859
+365,,1738,1815,John Singleton Copley,John Singleton,Copley,American,"Copley, John Singleton",500009177
+366,,1905,1964,Jon Corbino,Jon,Corbino,American,"Corbino, Jon",500008767
+367,,1858,1925,Lovis Corinth,Lovis,Corinth,German,"Corinth, Lovis",500115384
+368,,1903,1972,Joseph Cornell,Joseph,Cornell,American,"Cornell, Joseph",500003169
+369,,1937,2012,Thomas Cornell,Thomas,Cornell,American,"Cornell, Thomas",
+370,,1796,1875,Jean-Baptiste-Camille Corot,Jean-Baptiste-Camille,Corot,French,"Corot, Jean-Baptiste-Camille",500115390
+371,,1888,1972,John Edward Costigan,John Edward,Costigan,American,"Costigan, John Edward",500025727
+372,,1883,1969,Othon (Otakar) Coubine (Kubin),Othon (Otakar),Coubine (Kubin),French (b. Czechoslovakia),"Coubine (Kubin), Othon (Otakar)",
+373,,,,Charles Counts,Charles,Counts,,"Counts, Charles",
+374,,,,Bonnie Courtney,Bonnie,Courtney,,"Courtney, Bonnie",
+375,,1904,1957,Miguel Covarrubias,Miguel,Covarrubias,Mexican,"Covarrubias, Miguel",500122721
+376,,,,Alexander Coward,Alexander,Coward,American,"Coward, Alexander",
+377,,1863,1920,Albert Scott Cox,Albert Scott,Cox,American,"Cox, Albert Scott",
+378,,,,W.H.M. Cox,W.H.M.,Cox,,"Cox, W.H.M.",
+379,,1906,1978,Ralston Crawford,Ralston,Crawford,American,"Crawford, Ralston",500029588
+380,,1814,1857,Thomas Crawford,Thomas,Crawford,American,"Crawford, Thomas",500115277
+381,,1885,1964,Giovan Battista Crema,Giovan Battista,Crema,Italian,"Crema, Giovan Battista",500132955
+382,,1943,,Daphne Cummings,Daphne,Cummings,American,"Cummings, Daphne",
+383,,1915,1975,Willard W(arren) Cummings,Willard W(Arren),Cummings,American,"Cummings, Willard W(arren)",
+384,,1915,1975,Willard W. Cummings,Willard W.,Cummings,American,"Cummings, Willard W.",500048595
+385,,1915,1975,Willard W Cummings,Willard W,Cummings,American,"Cummings, Willard W",500048595
+386,,1915,1975,Willard W. Cummings,Willard W.,Cummings,American,"Cummings, Willard W.",500048595
+387,,1862,1911,Alger V. Currier,Alger V.,Currier,American,"Currier, Alger V.",
+388,,1897,1946,John Steuart Curry,John Steuart,Curry,American,"Curry, John Steuart",500115503
+389,,1921,,George Curtis,George,Curtis,American,"Curtis, George",
+390,,,,Dean Cushman,Dean,Cushman,American,"Cushman, Dean",
+391,,1873,1945,Carl Gordon Cutler,Carl Gordon,Cutler,American,"Cutler, Carl Gordon",
+392,,1914,1988,Charles Gordon Cutler,Charles Gordon,Cutler,American,"Cutler, Charles Gordon",
+393,,1914,1971,Charles Cutler,Charles,Cutler,American,"Cutler, Charles",
+394,,1865,1960,Leon Dabo,Leon,Dabo,American,"Dabo, Leon",500027049
+395,,1864,1955,Charles Dahlgreen,Charles,Dahlgreen,American,"Dahlgreen, Charles",
+396,,1868,,W.B. Dalton,W.B.,Dalton,English,"Dalton, W.B.",
+397,,1911,2002,George Daniell,George,Daniell,American,"Daniell, George",
+398,,1887,1979,Andrew Dasburg,Andrew,Dasburg,American (b. France),"Dasburg, Andrew",500019289
+399,,,,Daughter Of Mrs. Eliza Reed Skeel,,Daughter Of Mrs. Eliza Reed Skeel,American,Daughter Of Mrs. Eliza Reed Skeel,
+400,,1808,1879,Honore Daumier,Honore,Daumier,French,"Daumier, Honore",500117998
+401,,1887,1964,Randall Davey,Randall,Davey,American,"Davey, Randall",500003739
+402,,1862,1928,Arthur Davies,Arthur,Davies,American,"Davies, Arthur",
+403,,1944,,Scott Davis,Scott,Davis,American,"Davis, Scott",500022233
+404,,,,Raymond H. Davis,Raymond H.,Davis,American,"Davis, Raymond H.",
+405,,,,Joseph H. Davis,Joseph H.,Davis,American,"Davis, Joseph H.",
+406,,1920,1985,Gene Davis,Gene,Davis,American,"Davis, Gene",500012653
+407,,1892,1964,Stuart Davis,Stuart,Davis,American,"Davis, Stuart",500115507
+408,,1614,1676,Juan De Arellano,Juan,De Arellano,Spanish,"De Arellano, Juan",500005830
+409,,1930,2007,Roy De Forest,Roy,De Forest,American,"De Forest, Roy",
+410,,1856,1934,Franklin De Haven,Franklin,De Haven,American,"De Haven, Franklin",500016212
+411,,1930,2012,Raoul De Keyser,Raoul,De Keyser,Belgian,"De Keyser, Raoul",500085469
+412,,1911,,Eleanor De Laittre,Eleanor,De Laittre,American,"De Laittre, Eleanor",500054151
+413,,ca. 1911,,Michael De Lisio,Michael,De Lisio,American,"De Lisio, Michael",500102513
+414,,1922,1993,"Robert De Niro, Sr.",Robert,"De Niro, Sr.",American,"De Niro, Sr., Robert",500002287
+415,,1880,1936,Dey De Ribcowsky,Dey,De Ribcowsky,American (b. Bulgaria),"De Ribcowsky, Dey",
+416,,1947,,Ruth Dealy,Ruth,Dealy,American,"Dealy, Ruth",
+417,,1939,1993,Peter Dean,Peter,Dean,American,"Dean, Peter",500027530
+418,,,,Degrazia,,Degrazia,,Degrazia,
+419,,1895,1968,Adolf Dehn,Adolf,Dehn,American,"Dehn, Adolf",500009264
+420,,1798,1863,Eugene Delacroix,Eugene,Delacroix,French,"Delacroix, Eugene",500115509
+421,,1885,1941,Robert (-Victor-Felix) Delaunay,Robert (-Victor-Felix),Delaunay,French,"Delaunay, Robert (-Victor-Felix)",
+422,,1793,1848,Charles Claude Delaye,Charles Claude,Delaye,French,"Delaye, Charles Claude",500006610
+423,,,,S Dell,S,Dell,English,"Dell, S",
+424,,1897,1994,Paul Delvaux,Paul,Delvaux,French (b. Belgium),"Delvaux, Paul",500017335
+425,,1896,1984,Joseph Demartini,Joseph,Demartini,American,"Demartini, Joseph",
+426,,1933,,Deborah Demoulpied,Deborah,Demoulpied,American,"Demoulpied, Deborah",
+427,,,,Denby Stoneware,,Denby Stoneware,English,Denby Stoneware,
+428,,1870,1943,Maurice Denis,Maurice,Denis,French,"Denis, Maurice",500032673
+429,,1880,1954,Andre Derain,Andre,Derain,French,"Derain, Andre",500004535
+430,,1946,,David Dewey,David,Dewey,American,"Dewey, David",500091204
+431,,1933,,Mark di Suvero,Mark,di Suvero,American (b. China),"di Suvero, Mark",500013375
+432,,1944,,Martha Diamond,Martha,Diamond,American,"Diamond, Martha",500115011
+433,,1891,1930,Preston Dickinson,Preston,Dickinson,American,"Dickinson, Preston",500124280
+434,,1953,,Philip-Lorca Dicorcia,Philip-Lorca,Dicorcia,American,"Dicorcia, Philip-Lorca",500115594
+435,,1922,1993,Richard Diebenkorn,Richard,Diebenkorn,American,"Diebenkorn, Richard",500025721
+436,,1884,1953,Hunt (Wilhelm) Diederich,Hunt (Wilhelm),Diederich,American (b. Hungary),"Diederich, Hunt (Wilhelm)",500019593
+437,,1916,1971,Gerard Dillon,Gerard,Dillon,Irish,"Dillon, Gerard",500019210
+438,,1935,,Jim Dine,Jim,Dine,American,"Dine, Jim",500028463
+439,,,,Lisa Dinhofer,Lisa,Dinhofer,American,"Dinhofer, Lisa",
+440,,1917,,John Dirks,John,Dirks,American,"Dirks, John",
+441,,1915,,Louis Frank Dlugosz,Louis Frank,Dlugosz,American,"Dlugosz, Louis Frank",
+442,,1927,,Lois Dodd,Lois,Dodd,American,"Dodd, Lois",500016864
+443,,1909,1996,Lamar Dodd,Lamar,Dodd,American,"Dodd, Lamar",500029450
+444,,1835,1903,Joseph Henry Dolph,Joseph Henry,Dolph,American,"Dolph, Joseph Henry",
+445,,1900,1992,Cesar Domela,Cesar,Domela,Dutch,"Domela, Cesar",500007460
+446,,1793,1856,Thomas Doughty,Thomas,Doughty,American,"Doughty, Thomas",500031561
+447,,1880,1946,Arthur Dove,Arthur,Dove,American,"Dove, Arthur",
+448,,1939,,Rackstraw Downes,Rackstraw,Downes,"American, b. England","Downes, Rackstraw",500075282
+449,,1904,1987,Otis Dozier,Otis,Dozier,American,"Dozier, Otis",500331590
+450,,1898,1992,Elsie Driggs,Elsie,Driggs,American,"Driggs, Elsie",500012280
+451,,1931,,David Clyde Driskell,David Clyde,Driskell,American,"Driskell, David Clyde",500077890
+452,,1586,1666,Joost Cornelisz Droochsloot,Joost Cornelisz,Droochsloot,Dutch,"Droochsloot, Joost Cornelisz",500026231
+453,,1884,1958,Guy P&#232;ne du Bois,Guy P&#232;ne,du Bois,American,"du Bois, Guy P&#232;ne",500120494
+454,,1926,2015,Charles DuBack,Charles,DuBack,American,"DuBack, Charles",
+455,,A. 1786,1838,M. Dubourg,M.,Dubourg,English,"Dubourg, M.",
+456,,1877,1953,Raoul Dufy,Raoul,Dufy,French,"Dufy, Raoul",500024166
+457,,1615,1675,Gaspard Dughet,Gaspard,Dughet,"French, b. Italy","Dughet, Gaspard",500115515
+458,,1882,1953,Harold C. Dunbar,Harold C.,Dunbar,American,"Dunbar, Harold C.",
+459,,1949,,Carroll Dunham,Carroll,Dunham,American,"Dunham, Carroll",500110733
+460,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Mt. Desert, ME. Well-known potter and sculptor...Exhibited-University of Maine, Art Institute of Chicago, Portland Museum of Art, Boston Arts Festival, University of Minnesota, Colby College.&quot;",,,Robert Dunlap,Robert,Dunlap,,"Dunlap, Robert",
+461,,,,Dunlaps,,Dunlaps,,Dunlaps,
+462,,1471,1528,Albrecht Durer,Albrecht,Durer,German,"Durer, Albrecht",500115493
+463,,1751,1801,Ralph Earl,Ralph,Earl,American,"Earl, Ralph",500116241
+464,,1916,2000,Eyvind Earle,Eyvind,Earle,American,"Earle, Eyvind",500004530
+465,,,,Jeannie Eberhardt,Jeannie,Eberhardt,American,"Eberhardt, Jeannie",
+466,,1872,1959,Charles H. Ebert,Charles H.,Ebert,American,"Ebert, Charles H.",500065622
+467,,1889,1946,Kerr Eby,Kerr,Eby,American,"Eby, Kerr",500032926
+468,,1864,1941,Louis Michel Eilshemius,Louis Michel,Eilshemius,American,"Eilshemius, Louis Michel",500030951
+469,,1756,1829,Eishi,,Eishi,Japanese,Eishi,
+470,,1906,1984,Dorothy (Mcdonald) Eisner,Dorothy (Mcdonald),Eisner,American,"Eisner, Dorothy (Mcdonald)",
+471,,,,Elisofon,,Elisofon,,Elisofon,
+472,,1919,,James Elliott,James,Elliott,American,"Elliott, James",
+473,,,,Emily Schorr Elman,Emily Schorr,Elman,American,"Elman, Emily Schorr",
+474,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Springvale, ME. Stundet of Edwin Scheier, University of New Hampshire...Studied at Alfred Univ...Exhibited in many national shows...Guest exhibitor, American Craftsman touring India...1961-Judge, Potters Guild League of New Hampshire, Art &amp; Crafts Fair, Dartmouth College.&quot;",,,John Emery,John,Emery,,"Emery, John",
+475,,1864,1956,James Emery,James,Emery,American,"Emery, James",
+476,,1858,1937,Chansonetta Stanley Emmons,Chansonetta Stanley,Emmons,American,"Emmons, Chansonetta Stanley",500093091
+477,,1959,,Bevin Engman,Bevin,Engman,American,"Engman, Bevin",
+478,,1841,1916,John Enneking,John,Enneking,American,"Enneking, John",
+479,,1884,1936,George Pearse Ennis,George Pearse,Ennis,American,"Ennis, George Pearse",500018447
+480,,1952,,Mitch Epstein,Mitch,Epstein,American,"Epstein, Mitch",500088979
+481,,1901,1975,Elizabeth Erlanger,Elizabeth,Erlanger,American,"Erlanger, Elizabeth",
+482,,1942,,Karen Eskesen,Karen,Eskesen,American,"Eskesen, Karen",
+483,,1932,,Richard Estes,Richard,Estes,American,"Estes, Richard",500007462
+484,,,,Tamar Etingen,Tamar,Etingen,American,"Etingen, Tamar",
+485,,1903,1984,Stephen Etnier,Stephen,Etnier,American,"Etnier, Stephen",
+486,,,,J. Evans,J.,Evans,American,"Evans, J.",500000588
+487,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;N. Las Vegas, Nev. True pottery-made at the Desert Sands Pottery, from natural colored clays found in the mountains of the desert-not painted...Five generations of potters within the family...Started in the Ozark Hills of Missouri before the Civil War.&quot;",,,Terrell Evans,Terrell,Evans,American,"Evans, Terrell",
+488,,1901,1973,Philip Howard Evergood,Philip Howard,Evergood,American,"Evergood, Philip Howard",
+489,,1882,1949,Alexandra Exter,Alexandra,Exter,Russian,"Exter, Alexandra",
+490,,1915,,Marcello Fantoni,Marcello,Fantoni,Italian,"Fantoni, Marcello",500129323
+491,,1871,1956,Lyonel (Charles Adrian) Feininger,Lyonel (Charles Adrian),Feininger,American,"Feininger, Lyonel (Charles Adrian)",
+492,,ca. 1705,1752,Robert Feke (Attributed To),Robert,Feke (Attributed To),American,"Feke (Attributed To), Robert",
+493,,,,Pamelia Fenton,Pamelia,Fenton,American,"Fenton, Pamelia",
+494,,,,Ferber,,Ferber,,Ferber,
+495,,1933,,Rafael Ferrer,Rafael,Ferrer,Puerto Rican,"Ferrer, Rafael",500070290
+496,,1873,1922,Hamilton Easter Field,Hamilton Easter,Field,American,"Field, Hamilton Easter",500011769
+497,,1894,1966,Ernest Fiene,Ernest,Fiene,American,"Fiene, Ernest",500000832
+498,,,1850,E. E. Finch,E. E.,Finch,American,"Finch, E. E.",
+499,,1921,2006,Herbert L. Fink,Herbert L.,Fink,American,"Fink, Herbert L.",
+500,,1921,2006,Herbert Fink,Herbert,Fink,American,"Fink, Herbert",
+501,,1925,,Joseph Fiore,Joseph,Fiore,American,"Fiore, Joseph",
+502,,1440,1499,Adriano Fiorentino (Attributed To),Adriano,Fiorentino (Attributed To),Italian,"Fiorentino (Attributed To), Adriano",
+503,,1948,,Eric Fischl,Eric,Fischl,American,"Fischl, Eric",500023590
+504,,1938,,Janet Fish,Janet,Fish,American,"Fish, Janet",500030854
+505,,1768,1847,Jonathan Fisher,Jonathan,Fisher,American,"Fisher, Jonathan",500089691
+506,,1878,1961,Gertrude Fiske,Gertrude,Fiske,American,"Fiske, Gertrude",500017507
+507,,1917,2004,Clark Fitzgerald,Clark,Fitzgerald,American,"Fitzgerald, Clark",
+508,,1933,1996,Dan Flavin,Dan,Flavin,American,"Flavin, Dan",500021736
+509,,1755,1826,John Flaxman,John,Flaxman,English,"Flaxman, John",500115449
+510,,1944,,Richard Fleischner,Richard,Fleischner,American,"Fleischner, Richard",500126189
+511,,,,J.G. Fletcher,J.G.,Fletcher,,"Fletcher, J.G.",
+512,,1912,,Liza Foner,Liza,Foner,American,"Foner, Liza",
+513,,1933,,Franco Fontana,Franco,Fontana,Italian,"Fontana, Franco",500104162
+514,,1852,1931,Jean-Louis Forain,Jean-Louis,Forain,French,"Forain, Jean-Louis",500115211
+515,,1934,,Llyn Foulkes,Llyn,Foulkes,American,"Foulkes, Llyn",500003139
+516,,1809,1898,Obed Rice Fowler,Obed Rice,Fowler,American,"Fowler, Obed Rice",
+517,,1922,2012,Gray Foy,Gray,Foy,American,"Foy, Gray",
+518,"Work attributed to Follower of Frencesco Francia, Francesco Francia&#39;s dates were 1450 - c. 1517/18",,,Francia (Follower),,Francia (Follower),Italian,Francia (Follower),
+519,,1967,,Michele Francis,Michele,Francis,American,"Francis, Michele",
+520,,1941,,Patt Franklin,Patt,Franklin,American,"Franklin, Patt",
+521,,1919,2013,Antonio Frasconi,Antonio,Frasconi,Uruguayan,"Frasconi, Antonio",500030189
+522,,1876,1953,James Earle Fraser,James Earle,Fraser,American,"Fraser, James Earle",500010541
+523,,1886,1966,Hans Freese,Hans,Freese,German,"Freese, Hans",
+524,,1924,,Jane Freilicher,Jane,Freilicher,American,"Freilicher, Jane",500017408
+525,,1919,2000,Ray H. French,Ray H.,French,American,"French, Ray H.",
+526,,1850,1931,Daniel Chester French,Daniel Chester,French,American,"French, Daniel Chester",500009434
+527,,1681,1752,Jakob Frey,Jakob,Frey,Swiss,"Frey, Jakob",
+528,,1899,1981,Berndt Friberg,Berndt,Friberg,Swedish,"Friberg, Berndt",
+529,,1924,1991,Elias Friedensohn,Elias,Friedensohn,American,"Friedensohn, Elias",500015158
+530,,1948,,Nancy Friese,Nancy,Friese,American,"Friese, Nancy",
+531,,1967,,Denise Froehlich,Denise,Froehlich,American,"Froehlich, Denise",
+532,,1812,1873,Augustus Fuller,Augustus,Fuller,American,"Fuller, Augustus",
+533,,1913,2003,Edwin Fulwider,Edwin,Fulwider,American,"Fulwider, Edwin",
+534,,1741,1825,Henry Fuseli,Henry,Fuseli,Swiss,"Fuseli, Henry",500115235
+535,,1913,1993,Galo Galecio,Galo,Galecio,Ecuadorian,"Galecio, Galo",500117520
+536,,1869,1955,Sears Gallagher,Sears,Gallagher,American,"Gallagher, Sears",500335769
+537,,,,M.G. Galland,M.G.,Galland,American,"Galland, M.G.",
+538,,1887,1964,Roy C. Gamble,Roy C.,Gamble,American,"Gamble, Roy C.",500034150
+539,,1734,1802,Gaetano Gandolfi,Gaetano,Gandolfi,Italian,"Gandolfi, Gaetano",500005315
+540,,1916,2006,William Garnett,William,Garnett,American,"Garnett, William",
+541,,1887,1969,Julian E(llsworth) Garnsey,Julian E(llsworth),Garnsey,American,"Garnsey, Julian E(llsworth)",
+542,,1891,1915,Henri Gaudier-Brzeska,Henri,Gaudier-Brzeska,French,"Gaudier-Brzeska, Henri",500115741
+543,,1804,1866,Sulpice-Guillaume Hippolyte Chevalier Gavarni,Sulpice-Guillaume Hippolyte Chevalier,Gavarni,French,"Gavarni, Sulpice-Guillaume Hippolyte Chevalier",
+544,,1856,1937,Walter Gay,Walter,Gay,American,"Gay, Walter",500032023
+545,,1918,,Thomas George,Thomas,George,American,"George, Thomas",500020554
+546,,1865,1934,Vesper E. George,Vesper E.,George,American,"George, Vesper E.",
+547,,1924,2012,Panos Ghikas,Panos,Ghikas,American,"Ghikas, Panos",
+548,,1939,,Ralph Gibson,Ralph,Gibson,American,"Gibson, Ralph",500094623
+549,,1818,1832,Ashiyuki Gigado,Ashiyuki,Gigado,Japanese,"Gigado, Ashiyuki",
+550,,1915,1982,Ruth Gikow,Ruth,Gikow,American,"Gikow, Ruth",500008732
+551,,1876,1955,Howard Giles,Howard,Giles,American,"Giles, Howard",500016173
+552,,1936,2000,Gregory Gillespie,Gregory,Gillespie,American,"Gillespie, Gregory",500019458
+553,,1634,1705,Luca Giordano,Luca,Giordano,Italian,"Giordano, Luca",500115457
+554,,1870,1938,William Glackens,William,Glackens,American,"Glackens, William",
+555,,,,Judy Ellis Glickman,Judy Ellis,Glickman,American,"Glickman, Judy Ellis",
+556,,1800,1877,Ira Chaffee Goodel,Ira Chaffee,Goodel,American,"Goodel, Ira Chaffee",500087525
+557,,1909,1989,Henri Goetz,Henri,Goetz,American,"Goetz, Henri",
+558,,1911,,Lloyd Goff,Lloyd,Goff,American,"Goff, Lloyd",
+559,,1953,,Jim Goldberg,Jim,Goldberg,American,"Goldberg, Jim",500073957
+560,,,,T. Goldsmith,T.,Goldsmith,American,"Goldsmith, T.",
+561,,1869,1944,Anne Goldthwaite,Anne,Goldthwaite,American,"Goldthwaite, Anne",500027445
+562,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Pauma Valley, Calif. A recorder of Indian folklore on ceramic surfaces at the Rincon Reservation...Her Indian Kachina Mask portrays the &quot;Great Spirit&quot; that brings good luck.&quot;",1901,1992,Genevieve Golsh,Genevieve,Golsh,American,"Golsh, Genevieve",
+563,,1558,1617,Hendrik Goltzius,Hendrik,Goltzius,Dutch,"Goltzius, Hendrik",500023327
+564,,1922,2004,Leon Golub,Leon,Golub,American,"Golub, Leon",500003430
+565,,1970,,Juan Gomez,Juan,Gomez,"American, b. Colombia","Gomez, Juan",
+566,,1864,1929,Arthur Clifton Goodwin,Arthur Clifton,Goodwin,American,"Goodwin, Arthur Clifton",500026360
+567,,1966,,Douglas Gordon,Douglas,Gordon,Scottish,"Gordon, Douglas",500115974
+568,,,,Gorham,,Gorham,American (Providence R.I.),Gorham,
+569,,1953,,April Gornik,April,Gornik,American,"Gornik, April",500118770
+570,,,,I.G. (?) Gosian (?),I.G. (?),Gosian (?),Mexican,"Gosian (?), I.G. (?)",
+571,,1879/1883,1934,Leopold Gottlieb,Leopold,Gottlieb,Polish,"Gottlieb, Leopold",500094346
+572,,1903,1974,Adolph Gottlieb,Adolph,Gottlieb,American,"Gottlieb, Adolph",500004904
+573,,1967,,Elijah Gowin,Elijah,Gowin,American,"Gowin, Elijah",500345874
+574,,1746,1828,Francisco (Jos&#233; de) Goya (y Lucientes),Francisco (Jos&#233; de),Goya (y Lucientes),Spanish,"Goya (y Lucientes), Francisco (Jos&#233; de)",
+575,,1849,1893,Clement R. Grant,Clement R.,Grant,American,"Grant, Clement R.",500027311
+576,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;New York, N.Y. Winnter of many distinguished awards...His paintings are in the Museum of Modern Art, Library of Congress, White House, Annapolis Naval Academy and many private collections...Painted murals in U.S Post Office, Kennebunkport, Maine.&quot;",,,Gordon Grant,Gordon,Grant,,"Grant, Gordon",
+577,,1939,1995,Nancy Graves,Nancy,Graves,American,"Graves, Nancy",500001464
+578,,1927,,David Wayne Gray,David Wayne,Gray,American,"Gray, David Wayne",
+579,,1918,2004,Cleve Gray,Cleve,Gray,American,"Gray, Cleve",500017477
+580,,1929,,Harry Greaver,Harry,Greaver,American,"Greaver, Harry",
+581,,1918,1999,Stephan Greene,Stephan,Greene,American,"Greene, Stephan",500027001
+582,,1966,,Lauren Greenfield,Lauren,Greenfield,American,"Greenfield, Lauren",500349177
+583,,1769,1821,Benjamin Greenleaf,Benjamin,Greenleaf,American,"Greenleaf, Benjamin",500077864
+584,,1942,,Mark Greenwold,Mark,Greenwold,American,"Greenwold, Mark",500075973
+585,,1779,1854,Ethan Allen Greenwood,Ethan Allen,Greenwood,American,"Greenwood, Ethan Allen",500000162
+586,,1727,1792,John Greenwood,John,Greenwood,American,"Greenwood, John",500003306
+587,,1857,1927,Joseph H. Greenwood,Joseph H.,Greenwood,American,"Greenwood, Joseph H.",500062227
+588,,1725,1805,Jean-Baptiste Greuze,Jean-Baptiste,Greuze,French,"Greuze, Jean-Baptiste",500000119
+589,,1861,1935,Walter Griffin,Walter,Griffin,American,"Griffin, Walter",500024634
+590,,,,G.J. Griffin,G.J.,Griffin,American,"Griffin, G.J.",
+591,,1917,2014,John Grillo,John,Grillo,American,"Grillo, John",500013270
+592,,1937,,Red Grooms,Red,Grooms,American,"Grooms, Red",500008450
+593,,1904,1991,Chaim Gross,Chaim,Gross,American (b. Austria),"Gross, Chaim",500033064
+594,,1921,1969,Sidney Gross,Sidney,Gross,American,"Gross, Sidney",
+595,,1903,1986,Maurice Grosser,Maurice,Grosser,American,"Grosser, Maurice",
+596,,1882,1931,Rudolf Grossman,Rudolf,Grossman,German,"Grossman, Rudolf",500018748
+597,,1893,1959,George Grosz,George,Grosz,American (b. Germany),"Grosz, George",500014558
+598,,1909,1988,Zvavar Gudnason,Zvavar,Gudnason,Icelandic,"Gudnason, Zvavar",500100530
+599,,1929,,Henry Guerriero,Henry,Guerriero,American,"Guerriero, Henry",
+600,,1873,1958,Olaf Gulbrannsson,Olaf,Gulbrannsson,Norwegian,"Gulbrannsson, Olaf",500019095
+601,,1913,1980,Philip Guston,Philip,Guston,American (b. Canada),"Guston, Philip",500023901
+602,,1835,1921,Axel H. Haig,Axel H.,Haig,Swedish,"Haig, Axel H.",500032599
+603,,1865,1931,Philip Leslie Hale,Philip Leslie,Hale,American,"Hale, Philip Leslie",500015514
+604,,,,Patience Haley,Patience,Haley,American,"Haley, Patience",
+605,,1825,1913,George Henry Hall,George Henry,Hall,American,"Hall, George Henry",500020108
+606,,,,G. R. Hall,G. R.,Hall,American,"Hall, G. R.",
+607,,1923,2013,Beverly Hallam,Beverly,Hallam,American,"Hallam, Beverly",
+608,,1872,1926,George Hallowell,George,Hallowell,American,"Hallowell, George",
+609,,1917,2002,Francis E. Hamabe,Francis E.,Hamabe,American,"Hamabe, Francis E.",
+610,,1837,1856,Sturtevant J. Hamblen,Sturtevant J.,Hamblen,,"Hamblen, Sturtevant J.",500005815
+611,,1904,1985,Natalie Hays Hammond,Natalie Hays,Hammond,American,"Hammond, Natalie Hays",500102405
+612,,,,Marc Hansen,Marc,Hansen,American,"Hansen, Marc",
+613,,1940,,Dewitt Hardy,Dewitt,Hardy,American,"Hardy, Dewitt",500029804
+614,,1809,1887,Mary Ann Hardy,Mary Ann,Hardy,American,"Hardy, Mary Ann",
+615,,,,Pat Schloz Hardy,Pat Schloz,Hardy,American,"Hardy, Pat Schloz",
+616,,1839,1934,Annie Eliza Hardy,Annie Eliza,Hardy,American,"Hardy, Annie Eliza",500030242
+617,,1800,1888,Jeremiah Pearson Hardy,Jeremiah Pearson,Hardy,American,"Hardy, Jeremiah Pearson",500000213
+618,,1877,1933,Walter Manley Hardy,Walter Manley,Hardy,American,"Hardy, Walter Manley",
+619,,1800,1888,Jeremiah Hardy,Jeremiah,Hardy,American,"Hardy, Jeremiah",
+620,,,1860,Joseph T. Harris,Joseph T.,Harris,American,"Harris, Joseph T.",
+621,,1914,2003,Vincent Andrew Hartgen,Vincent Andrew,Hartgen,American,"Hartgen, Vincent Andrew",
+622,,1877,1943,Marsden Hartley,Marsden,Hartley,American,"Hartley, Marsden",500012910
+623,,1940,,Susan Hartnett,Susan,Hartnett,American,"Hartnett, Susan",500332831
+624,,1876,1925,Ernest Haskell,Ernest,Haskell,American,"Haskell, Ernest",500008382
+625,,1884,,Bernhard Hasler,Bernhard,Hasler,German,"Hasler, Bernhard",500332710
+626,,1859,1935,Childe Hassam,Childe,Hassam,American,"Hassam, Childe",500018088
+627,,,,Mrs. S. Hasselbarth,Mrs. S.,Hasselbarth,American,"Hasselbarth, Mrs. S.",
+628,,1920,1998,John Hatch,John,Hatch,American,"Hatch, John",
+629,,1856,1901,Charles Henry Hayden,Charles Henry,Hayden,American,"Hayden, Charles Henry",500006215
+630,,1949,,Larry Hayden,Larry,Hayden,American,"Hayden, Larry",
+631,,1901,1988,Stanley William Hayter,Stanley William,Hayter,English,"Hayter, Stanley William",500010689
+632,,1883,1970,Erich Heckel,Erich,Heckel,German,"Heckel, Erich",500032971
+633,,1867,1948,Thomas Theodor Heine,Thomas Theodor,Heine,German,"Heine, Thomas Theodor",500031323
+634,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: For Vivika &amp; Otto Heino. &quot;Los Angeles, Calif. Exhibited at Ostend Exhibition, Belgium; International Academy of Ceramics, Cannes International Show and many national and international shows...Vivika Heino is a Southwest Craftsman Trustee and a member of the American Craftsman Council...Both are on the staff of the University of S. California.&quot;",1910,1995,Vivika Heino,Vivika,Heino,American,"Heino, Vivika",
+635,,1891,1965,Arthur William Heintzelman,Arthur William,Heintzelman,American,"Heintzelman, Arthur William",500057101
+636,,1909,2000,John (Edward) Heliker,John (Edward),Heliker,American,"Heliker, John (Edward)",500018919
+637,,1865,1929,Robert Henri,Robert,Henri,American,"Henri, Robert",500005486
+638,,1841,1919,E. W. Henry,E. W.,Henry,American,"Henry, E. W.",
+639,,1921,1979,Hopkins Hensel,Hopkins,Hensel,American,"Hensel, Hopkins",500054273
+640,,,,G. Henwood,G.,Henwood,,"Henwood, G.",
+641,,1832,1932,Herman Herzog,Herman,Herzog,German,"Herzog, Herman",500024743
+642,,1875,1931,Otto Hettner,Otto,Hettner,German,"Hettner, Otto",500103843
+643,,1946,,Charles Hewitt,Charles,Hewitt,American,"Hewitt, Charles",
+644,,1823,1890,Thomas Hicks,Thomas,Hicks,American,"Hicks, Thomas",500018244
+645,,,,Yauchi Hidemine,Yauchi,Hidemine,Japanese,"Hidemine, Yauchi",
+646,,,,Alison Hildreth,Alison,Hildreth,American,"Hildreth, Alison",
+647,,1812,1879,John William Hill,John William,Hill,"American, b. England","Hill, John William",500002786
+648,,1951,,Gary Hill,Gary,Hill,American,"Hill, Gary",500061240
+649,,1813,1896,Thomas Hewes Hinckley,Thomas Hewes,Hinckley,American,"Hinckley, Thomas Hewes",500009040
+650,,1880,1957,Arthur Mayger Hind,Arthur Mayger,Hind,English,"Hind, Arthur Mayger",500004425
+651,,1797,1858,Utagawa (Ando) Hiroshige,Utagawa (Ando),Hiroshige,Japanese,"Hiroshige, Utagawa (Ando)",500019641
+652,,1910,1981,Joseph Hirsch,Joseph,Hirsch,American,"Hirsch, Joseph",500011505
+653,,1937,,David Hockney,David,Hockney,English,"Hockney, David",500017273
+654,,1878,1955,Karl Hofer,Karl,Hofer,German,"Hofer, Karl",500015138
+655,,1878,1955,Carl Hofer,Carl,Hofer,German,"Hofer, Carl",500015138
+656,,1922,2009,Evelyn Hofer,Evelyn,Hofer,"American, b. Germany","Hofer, Evelyn",500012210
+657,,1964,,Irene Hohenbuchler,Irene,Hohenbuchler,Austrian,"Hohenbuchler, Irene",500344957
+658,,1760,1849,Hokusai (Copy),,Hokusai (Copy),Japanese,Hokusai (Copy),
+659,,1805,1873,Jonas Holman,Jonas,Holman,American,"Holman, Jonas",
+660,,1861,,H. Holtzbecher,H.,Holtzbecher,German,"Holtzbecher, H.",500146459
+661,,1950,,Jenny Holzer,Jenny,Holzer,American,"Holzer, Jenny",500047276
+662,,1836,1910,Winslow Homer,Winslow,Homer,American,"Homer, Winslow",500019202
+663,,1604,1653,Gysbert Hondecoeter,Gysbert,Hondecoeter,Dutch,"Hondecoeter, Gysbert",
+664,,1920,,Mervin Honig,Mervin,Honig,American,"Honig, Mervin",500078802
+665,,1789,1844,Milton William Hopkins,Milton William,Hopkins,American,"Hopkins, Milton William",
+666,,1882,1967,Edward Hopper,Edward,Hopper,American,"Hopper, Edward",500031212
+667,,1758,1810,John Hoppner,John,Hoppner,English,"Hoppner, John",500013173
+668,,1935,2002,Jerry Horning,Jerry,Horning,American,"Horning, Jerry",
+669,,1865,1936,William Samuel Horton,William Samuel,Horton,American,"Horton, William Samuel",500024326
+670,,,,C.L. Horton,C.L.,Horton,American,"Horton, C.L.",
+671,,1872,1960,B. K. Howard,B. K.,Howard,American,"Howard, B. K.",
+672,,1895,1974,Isabella Howland,Isabella,Howland,American,"Howland, Isabella",
+673,,1950,,Tehching Hsieh,Tehching,Hsieh,American (b. China),"Hsieh, Tehching",500090725
+674,,1876,1951,Charles Daniel Hubbard,Charles Daniel,Hubbard,American,"Hubbard, Charles Daniel",500058866
+675,,1965,,Salomon Huerta,Salomon,Huerta,Mexican,"Huerta, Salomon",500114641
+676,,1922,2005,John Hultberg,John,Hultberg,American,"Hultberg, John",500030565
+677,,1962,,Gary Hume,Gary,Hume,English,"Hume, Gary",500115026
+678,,1824,1879,William Morris Hunt,William Morris,Hunt,American,"Hunt, William Morris",500007307
+679,,,,H. P. Hunt,H. P.,Hunt,American,"Hunt, H. P.",
+680,,1935,,Richard Hunt,Richard,Hunt,American,"Hunt, Richard",
+681,,,,Abby Huntoon,Abby,Huntoon,American,"Huntoon, Abby",
+682,,1932,,Sidney Hurwitz,Sidney,Hurwitz,American,"Hurwitz, Sidney",500058201
+683,,1938,,Howard Hussey,Howard,Hussey,American,"Hussey, Howard",
+684,,1766,1855,Isaac Hutton,Isaac,Hutton,American,"Hutton, Isaac",
+685,,1962,,Pierre Huyghe,Pierre,Huyghe,French,"Huyghe, Pierre",500116146
+686,,1928,,Robert Indiana,Robert,Indiana,American,"Indiana, Robert",500015478
+687,,1944,,William Ingham,William,Ingham,American,"Ingham, William",
+688,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Greene, ME. Operates Hiyoshi Kiln in Maine...specializes in Shibui Stoneware...exhibited widely...One man shows: University of Maine...Represented in Maine Crafts Exhibit, Colby College.&quot;",,,Caroline Ingraham,Caroline,Ingraham,,"Ingraham, Caroline",
+689,,1825,1894,George Inness,George,Inness,American,"Inness, George",
+690,,1917,,Dahlov Ipcar,Dahlov,Ipcar,American,"Ipcar, Dahlov",500054407
+691,,1922,2002,Angelo Ippolito,Angelo,Ippolito,American (b.Italy),"Ippolito, Angelo",500026998
+692,,1913,,Lewis Iselin,Lewis,Iselin,American,"Iselin, Lewis",
+693,,1590/1608,1661,Israel Henriet,Israel,Henriet,French,"Henriet, Israel",500082521
+694,,,,D.H. J,D.H.,J,,"J, D.H.",
+695,,1947,,Nancy Jacob,Nancy,Jacob,American,"Jacob, Nancy",
+696,,1934,,Yvonne Jacquette,Yvonne,Jacquette,American,"Jacquette, Yvonne",
+697,,1888,1944,Wilhelm Jaeckel,Wilhelm,Jaeckel,German,"Jaeckel, Wilhelm",500028573
+698,,,,J&#39;alto,,J&#39;alto,Danish,J&#39;alto,
+699,,1960,,Merlin James,Merlin,James,English,"James, Merlin",500329176
+700,,1930,,Philip J. Jameson,Philip J.,Jameson,American,"Jameson, Philip J.",
+701,,1945,,Joel Janowitz,Joel,Janowitz,American,"Janowitz, Joel",500072415
+702,,1885,1958,Franz M. Jansen,Franz M.,Jansen,German,"Jansen, Franz M.",500084362
+703,,1883,1956,Richard Janthur,Richard,Janthur,German,"Janthur, Richard",500148179
+704,,1780,1841,John Wesley Jarvis (Attributed To),John Wesley,Jarvis (Attributed To),"b. England, Painted In America","Jarvis (Attributed To), John Wesley",
+705,,1955,,David Jeffrey,David,Jeffrey,American,"Jeffrey, David",
+706,,1945,,Bill Jensen,Bill,Jensen,American,"Jensen, Bill",500062279
+707,,1927,2009,Joseph Jeswald,Joseph,Jeswald,American,"Jeswald, Joseph",
+708,,1824,1906,Eastman Johnson,Eastman,Johnson,American,"Johnson, Eastman",500008685
+709,,1927,1995,Ray Johnson,Ray,Johnson,American,"Johnson, Ray",500006906
+710,,1919,2010,Lester Johnson,Lester,Johnson,American,"Johnson, Lester",
+711,,1936,,Joan Jonas,Joan,Jonas,American,"Jonas, Joan",500058309
+712,,1909,1963,Joe Jones,Joe,Jones,American,"Jones, Joe",500124294
+713,,1782,1854,John B. Jones,John B.,Jones,American,"Jones, John B.",
+714,,?,,Michael Joseph,Michael,Joseph,American,"Joseph, Michael",
+715,,1928,1994,Donald Judd,Donald,Judd,American,"Judd, Donald",500010358
+716,,1912,,Jeannette Judson,Jeannette,Judson,American,"Judson, Jeannette",
+717,,,,Jugtown Ware,,Jugtown Ware,,Jugtown Ware,
+718,,1960,,Isaac Julien,Isaac,Julien,English,"Julien, Isaac",500122504
+719,,1881,1965,L.H. Jungnickel,L.H.,Jungnickel,German,"Jungnickel, L.H.",500002313
+720,,1952,,Tobi Kahn,Tobi,Kahn,American,"Kahn, Tobi",500089598
+721,,,,Kaipianen,,Kaipianen,Finish,Kaipianen,
+722,,1921,,Clemens Kalischer,Clemens,Kalischer,German,"Kalischer, Clemens",500343279
+723,,1912,1985,Henry Kallem,Henry,Kallem,American,"Kallem, Henry",
+724,,,,Norman Kanter,Norman,Kanter,American,"Kanter, Norman",
+725,,1953,,David Kapp,David,Kapp,American,"Kapp, David",500089801
+726,,1886,1952,Bernard Karfiol,Bernard,Karfiol,American,"Karfiol, Bernard",500018085
+727,,1956,,Karen Karnes,Karen,Karnes,American,"Karnes, Karen",
+728,,1952,,Barbara Kassel,Barbara,Kassel,American,"Kassel, Barbara",500331896
+729,,1968,,Nina Katchadourian,Nina,Katchadourian,American,"Katchadourian, Nina",500116043
+730,,1927,,Alex Katz,Alex,Katz,American,"Katz, Alex",500022493
+731,,1969,,Ruth Katz,Ruth,Katz,American,"Katz, Ruth",
+732,,1865,1957,Lee Lufkin Kaula,Lee Lufkin,Kaula,American,"Kaula, Lee Lufkin",500102625
+733,,1871,1953,William Jurian Kaula,William Jurian,Kaula,American,"Kaula, William Jurian",500014821
+734,"1926 - March 3, 2002. Obituary found in Google Newspapers:  http://news.google.com/newspapers?nid&#61;1001&amp;dat&#61;20020307&amp;id&#61;WR0lAAAAIBAJ&amp;sjid&#61;ORIGAAAAIBAJ&amp;pg&#61;1993,911724  ",1926,2002,Tauno Kauppi,Tauno,Kauppi,American,"Kauppi, Tauno",
+735,,1924,,James Joseph Kearns,James Joseph,Kearns,American,"Kearns, James Joseph",
+736,,1861,1943,Takeuchi Keishu,Takeuchi,Keishu,Japanese,"Keishu, Takeuchi",
+737,,,,J.H. Keith,J.H.,Keith,American,"Keith, J.H.",
+738,,1923,,Ellsworth Kelly,Ellsworth,Kelly,American,"Kelly, Ellsworth",500004975
+739,,1892,1972,Clarence Kennedy,Clarence,Kennedy,American,"Kennedy, Clarence",500023920
+740,,1849,1932,Edward G. Kennedy,Edward G.,Kennedy,American,"Kennedy, Edward G.",
+741,,1816,1872,John Frederick Kensett,John Frederick,Kensett,American,"Kensett, John Frederick",500030726
+742,,1882,1971,Rockwell Kent,Rockwell,Kent,American,"Kent, Rockwell",500006820
+743,,1955,,William Kentridge,William,Kentridge,South African,"Kentridge, William",500116197
+744,,1914,1980,William (Austin) Kienbusch,William (Austin),Kienbusch,American,"Kienbusch, William (Austin)",500021386
+745,,1787,1867,Kikukawa Eizan,Kikukawa,Eizan,Japanese,"Eizan, Kikukawa",500121367
+746,,1831,1903,Charles F. Kimball,Charles F.,Kimball,American,"Kimball, Charles F.",
+747,,,,Anne Kimmell,Anne,Kimmell,,"Kimmell, Anne",
+748,,1934,,Yoshiharu Kimura,Yoshiharu,Kimura,Japanese,"Kimura, Yoshiharu",
+749,,1932,,Ronald King,Ronald,King,Brazilian,"King, Ronald",500118053
+750,,1867,1947,Paul Bernard King,Paul Bernard,King,American,"King, Paul Bernard",
+751,,1749,1819,Samuel King,Samuel,King,American,"King, Samuel",500013577
+752,,1925,,William King,William,King,American,"King, William",500101535
+753,,1911,1996,Joseph Wallace King,Joseph Wallace,King,American,"King, Joseph Wallace",
+754,,1819,1881,Cyrus William King,Cyrus William,King,American,"King, Cyrus William",
+755,,1785,1862,Charles Bird King,Charles Bird,King,American,"King, Charles Bird",500003108
+756,,1880,1938,Ernst Ludwig Kirchner,Ernst Ludwig,Kirchner,German,"Kirchner, Ernst Ludwig",500027704
+757,,1885,1972,Johannes S. Kjarval,Johannes S.,Kjarval,Icelandic,"Kjarval, Johannes S.",500056079
+758,,1879,1940,Paul Klee,Paul,Klee,Swiss,"Klee, Paul",500010493
+759,,1901,1987,Frank Kleinholz,Frank,Kleinholz,American,"Kleinholz, Frank",500048607
+760,,1883,1949,Paul Kleinschmidt,Paul,Kleinschmidt,German,"Kleinschmidt, Paul",500013780
+761,,1952,,Mark Klett,Mark,Klett,American,"Klett, Mark",500036862
+762,,,,Svea Kline,Svea,Kline,,"Kline, Svea",
+763,,1875,1949,Erich Klossowski,Erich,Klossowski,German,"Klossowski, Erich",500101853
+764,,,,Major Knapp,Major,Knapp,,"Knapp, Major",
+765,,1891,1971,Otto Karl Knaths,Otto Karl,Knaths,American,"Knaths, Otto Karl",
+766,,1860,1880,Charles Knoll,Charles,Knoll,American,"Knoll, Charles",
+767,,1875,1962,Nellie Augusta Knopf,Nellie Augusta,Knopf,American,"Knopf, Nellie Augusta",
+768,,1832,1918,Helen Mary Knowlton,Helen Mary,Knowlton,American,"Knowlton, Helen Mary",500110444
+769,,1893,1917,Wilhelm Kohlhoff,Wilhelm,Kohlhoff,German,"Kohlhoff, Wilhelm",500150436
+770,,1886,1980,Oskar Kokoschka,Oskar,Kokoschka,Austrian,"Kokoschka, Oskar",500024536
+771,,1877,1947,Georg Kolbe,Georg,Kolbe,German,"Kolbe, Georg",500004921
+772,,1867,1945,Kathe Kollwitz,Kathe,Kollwitz,German,"Kollwitz, Kathe",500016751
+773,,,,Sar Kong,Sar,Kong,Cambodian,"Kong, Sar",
+774,,1609,1656,Salomon Koninck (Attributed To),Salomon,Koninck (Attributed To),Dutch,"Koninck (Attributed To), Salomon",
+775,,1954,,Jeff Koons,Jeff,Koons,American,"Koons, Jeff",500118778
+776,,1920,2009,Chaim Koppleman,Chaim,Koppleman,American,"Koppleman, Chaim",500049191
+777,,1920,,Frances Kornbluth,Frances,Kornbluth,American,"Kornbluth, Frances",
+778,,1826,1891,Edward Kranich,Edward,Kranich,American,"Kranich, Edward",
+779,,1924,,Louise Kruger,Louise,Kruger,American,"Kruger, Louise",500079971
+780,,1877,1959,Alfred Kubin,Alfred,Kubin,Austrian (b. Czechoslovakia),"Kubin, Alfred",500025783
+781,,,,Kuhlman,,Kuhlman,,Kuhlman,
+782,,1880,1949,Walt Kuhn,Walt,Kuhn,American,"Kuhn, Walt",500012372
+783,,,,P. Kum,P.,Kum,American,"Kum, P.",
+784,,1786,1864,Utagawa Kunisada,Utagawa,Kunisada,Japanese,"Kunisada, Utagawa",500121373
+785,,1829,1874,Kuniteru Ii,,Kuniteru Ii,Japanese,Kuniteru Ii,
+786,,1893,1953,Yasuo Kuniyoshi,Yasuo,Kuniyoshi,American (B . Japan),"Kuniyoshi, Yasuo",500023210
+787,,1797,1861,Kuniyoshi,,Kuniyoshi,Japanese,Kuniyoshi,
+788,,1922,1984,George Kunkel,George,Kunkel,American,"Kunkel, George",
+789,,1909,1982,Lawrence Kupferman,Lawrence,Kupferman,American,"Kupferman, Lawrence",
+790,,1835,1910,John La Farge,John,La Farge,American,"La Farge, John",500022926
+791,,1877,1943,Jean Emile Laboureur,Jean Emile,Laboureur,French,"Laboureur, Jean Emile",500024072
+792,,1877,1943,J.E. Laboureur,J.E.,Laboureur,French,"Laboureur, J.E.",500024072
+793,,1886,1935,Gaston Lachaise,Gaston,Lachaise,American (b. France),"Lachaise, Gaston",500001766
+794,,1953,,Justen Ladda,Justen,Ladda,German,"Ladda, Justen",500106166
+795,,1893,1978,Richard Francis Lahey,Richard Francis,Lahey,American,"Lahey, Richard Francis",500026689
+796,,1927,2002,Robert Lahotan,Robert,Lahotan,American,"Lahotan, Robert",
+797,,,,Barbara Lainere,Barbara,Lainere,American,"Lainere, Barbara",
+798,,1922,1993,Charles Lakofsky,Charles,Lakofsky,American,"Lakofsky, Charles",
+799,,1860,1945,Rene Lalique,Rene,Lalique,French,"Lalique, Rene",500063396
+800,,1905,1984,Armin Landeck,Armin,Landeck,American,"Landeck, Armin",500049275
+801,,1804,1865,Fitz Henry Lane,Fitz Henry,Lane,American,"Lane, Fitz Henry",
+802,,1895,1965,Dorothea Lange,Dorothea,Lange,American,"Lange, Dorothea",500007674
+803,,,,H.D. Langhorne,H.D.,Langhorne,,"Langhorne, H.D.",
+804,,1923,1977,Bernard Langlais,Bernard,Langlais,American,"Langlais, Bernard",500111567
+805,,1904,1968,Ben Lassen,Ben,Lassen,American,"Lassen, Ben",
+806,,1891,1985,Sidney Laufman,Sidney,Laufman,American,"Laufman, Sidney",500009087
+807,,1905,1985,Clarence John Laughlin,Clarence John,Laughlin,American,"Laughlin, Clarence John",500004410
+808,,1885,1956,Marie Laurencin,Marie,Laurencin,French,"Laurencin, Marie",500011424
+809,,1921,2005,John (Louis) Laurent,John (Louis),Laurent,American,"Laurent, John (Louis)",500119497
+810,,1890,1970,Robert Laurent,Robert,Laurent,"American, b. France","Laurent, Robert",500049308
+811,,1917,2000,Jacob Lawrence,Jacob,Lawrence,American,"Lawrence, Jacob",500027690
+812,,1892,1957,Robert Lawson,Robert,Lawson,American,"Lawson, Robert",500003104
+813,,1887,1979,Bernard Leach,Bernard,Leach,English,"Leach, Bernard",500018779
+814,,1914,2004,Amy Freeman Lee,Amy Freeman,Lee,American,"Lee, Amy Freeman",500343977
+815,,1970,,Nikki S. Lee,Nikki S.,Lee,"American, b. Korea","Lee, Nikki S.",500121251
+816,,1962,,Jocelyn Lee,Jocelyn,Lee,American (b. Italy),"Lee, Jocelyn",
+817,,1881,1955,Fernand Leger,Fernand,Leger,French,"Leger, Fernand",500027374
+818,,1944,1996,Jon Legere,Jon,Legere,American,"Legere, Jon",
+819,,1892,1970,Edy Legrand,Edy,Legrand,French,"Legrand, Edy",
+820,,1837,1911,Alphonse Legros,Alphonse,Legros,French,"Legros, Alphonse",500013515
+821,,1966,,Lihua Lei,Lihua,Lei,"American, (b. Taiwan)","Lei, Lihua",
+822,,1899,1989,Clare Leighton,Clare,Leighton,American,"Leighton, Clare",500109845
+823,,1847,1898,Scott Leighton,Scott,Leighton,American,"Leighton, Scott",
+824,,1939,1997,Susan Leites,Susan,Leites,American,"Leites, Susan",
+825,,1957,,Annette Lemieux,Annette,Lemieux,American,"Lemieux, Annette",500115831
+826,,1896,1976,Berman* Leonid,Berman*,Leonid,American (b. Russian),"Leonid, Berman*",500023200
+827,,,,Lepine,,Lepine,French (Louis Xvi Period),Lepine,
+828,,1913,1992,Jean Lerat,Jean,Lerat,French,"Lerat, Jean",
+829,,,,William Lester,William,Lester,,"Lester, William",
+830,,1947,,Julian Lethbridge,Julian,Lethbridge,American (b. Sri Lanka),"Lethbridge, Julian",500330931
+831,,1876,1958,(Richard) Hayley Lever,(Richard) Hayley,Lever,American (b. Australia),"Lever, (Richard) Hayley",
+832,,1915,2010,Jack Levine,Jack,Levine,American,"Levine, Jack",500017725
+833,,1947,,Sherrie Levine,Sherrie,Levine,American,"Levine, Sherrie",500118782
+834,,1881,1962,Martin Lewis,Martin,Lewis,American,"Lewis, Martin",500028815
+835,,1882,1957,Wyndham Lewis,Wyndham,Lewis,English,"Lewis, Wyndham",500025826
+836,,1941,,Michael H. Lewis,Michael H.,Lewis,American,"Lewis, Michael H.",
+837,,,,Michael Lewis,Michael,Lewis,American,"Lewis, Michael",
+838,,1928,2007,Sol LeWitt,Sol,LeWitt,American,"LeWitt, Sol",500115429
+839,,,,Mark Libby,Mark,Libby,American,"Libby, Mark",
+840,,1923,1997,Roy Lichtenstein,Roy,Lichtenstein,American,"Lichtenstein, Roy",500013596
+841,,,,Liebert,,Liebert,American,Liebert,
+842,,,,Pierpont Limner,Pierpont,Limner,American,"Limner, Pierpont",
+843,,1880,1940,Edwin Hale Lincoln,Edwin Hale,Lincoln,American,"Lincoln, Edwin Hale",
+844,,1916,1982,Stig Lindberg,Stig,Lindberg,Swedish,"Lindberg, Stig",
+845,,1901,1978,Richard Lindner,Richard,Lindner,American (b. Germany),"Lindner, Richard",500024690
+846,,,,Anita Linzer,Anita,Linzer,American (b. England),"Linzer, Anita",
+847,,1857,1942,Philip Little,Philip,Little,American,"Little, Philip",500022548
+848,,1902,1990,William Horace Littlefield,William Horace,Littlefield,American,"Littlefield, William Horace",500049475
+849,,1906,1980,Ferdinand Lo Pinto,Ferdinand,Lo Pinto,American,"Lo Pinto, Ferdinand",500117108
+850,,1899,1983,Charles W. Locke,Charles W.,Locke,American,"Locke, Charles W.",500024549
+851,,1929,1969,George Lockwood,George,Lockwood,American,"Lockwood, George",
+852,,1920,,Silvio Loffredo,Silvio,Loffredo,Italian,"Loffredo, Silvio",
+853,,,,Greg Long,Greg,Long,American,"Long, Greg",
+854,,,,Jack Lord,Jack,Lord,American,"Lord, Jack",
+855,,,,Loudbinine,,Loudbinine,Russian,Loudbinine,
+856,,1920,,Marchand Des Raux Louis,Marchand Des Raux,Louis,French,"Louis, Marchand Des Raux",
+857,,,,Lovatt And Lovatt,,Lovatt And Lovatt,,Lovatt And Lovatt,
+858,,1887,1974,Nancy Christine Jones Love,Nancy Christine Jones,Love,American,"Love, Nancy Christine Jones",
+859,,1885,1975,Rupert Scott Lovejoy,Rupert Scott,Lovejoy,American,"Lovejoy, Rupert Scott",
+860,,1935,,Jim Loveless,Jim,Loveless,American,"Loveless, Jim",
+861,,,,Addie O. Lowe,Addie O.,Lowe,,"Lowe, Addie O.",
+862,Obituary found in The Guardian: http://www.guardian.co.uk/artanddesign/2010/nov/18/gillian-lowndes-obituary  ,1936,2010,Gilliam Lowndes,Gilliam,Lowndes,English,"Lowndes, Gilliam",500097329
+863,,1867,1933,George Luks,George,Luks,American,"Luks, George",
+864,,1925,,David Lund,David,Lund,American,"Lund, David",500109751
+865,,1878,1928,August F. Lundberg,August F.,Lundberg,American (b. Denmark),"Lundberg, August F.",500089224
+866,,1902,,Geneva Cornell Macdonald,Geneva Cornell,Macdonald,American,"Macdonald, Geneva Cornell",
+867,,1860,1950,Dodge Macknight,Dodge,Macknight,American,"Macknight, Dodge",500000716
+868,,1876,1938,Donald Shaw Maclaughlan,Donald Shaw,Maclaughlan,American (b. Canada),"Maclaughlan, Donald Shaw",500050463
+869,,1863,1937,Frederick Macmonnies,Frederick,Macmonnies,American,"Macmonnies, Frederick",
+870,,,,James H. Macomber,James H.,Macomber,American,"Macomber, James H.",
+871,,1875,1953,Elmer Livingston MacRae,Elmer Livingston,MacRae,American,"MacRae, Elmer Livingston",500084979
+872,,1861,1944,Aristide Maillol,Aristide,Maillol,French,"Maillol, Aristide",500001596
+873,,,,Majorowicz,,Majorowicz,,Majorowicz,
+874,,1892,1963,Oronzio Maldarelli,Oronzio,Maldarelli,American (b. Italy),"Maldarelli, Oronzio",500049793
+875,,,,Salvatore Mancini,Salvatore,Mancini,American,"Mancini, Salvatore",
+876,,1832,1883,Edouard Manet,Edouard,Manet,French,"Manet, Edouard",500010363
+877,,1937,,Robert Mangold,Robert,Mangold,American,"Mangold, Robert",500014482
+878,,1936,,William Manning,William,Manning,American,"Manning, William",
+879,,,,Paul Manno,Paul,Manno,,"Manno, Paul",
+880,,1885,1966,Paul Manship,Paul,Manship,American,"Manship, Paul",500032239
+1855,,1955,,Christian Marclay,Christian,Marclay,American,"Marclay, Christian",500116487
+882,,1914,,Leo Manso,Leo,Manso,American,"Manso, Leo",500333725
+883,,1837,1916,Edwin Warren Marble,Edwin Warren,Marble,American,"Marble, Edwin Warren",
+884,,1913,2000,Conrad Marca-Relli,Conrad,Marca-Relli,American,"Marca-Relli, Conrad",500020522
+885,,1889,1981,Gerhard Marcks,Gerhard,Marcks,German,"Marcks, Gerhard",500029431
+886,,1929,,Marcia Marcus,Marcia,Marcus,American,"Marcus, Marcia",500021146
+887,,1938,,Brice Marden,Brice,Marden,American,"Marden, Brice",500118786
+888,,,,Margo Margolis,Margo,Margolis,American,"Margolis, Margo",
+889,,1870,1953,John Marin,John,Marin,American,"Marin, John",500115368
+890,,1898,1954,Reginald Marsh,Reginald,Marsh,American,"Marsh, Reginald",500016727
+891,,1837,1906,William Edgar Marshall,William Edgar,Marshall,American,"Marshall, William Edgar",500118084
+892,,1912,2004,Agnes Martin,Agnes,Martin,"American, b. Canada","Martin, Agnes",500024489
+893,,1908,1990,Quinto Martini,Quinto,Martini,Italian,"Martini, Quinto",500062400
+894,,1952,,Wally Mason,Wally,Mason,American,"Mason, Wally",
+895,,1929,,Gregory Masurowsky,Gregory,Masurowsky,American,"Masurowsky, Gregory",500017577
+896,,1869,1954,Henri Matisse,Henri,Matisse,French,"Matisse, Henri",500017300
+897,,,,John Matt,John,Matt,American,"Matt, John",
+898,,1940,,Harriett Matthews,Harriett,Matthews,American,"Matthews, Harriett",
+899,,1862,1941,Frank Convers Matthewson,Frank Convers,Matthewson,American,"Matthewson, Frank Convers",
+900,,1890,1972,Jan Matulka,Jan,Matulka,American (b. Czechoslovakia),"Matulka, Jan",500016408
+901,,1868,1932,Alfred Henry Maurer,Alfred Henry,Maurer,American,"Maurer, Alfred Henry",500025666
+902,,1935,2009,Michael Mazur,Michael,Mazur,American,"Mazur, Michael",500094336
+903,,1945,,Paul Mccarthy,Paul,Mccarthy,American,"Mccarthy, Paul",500115653
+904,,1859,1941,William J. McCloskey,William J.,McCloskey,American,"McCloskey, William J.",500006537
+905,,1852,1903,George McConnell,George,McConnell,American,"McConnell, George",500336483
+906,,1946,,Ann Mccoy,Ann,Mccoy,American,"Mccoy, Ann",500026074
+907,,,1770,Thomas Mcilworth,Thomas,Mcilworth,American,"Mcilworth, Thomas",
+908,Thomas McKenney and James Hall,,,McKenney and Hall,,McKenney and Hall,American,McKenney and Hall,
+909,,1898,1976,John Mclaughlin,John,Mclaughlin,American,"Mclaughlin, John",500028436
+910,,1952,,Melville McLean,Melville,McLean,Canadian,"McLean, Melville",
+911,,1908,1995,George Mcneil,George,Mcneil,American,"Mcneil, George",500002998
+912,,1900,1971,Roderic Mead,Roderic,Mead,American,"Mead, Roderic",
+913,,1935,,Abbott Meader,Abbott,Meader,American,"Meader, Abbott",
+914,,,,Nancy Meader,Nancy,Meader,American,"Meader, Nancy",
+915,,19,,Mecarelli,,Mecarelli,Italian,Mecarelli,
+916,,,,Margaret Meigs,Margaret,Meigs,American,"Meigs, Margaret",
+917,,1895,1977,Leo Meissner,Leo,Meissner,American,"Meissner, Leo",
+918,,1914,1973,Edward Melcarth,Edward,Melcarth,American,"Melcarth, Edward",500110034
+919,,,,H.S. Mendelssohn,H.S.,Mendelssohn,,"Mendelssohn, H.S.",
+920,,1896,1986,Sigmund Menkes,Sigmund,Menkes,American,"Menkes, Sigmund",
+921,,1935,,Merkado,,Merkado,Israeli,Merkado,
+922,,,,James Merrill,James,Merrill,American,"Merrill, James",
+923,,1882,1963,Richard Summer Meryman,Richard Summer,Meryman,American,"Meryman, Richard Summer",500032308
+924,,1883,1955,Felix Meseck,Felix,Meseck,German,"Meseck, Felix",500334652
+925,,1883,1962,Ivan Mestrovic,Ivan,Mestrovic,Croatian,"Mestrovic, Ivan",500019590
+926,,1917,2009,Olive Metcalf,Olive,Metcalf,American,"Metcalf, Olive",
+927,,1858,1925,Willard Leroy Metcalf,Willard Leroy,Metcalf,American,"Metcalf, Willard Leroy",500030616
+928,,1865,1928,Thomas Bufford Meteyard,Thomas Bufford,Meteyard,American,"Meteyard, Thomas Bufford",500032378
+929,,,,Joan Myers,Joan,Myers,American,"Myers, Joan",
+930,,1932,,Duane Michals,Duane,Michals,American,"Michals, Duane",500053930
+931,,1940,,Diana Michener,Diana,Michener,American,"Michener, Diana",
+932,,1914,1984,Raul Milian,Raul,Milian,Cuban,"Milian, Raul",500118201
+933,,1891,1980,Henry Miller,Henry,Miller,American,"Miller, Henry",500338916
+934,,1875,1943,Richard Emil Miller,Richard Emil,Miller,American,"Miller, Richard Emil",500014127
+935,,1810,1874,Alfred Jacob Miller,Alfred Jacob,Miller,American,"Miller, Alfred Jacob",500003941
+936,,1875,1955,Carl Milles,Carl,Milles,American (b. Sweden),"Milles, Carl",500021157
+937,,1814,1875,Jean Francois Millet,Jean Francois,Millet,French,"Millet, Jean Francois",500012529
+938,,,,Mingle,,Mingle,American,Mingle,
+939,,1925,,Raymond Mintz,Raymond,Mintz,American,"Mintz, Raymond",
+940,,1893,1983,Joan Miro,Joan,Miro,Spanish,"Miro, Joan",500014094
+941,,1824,1886,Adolphe (Joseph Thomas) Monticelli,Adolphe (Joseph Thomas),Monticelli,French,"Monticelli, Adolphe (Joseph Thomas)",
+942,,,,Moorcroft,,Moorcroft,English,Moorcroft,
+943,,1927,,Robert Eric Moore,Robert Eric,Moore,American,"Moore, Robert Eric",500050455
+944,,1898,1986,Henry Moore,Henry,Moore,American,"Moore, Henry",500032596
+945,,1941,,John Moore,John,Moore,American,"Moore, John",
+946,,1909,2002,Chavez Morado,Chavez,Morado,Mexican,"Morado, Chavez",
+947,,1837,1926,Thomas Moran,Thomas,Moran,American (b. England),"Moran, Thomas",500015257
+948,,,,Vesta Morehouse,Vesta,Morehouse,,"Morehouse, Vesta",
+949,,1903,1999,Maud Morgan,Maud,Morgan,American,"Morgan, Maud",500037780
+950,,1934,,Thomas Morin,Thomas,Morin,American,"Morin, Thomas",
+951,,1905,1975,George L(ovett) K(ingsland) Morris,George L(ovett) K(ingsland),Morris,American,"Morris, George L(ovett) K(ingsland)",
+952,,1958,,Elke Morris,Elke,Morris,German,"Morris, Elke",
+953,,1946,,C. L. Morrison,C. L.,Morrison,American,"Morrison, C. L.",
+954,,1791,1872,Samuel Finley Breese Morse (Attributed To),Samuel Finley Breese,Morse (Attributed To),American,"Morse (Attributed To), Samuel Finley Breese",
+955,,,,Sylvia Morton,Sylvia,Morton,American,"Morton, Sylvia",
+956,,,,Keith Morton,Keith,Morton,,"Morton, Keith",
+957,,1935,,Robert Moskowitz,Robert,Moskowitz,American,"Moskowitz, Robert",
+958,,1915,1991,Robert Motherwell,Robert,Motherwell,American,"Motherwell, Robert",500016415
+959,,1929,2008,Donn Moulton,Donn,Moulton,American,"Moulton, Donn",
+960,,1812,1870,Joseph Mozier,Joseph,Mozier,American,"Mozier, Joseph",500052979
+961,,1914,1993,John Muench,John,Muench,American,"Muench, John",500051551
+962,,,,A. R. Mulchahey,A. R.,Mulchahey,American,"Mulchahey, A. R.",
+963,,1927,,Dean Mullavey,Dean,Mullavey,Canadian (b. USA),"Mullavey, Dean",
+964,,1922,1958,Jan M&#252;ller,Jan,M&#252;ller,"American, b. Germany","M&#252;ller, Jan",500001212
+965,,1896,1966,Alice C. Murphy,Alice C.,Murphy,American,"Murphy, Alice C.",
+966,,1946,,Catherine Murphy,Catherine,Murphy,American,"Murphy, Catherine",500040908
+967,,1940,2007,Elizabeth Murray,Elizabeth,Murray,American,"Murray, Elizabeth",500025911
+968,,1881,1962,William Straite Murray,William Straite,Murray,English,"Murray, William Straite",500099037
+969,,1881,1962,William Staite Murray,William Staite,Murray,English,"Murray, William Staite",500099037
+970,,1909,2005,Antonio Music,Antonio,Music,Italian,"Music, Antonio",
+971,,1882,1946,Elie Nadelman,Elie,Nadelman,American (b. Poland),"Nadelman, Elie",500032388
+972,,1949,,Nabil Nahas,Nabil,Nahas,"American, b. Lebanon","Nahas, Nabil",
+973,,1927,,Tadashi Nakayama,Tadashi,Nakayama,Japanese,"Nakayama, Tadashi",500340392
+974,,,,Namako,,Namako,Japanese,Namako,
+975,,,,Frank Nanatonis,Frank,Nanatonis,American,"Nanatonis, Frank",
+976,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Los Angeles, Calif. 1962- Represented in &quot;1000 Years of American Pottery,&quot; Museum of Contemporary Crafts, New York City...Otto Natzler-creeator of some of the most beautiful and aesthetically distinguished glazes of all times...In permanent collection of: Metropolitan Museum of Art, New York City; International Ceramic Museum, Faenza, Italy; Kunstgewerbe Museum, Zurch, Switzerland; Kantonal Museum, Bern, Switzerland...Also in many distinguished American Museums...Life Fellow, International Institute Arts &amp; Letters.&quot;",,,Otto And Gertrude Natzler,Otto And Gertrude,Natzler,,"Natzler, Otto And Gertrude",
+977,,,,Gertrude Or Otto Natzler,Gertrude Or Otto,Natzler,American,"Natzler, Gertrude Or Otto",
+978,,,,Harmon Neill,Harmon,Neill,American,"Neill, Harmon",
+979,,1956,,Margaret Neill,Margaret,Neill,American,"Neill, Margaret",
+980,,1924,,Emily Nelligan,Emily,Nelligan,American,"Nelligan, Emily",
+981,,1933,,Lowell Nesbitt,Lowell,Nesbitt,American,"Nesbitt, Lowell",500023038
+982,,1926,,Robert Stirling Neuman,Robert Stirling,Neuman,American,"Neuman, Robert Stirling",500349541
+983,,1885,1973,Max Neumann,Max,Neumann,German,"Neumann, Max",
+984,,1899,1988,Louise Nevelson,Louise,Nevelson,Ukrainian,"Nevelson, Louise",500001621
+985,,1922,,Myron Nevelson,Myron,Nevelson,American,"Nevelson, Myron",
+986,,,,Samuel Neville,Samuel,Neville,Irish (Dublin),"Neville, Samuel",
+987,,1918,2006,Arnold Newman,Arnold,Newman,American,"Newman, Arnold",500025420
+988,,1947,,Lee Newton,Lee,Newton,American,"Newton, Lee",500096276
+989,,1932,,Don Nice,Don,Nice,American,"Nice, Don",500011009
+990,,,,Birge Niogeuson,Birge,Niogeuson,Danish,"Niogeuson, Birge",
+991,,1904,1988,Isamu Noguchi,Isamu,Noguchi,American,"Noguchi, Isamu",500008602
+992,,1917,,Sidney Nolan,Sidney,Nolan,American,"Nolan, Sidney",500028209
+993,,1867,1956,Emil Nolde,Emil,Nolde,German,"Nolde, Emil",500003109
+994,,,,Barbara Nordberg,Barbara,Nordberg,American,"Nordberg, Barbara",
+995,,1885,1957,Carl J. Nordell,Carl J.,Nordell,American,"Nordell, Carl J.",500096980
+996,,1876,1965,Carl Harold Nordstrom,Carl Harold,Nordstrom,American,"Nordstrom, Carl Harold",500027571
+997,,,,Barry Norling,Barry,Norling,American,"Norling, Barry",
+998,,1957,,Joseph Norman,Joseph,Norman,American,"Norman, Joseph",
+999,,1905,1997,Dorothy Norman,Dorothy,Norman,American,"Norman, Dorothy",500071933
+1000,,1901,1959,Henri Nouveau,Henri,Nouveau,"b. Hungary, French","Nouveau, Henri",500099028
+1001,,1886,,Wilhelm Nowak,Wilhelm,Nowak,German,"Nowak, Wilhelm",
+1002,,1864,1951,George L. Noyes,George L.,Noyes,American (b. Canada),"Noyes, George L.",500073398
+1003,,,,A. Noyes,A.,Noyes,American,"Noyes, A.",
+1004,,1932,2004,Sid Oakley,Sid,Oakley,American,"Oakley, Sid",
+1005,,1910,1983,Isidoro Ocampo,Isidoro,Ocampo,Mexican,"Ocampo, Isidoro",500098677
+1006,,1874,1941,"Andrew O&#39;Connor, Jr.",Andrew,"O&#39;Connor, Jr.",American,"O&#39;Connor, Jr., Andrew",500102382
+1007,,1844,1920,William Rudolph O&#39;donovan,William Rudolph,O&#39;donovan,American,"O&#39;donovan, William Rudolph",500267505
+1008,,1890,1969,Eliot O&#39;hara,Eliot,O&#39;hara,American,"O&#39;hara, Eliot",500045115
+1009,,1887,1986,Georgia O&#39;Keeffe,Georgia,O&#39;Keeffe,American,"O&#39;Keeffe, Georgia",500018666
+1010,,1908,1982,Sigurjon Olafsson,Sigurjon,Olafsson,Icelandic,"Olafsson, Sigurjon",500121990
+1011,,1929,,Claes Oldenburg,Claes,Oldenburg,"American, b. Sweden","Oldenburg, Claes",500029735
+1012,,,,John O&#39;leary,John,O&#39;leary,,"O&#39;leary, John",
+1013,,1926,missing since 1995,Sheridan Oman,Sheridan,Oman,American,"Oman, Sheridan",
+1014,,1958,,Julian Opie,Julian,Opie,British,"Opie, Julian",500053934
+1015,,1819,1897,Alfred T. Ordway,Alfred T.,Ordway,American,"Ordway, Alfred T.",
+1016,,1890,1981,Gregory Orloff,Gregory,Orloff,American,"Orloff, Gregory",500125566
+1017,,1904,1997,Elliot Orr,Elliot,Orr,American,"Orr, Elliot",500040913
+1018,,,,Ossi,,Ossi,,Ossi,
+1019,,,,Vivica Otto,Vivica,Otto,,"Otto, Vivica",
+1020,,,,Vivika Otto,Vivika,Otto,,"Otto, Vivika",
+1021,,1918,2010,Stephen Pace,Stephen,Pace,American,"Pace, Stephen",
+1022,,1805,1881,Samuel Palmer,Samuel,Palmer,English,"Palmer, Samuel",500020452
+1023,,1942,,Michael Palmer,Michael,Palmer,American,"Palmer, Michael",
+1024,,,,Dee Parfitt,Dee,Parfitt,American,"Parfitt, Dee",
+1025,,1927,,Robert Andrew Parker,Robert Andrew,Parker,American,"Parker, Robert Andrew",500095281
+1026,,,,R. B. Parker,R. B.,Parker,,"Parker, R. B.",
+1027,,1954,,Simon Parkes,Simon,Parkes,English,"Parkes, Simon",
+1028,,1846,1932,Eva Allen Parks,Eva Allen,Parks,American,"Parks, Eva Allen",
+1029,,1885,1930,Jules (Julius) Pascin (Pincas),Jules (Julius),Pascin (Pincas),French (b. Bulgaria),"Pascin (Pincas), Jules (Julius)",
+1030,,,,Pasture Pottery,,Pasture Pottery,,Pasture Pottery,
+1031,,1952,,Harry Pattison,Harry,Pattison,American,"Pattison, Harry",
+1032,,1916,1999,Abbott Pattison,Abbott,Pattison,American,"Pattison, Abbott",
+1033,,1852,1919,Ethel Paxson,Ethel,Paxson,American,"Paxson, Ethel",500334150
+1034,,1741,1827,Charles Willson Peale,Charles Willson,Peale,American,"Peale, Charles Willson",500017914
+1035,,1924,,Philip Pearlstein,Philip,Pearlstein,American,"Pearlstein, Philip",500011988
+1036,,1884,1970,Waldo Peirce,Waldo,Peirce,American,"Peirce, Waldo",500124326
+1037,,1849,1920,Frank Crawford Penfold,Frank Crawford,Penfold,American,"Penfold, Frank Crawford",500090855
+1038,,1961,,Dee Peppe,Dee,Peppe,American,"Peppe, Dee",
+1039,,1864,1950,Charles Hovey Pepper,Charles Hovey,Pepper,American,"Pepper, Charles Hovey",
+1040,,1764,1838,Charles Percier,Charles,Percier,French,"Percier, Charles",500012660
+1041,,1883,1964,Harley Manlius Perkins,Harley Manlius,Perkins,American,"Perkins, Harley Manlius",
+1042,,1918,,Bernard Perlin,Bernard,Perlin,American,"Perlin, Bernard",500024499
+1043,,1941,,Donald Perlis,Donald,Perlis,American,"Perlis, Donald",500104771
+1044,,1848,1933,Lila Cabot Perry,Lila Cabot,Perry,American,"Perry, Lila Cabot",500026640
+1045,,1915,2001,Gabor Peterdi,Gabor,Peterdi,American (b. Hungary),"Peterdi, Gabor",
+1046,,1968,,Scott Peterman,Scott,Peterman,American,"Peterman, Scott",
+1047,,1908,1996,Roger Tory Peterson,Roger Tory,Peterson,American,"Peterson, Roger Tory",
+1048,,,,Pevier?,,Pevier?,,Pevier?,
+1049,,1943,,Ellen Phelan,Ellen,Phelan,American,"Phelan, Ellen",500056225
+1050,,1881,1973,Pablo (Ruiz Y) Picasso,Pablo (Ruiz Y),Picasso,Spanish,"Picasso, Pablo (Ruiz Y)",500009666
+1052,,,,Pablo Picasso Edition,Pablo,Picasso Edition,,"Picasso Edition, Pablo",
+1053,,1884,1970,Leona Pierce,Leona,Pierce,American,"Pierce, Leona",
+1054,,1960,,Jack Pierson,Jack,Pierson,American,"Pierson, Jack",500116161
+1055,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Los Angeles, Calif. 1962- One man show at University of Maine...Has won many national awards...Exhibited at: Ceramics National, Syracuse, N.Y.; Art Institute of Chicago; Wichita Art Museum; Denver Colorado Art Museum; Oakland California Art Museum; Los Angeles Art Museum.&quot;",1909,1992,Polia Pillin,Polia,Pillin,American,"Pillin, Polia",
+1056,,1742,1788,Robert Edge Pine,Robert Edge,Pine,American (b. England),"Pine, Robert Edge",500028067
+1057,,1950,,Dennis Pinette,Dennis,Pinette,American,"Pinette, Dennis",
+1058,,1720,1778,Giovanni Battista Piranesi,Giovanni Battista,Piranesi,Italian,"Piranesi, Giovanni Battista",500114965
+1059,,1720,1778,Giovani Battista Piranesi,Giovani Battista,Piranesi,Italian,"Piranesi, Giovani Battista",500114965
+1060,,1830,1903,Camille Pissarro,Camille,Pissarro,French,"Pissarro, Camille",500001924
+1061,,1905,1983,Ogden A. Pleissner,Ogden A.,Pleissner,American,"Pleissner, Ogden A.",
+1062,,1869,1932,George Plowman,George,Plowman,American,"Plowman, George",
+1063,,,,Lisa Polhemus,Lisa,Polhemus,American,"Polhemus, Lisa",
+1064,,1951,,Robert Polidori,Robert,Polidori,Canadian,"Polidori, Robert",500263766
+1065,,1767,1822,Charles Peale Polk,Charles Peale,Polk,American,"Polk, Charles Peale",500030173
+1066,,1912,1956,Jackson Pollock,Jackson,Pollock,American,"Pollock, Jackson",500015134
+1067,,1937,,Larry Poons,Larry,Poons,American,"Poons, Larry",500019976
+1068,,1918,2002,Anne Poor,Anne,Poor,American,"Poor, Anne",500102390
+1069,,1888,1970,Henry Varnum Poor,Henry Varnum,Poor,American,"Poor, Henry Varnum",500006032
+1070,,1881,1974,Arthur Pope,Arthur,Pope,American,"Pope, Arthur",500087892
+1071,,1821,1880,John Pope,John,Pope,American,"Pope, John",500016024
+1072,,1926,,Gilbert Portanier,Gilbert,Portanier,French,"Portanier, Gilbert",
+1073,,1907,1975,Fairfield Porter,Fairfield,Porter,American,"Porter, Fairfield",500032358
+1074,,1941,,Katherine Porter,Katherine,Porter,American,"Porter, Katherine",500006389
+1075,,,,Edward Porter,Edward,Porter,American,"Porter, Edward",
+1076,,1901,1990,Eliot Porter,Eliot,Porter,American,"Porter, Eliot",
+1077,,,,Alfred Potter,Alfred,Potter,American,"Potter, Alfred",
+1078,,1925,,Rudy O. Pozzatti,Rudy O.,Pozzatti,American,"Pozzatti, Rudy O.",500029096
+1079,,,,Rudy Pozzatti,Rudy,Pozzatti,,"Pozzatti, Rudy",
+1080,,1858,1924,Maurice Brazil Prendergast,Maurice Brazil,Prendergast,"American, b. Canada","Prendergast, Maurice Brazil",500004329
+1081,,,,Frank Prenix,Frank,Prenix,American,"Prenix, Frank",
+1082,,1943,,Douglas Prince,Douglas,Prince,American,"Prince, Douglas",500095098
+1083,,1806,1873,William Matthew Prior,William Matthew,Prior,American,"Prior, William Matthew",500002566
+1751,,1828,1862,Carl Wimar,Carl,Wimar,American,"Wimar, Carl",
+1085,,1941,,Martin Puryear,Martin,Puryear,American,"Puryear, Martin",500009936
+1086,,1931,1963,Kenneth Quick,Kenneth,Quick,England,"Quick, Kenneth",
+1087,,1756,1823,Henry Raeburn,Henry,Raeburn,Scottish,"Raeburn, Henry",500032325
+1088,,1888,1955,Waldemar Raemisch,Waldemar,Raemisch,American,"Raemisch, Waldemar",500333119
+1089,,1939,,Lawrence Rakovan,Lawrence,Rakovan,American,"Rakovan, Lawrence",
+1090,,,,Peter Ralston,Peter,Ralston,American,"Ralston, Peter",
+1091,,,,Carl Raming,Carl,Raming,,"Raming, Carl",
+1092,,1953,,William Rand,William,Rand,American,"Rand, William",
+1093,,1953,,Willliam Rand,Willliam,Rand,American,"Rand, Willliam",
+1094,,1953,,William Taylor Rand Mead,William Taylor,Rand Mead,American,"Rand Mead, William Taylor",
+1095,,8/27/68,,Deborah Randall,Deborah,Randall,American,"Randall, Deborah",
+1096,,1925,2008,Robert Rauschenberg,Robert,Rauschenberg,American,"Rauschenberg, Robert",500002941
+1097,,1897,1963,Bernard Reder,Bernard,Reder,American (b. Romania),"Reder, Bernard",500195493
+1098,,1869,1965,Edward Willis Redfield,Edward Willis,Redfield,American,"Redfield, Edward Willis",500001839
+1099,,1869,1958,Henry Newton Redman,Henry Newton,Redman,American,"Redman, Henry Newton",
+1100,,1840,1916,Odilon Redon,Odilon,Redon,French,"Redon, Odilon",500007292
+1101,,1920,,Maynard Reece,Maynard,Reece,American,"Reece, Maynard",500054167
+1102,,,,Michael Reece,Michael,Reece,American,"Reece, Michael",
+1103,,,,Barbara Reed,Barbara,Reed,American,"Reed, Barbara",
+1104,,1947,,Scott Reed,Scott,Reed,American,"Reed, Scott",
+1105,,,,Michael Reed,Michael,Reed,,"Reed, Michael",
+1106,,1754,1829,Jean Baptiste Regnault,Jean Baptiste,Regnault,American,"Regnault, Jean Baptiste",500028440
+1107,,1932,2012,Murray Reich,Murray,Reich,American,"Reich, Murray",500045142
+1108,,,,Kyzak Rembex,Kyzak,Rembex,,"Rembex, Kyzak",
+1109,,,,Kozac Rembex,Kozac,Rembex,,"Rembex, Kozac",
+1110,,1606,1669,Rembrandt van Rijn,Rembrandt van,Rijn,Dutch,"Rijn, Rembrandt van",500011051
+1987,,1923,1971,Diane Arbus,Diane,Arbus,American,"Arbus, Diane",500012758
+1674,,1952,,John Newman,John,Newman,American,"Newman, John",500109626
+1113,,1841,1919,Pierre-Auguste Renoir,Pierre-Auguste,Renoir,French,"Renoir, Pierre-Auguste",500115467
+1986,,1796,1886,Asher Brown Durand,Asher Brown,Durand,American,"Durand, Asher Brown",500026080
+1115,,1928,,Paul Resika,Paul,Resika,American,"Resika, Paul",500007630
+1116,,1928,,Don Resnick,Don,Resnick,American,"Resnick, Don",500045143
+1117,,,,M.C. Richards,M.C.,Richards,,"Richards, M.C.",
+1118,,1907,2002,George Rickey,George,Rickey,American,"Rickey, George",500056254
+1119,,,,Jorge Rig . . .,Jorge,Rig . . .,Mexican,"Rig . . ., Jorge",
+1120,,1825,1874,William Henry Rinehart,William Henry,Rinehart,Usa,"Rinehart, William Henry",500031700
+1121,Obituary found in The Hartford Courant: http://articles.courant.com/2000-01-16/news/0001150963_1_university-art-ceramics-cranbrook-academy,1926,2000,Mary Risley,Mary,Risley,American,"Risley, Mary",
+1122,,1962,,Pipilotti Rist,Pipilotti,Rist,Swiss,"Rist, Pipilotti",500115980
+1123,,1906,1976,Chris Ritter,Chris,Ritter,American,"Ritter, Chris",
+1124,,1950,,Kay Ritter,Kay,Ritter,American,"Ritter, Kay",
+1125,,1886,1957,Diego Rivera,Diego,Rivera,Mexican,"Rivera, Diego",500025126
+1126,,1950,,Marguerite Robichaux,Marguerite,Robichaux,American,"Robichaux, Marguerite",
+1127,,1852,1896,Theodore Robinson,Theodore,Robinson,American,"Robinson, Theodore",500004025
+1128,,CONTEMPORARY,,Liv Kristin Robinson,Liv Kristin,Robinson,American,"Robinson, Liv Kristin",
+1129,,,,Niccolo Roccatagliata (Circle Of),Niccolo,Roccatagliata (Circle Of),Italian,"Roccatagliata (Circle Of), Niccolo",
+1130,,,,Jacque Rochester,Jacque,Rochester,American,"Rochester, Jacque",
+1131,,1840,1917,Auguste Rodin,Auguste,Rodin,French,"Rodin, Auguste",500016619
+1132,,1905,1984,Kurt Roesch,Kurt,Roesch,American,"Roesch, Kurt",500012400
+1133,,1890,1955,Herman Roessler,Herman,Roessler,American,"Roessler, Herman",
+1134,,1881,1967,Gretchen W. Rogers,Gretchen W.,Rogers,American,"Rogers, Gretchen W.",500105093
+1135,,1829,1904,John Rogers,John,Rogers,American,"Rogers, John",
+1136,,1849,1938,Christian Rohlfs,Christian,Rohlfs,German,"Rohlfs, Christian",500017013
+1137,,1900,1974,Meyers Rohowsky,Meyers,Rohowsky,American,"Rohowsky, Meyers",
+1138,,,,Roistrand Factory,,Roistrand Factory,Swedish,Roistrand Factory,
+1139,,1734,1802,George Romney,George,Romney,English,"Romney, George",500115779
+1140,,,,Rookwood,,Rookwood,,Rookwood,
+1141,,1917,,Ednah Root,Ednah,Root,American,"Root, Ednah",
+1142,,1912,1988,James Rosati,James,Rosati,American,"Rosati, James",500099155
+1143,,1896,1972,Samuel Rosenberg,Samuel,Rosenberg,American,"Rosenberg, Samuel",500112873
+1144,,1913,1992,Ralph Rosenborg,Ralph,Rosenborg,American,"Rosenborg, Ralph",
+1145,,,,Marguerite Rosenfelt,Marguerite,Rosenfelt,,"Rosenfelt, Marguerite",
+1146,,1933,,James Rosenquist,James,Rosenquist,American,"Rosenquist, James",500021855
+1147,,1935,,Stephen Rosenthal,Stephen,Rosenthal,American,"Rosenthal, Stephen",500070618
+1148,,1943,,Martha Rosler,Martha,Rosler,American,"Rosler, Martha",500097623
+1149,,1933,,Stuart Ross,Stuart,Ross,British,"Ross, Stuart",
+1150,,1952,,Clifford Ross,Clifford,Ross,American,"Ross, Clifford",500076046
+1151,,1907,1981,Theodore J. Roszak,Theodore J.,Roszak,American (b. Poland),"Roszak, Theodore J.",
+1152,,1936,,Frank Roth,Frank,Roth,American,"Roth, Frank",500031024
+1153,,,,Howard Rothchild,Howard,Rothchild,,"Rothchild, Howard",
+1154,,1947,,Michael Rothschild,Michael,Rothschild,American,"Rothschild, Michael",
+1155,,1871,1958,Georges Rouault,Georges,Rouault,French,"Rouault, Georges",500024798
+1156,,,,E.C. Rowe,E.C.,Rowe,American,"Rowe, E.C.",
+1157,,1756,1827,Thomas Rowlandson,Thomas,Rowlandson,English,"Rowlandson, Thomas",500006930
+1158,,,,Royal Doulton,,Royal Doulton,English,Royal Doulton,
+1159,,1953,,Leo Rubinfien,Leo,Rubinfien,American,"Rubinfien, Leo",
+1160,,1821,1877,John F. Runge,John F.,Runge,American,"Runge, John F.",
+1161,,1937,,Edward Ruscha,Edward,Ruscha,American,"Ruscha, Edward",500024159
+1162,,1975,,Benjamin Rush,Benjamin,Rush,American,"Rush, Benjamin",
+1163,,,,Russel,,Russel,,Russel,
+1164,,1864,1926,Charles M Russell,Charles M,Russell,American,"Russell, Charles M",500009086
+1165,,17TH CENTURY,,Russian Or Greek,,Russian Or Greek,,Russian Or Greek,
+1166,,1889,1954,Anne Ryan,Anne,Ryan,American,"Ryan, Anne",500020957
+1167,,1868,1949,Chauncey Foster Ryder,Chauncey Foster,Ryder,American,"Ryder, Chauncey Foster",500021744
+1168,,1969,,Will Ryman,Will,Ryman,American,"Ryman, Will",
+1169,,1898,1963,Kay Sage,Kay,Sage,American,"Sage, Kay",500025288
+1170,,1848,1907,Augustus Saint-Gaudens,Augustus,Saint-Gaudens,American,"Saint-Gaudens, Augustus",500124332
+1171,,1907,1997,Kiyoshi Saito,Kiyoshi,Saito,Japanese,"Saito, Kiyoshi",500169214
+1172,,1974,,Anri Sala,Anri,Sala,Albanian,"Sala, Anri",500116366
+1173,,1900,1990,Elizabeth Saltonstall,Elizabeth,Saltonstall,American,"Saltonstall, Elizabeth",
+1174,,1849,1929,Percy A. Sanborn,Percy A.,Sanborn,American,"Sanborn, Percy A.",
+1175,,1849,1929,Percy Sanborn,Percy,Sanborn,American,"Sanborn, Percy",
+1176,,,,Goldie T. Sandman,Goldie T.,Sandman,American,"Sandman, Goldie T.",
+1177,,1856,1925,John Singer Sargent,John Singer,Sargent,American,"Sargent, John Singer",500023972
+1178,,,,Thomas Satchwell,Thomas,Satchwell,English,"Satchwell, Thomas",
+1179,,,,Saxbo,,Saxbo,,Saxbo,
+1180,,,,Saxbo Studio (Eva Staehr-Nielson?),,Saxbo Studio (Eva Staehr-Nielson?),Danish,Saxbo Studio (Eva Staehr-Nielson?),
+1181,,,,Saxby Studio,,Saxby Studio,Danish,Saxby Studio,
+1182,,1893,1971,Carl Saxild,Carl,Saxild,American,"Saxild, Carl",
+1183,Obituary found in The New York Times: http://www.nytimes.com/2001/08/03/arts/italo-scanga-69-an-artist-inspired-by-found-objects.html,1932,2001,Italo Scanga,Italo,Scanga,Italian,"Scanga, Italo",500076393
+1184,,,,Mary And Ed Scheier,Mary And Ed,Scheier,American,"Scheier, Mary And Ed",
+1185,,,,Edwin Scheier,Edwin,Scheier,American,"Scheier, Edwin",
+1186,,,,Ed And Mary Scheier,Ed And Mary,Scheier,,"Scheier, Ed And Mary",
+1187,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Durham, N.H. Exhibited throughout the United States, Europe and Japan...1962-Featured at Brooklyn Museum Show &quot;8 Masters of Contemporary American Crafts&quot;...1959-Award winner, Ceramic International...1962-Represented in &quot;1000 Years of American Pottery&quot; Museum of Contemporary Crafts, New York City.&quot;",,,Ed And Mary Scheirer,Ed And Mary,Scheirer,,"Scheirer, Ed And Mary",
+1188,,1904,1972,Gunnlaugur Scheving,Gunnlaugur,Scheving,Icelandic,"Scheving, Gunnlaugur",500122000
+1189,,1869,1955,Alice O. Schille,Alice O.,Schille,American,"Schille, Alice O.",
+1190,,1876,1949,Adolf Schinnerer,Adolf,Schinnerer,German,"Schinnerer, Adolf",500354397
+1191,,,,Schlag,,Schlag,,Schlag,
+1192,,1888,1964,Werner Schmidt,Werner,Schmidt,German,"Schmidt, Werner",
+1193,,,,S.C. Schnuberg,S.C.,Schnuberg,,"Schnuberg, S.C.",
+1194,,1919,1997,Jason Schoener,Jason,Schoener,American,"Schoener, Jason",500004721
+1195,,1912,1995,Karl Schrag,Karl,Schrag,American (b. Germany),"Schrag, Karl",500055512
+1196,,1892,1970,Otto Schubert,Otto,Schubert,German,"Schubert, Otto",500358823
+1197,,1916,1992,Jon Schueler,Jon,Schueler,American,"Schueler, Jon",
+1198,,1976,,Dana Schutz,Dana,Schutz,American,"Schutz, Dana",500126065
+1199,,1935,,Carl E. Schwartz,Carl E.,Schwartz,American,"Schwartz, Carl E.",
+1200,,1815,1907,J. W. A. Scott,J. W. A.,Scott,American,"Scott, J. W. A.",500023962
+1201,,1883,,Caleb Scribner,Caleb,Scribner,American,"Scribner, Caleb",
+1202,,1945,,Sean Scully,Sean,Scully,American (b. Ireland),"Scully, Sean",500025169
+1203,,1809,1886,Edward Seager,Edward,Seager,American,"Seager, Edward",
+1204,,1920,2011,Ronald Searle,Ronald,Searle,English,"Searle, Ronald",500015772
+1205,,1938,,Richard Serra,Richard,Serra,American,"Serra, Richard",500029327
+1206,,1950s,,Jean Claude Severe,Jean Claude,Severe,Haitian,"Severe, Jean Claude",
+1207,,1927,,Thomas Sgouros,Thomas,Sgouros,American,"Sgouros, Thomas",
+1208,,1898,1969,Ben Shahn,Ben,Shahn,"American, b. Lithuania","Shahn, Ben",500005524
+1209,,1940,,Abby Shahn,Abby,Shahn,American,"Shahn, Abby",
+1210,,1941,,Joel Shapiro,Joel,Shapiro,American,"Shapiro, Joel",500118704
+1211,,,,Jonathan Sharlin,Jonathan,Sharlin,American,"Sharlin, Jonathan",
+1212,,1943,,Susan Shatter,Susan,Shatter,American,"Shatter, Susan",500065344
+1213,,1879,1946,Sydney Dale Shaw,Sydney Dale,Shaw,American (b. England),"Shaw, Sydney Dale",500064771
+1214,,1892,1974,Charles Green Shaw,Charles Green,Shaw,American,"Shaw, Charles Green",500025487
+1215,,,,Oliver Shaw,Oliver,Shaw,American,"Shaw, Oliver",
+1216,,,,T.W. Shaw,T.W.,Shaw,,"Shaw, T.W.",
+1217,,1769,1850,Sir Martin Archer Shee,Sir Martin Archer,Shee,Irish,"Shee, Sir Martin Archer",
+1218,,1883,1965,Charles Sheeler,Charles,Sheeler,American,"Sheeler, Charles",500115325
+1219,,1933,,Rhoda Sherbell,Rhoda,Sherbell,American,"Sherbell, Rhoda",
+1220,,1967,,Koji Shimizu,Koji,Shimizu,Japanese,"Shimizu, Koji",
+1221,,1948,,Tsuji Shinroku,Tsuji,Shinroku,Japanese,"Shinroku, Tsuji",
+1222,,,,H. Sim,H.,Sim,,"Sim, H.",
+1223,,1908,1993,Helena Simkhovitch,Helena,Simkhovitch,American,"Simkhovitch, Helena",500330283
+1224,,1917,1997,Sidney Simon,Sidney,Simon,American,"Simon, Sidney",500344795
+1225,,1704,1780,William Simpkins,William,Simpkins,American,"Simpkins, William",500330606
+1226,,1903,1991,Aaron Siskind,Aaron,Siskind,American,"Siskind, Aaron",500024299
+1227,,1928,,Laurence Sisson,Laurence,Sisson,American,"Sisson, Laurence",
+1228,,1942,,Arlene Slavin,Arlene,Slavin,American,"Slavin, Arlene",500103336
+1229,,1871,1951,John Sloan,John,Sloan,American,"Sloan, John",500014645
+1230,,1951,,Hunt Slonem,Hunt,Slonem,American,"Slonem, Hunt",500088760
+1231,,1688,1751,John Smibert,John,Smibert,American,"Smibert, John",500006043
+1232,,1909,1995,Lawrence Beall Smith,Lawrence Beall,Smith,American,"Smith, Lawrence Beall",500055671
+1233,,1879,1967,Frank Vining Smith,Frank Vining,Smith,American,"Smith, Frank Vining",500018008
+1234,,1812,1896,Russell Smith,Russell,Smith,American (b. Scotland),"Smith, Russell",500019307
+1235,,1959,,Ray Smith,Ray,Smith,Mexican American,"Smith, Ray",500118686
+1236,,,,Wynn Smith,Wynn,Smith,American,"Smith, Wynn",
+1237,,1954,,Kiki Smith,Kiki,Smith,American,"Smith, Kiki",500115982
+1238,,,,J. S. Smith,J. S.,Smith,American,"Smith, J. S.",
+1239,,1943,,David Smyth,David,Smyth,American,"Smyth, David",500021111
+1240,,1927,,Kenneth Snelson,Kenneth,Snelson,American,"Snelson, Kenneth",500007005
+1241,,1909,2008,Joseph Solman,Joseph,Solman,American (b. Russia),"Solman, Joseph",500023702
+1242,,1917,2004,Syd Solomon,Syd,Solomon,American,"Solomon, Syd",500026326
+1243,,,,Kirsten Solvang,Kirsten,Solvang,,"Solvang, Kirsten",
+1244,,,,Watanabe Sonkei,Watanabe,Sonkei,Japanese,"Sonkei, Watanabe",
+1245,,1899,1974,Moses Soyer,Moses,Soyer,American (b. Russia),"Soyer, Moses",500030568
+1246,,1899,1987,Raphael Soyer,Raphael,Soyer,American (b. Russia),"Soyer, Raphael",500009897
+1247,,,,Spagna,,Spagna,,Spagna,
+1248,,1883,1962,Eugene E. Speicher,Eugene E.,Speicher,American,"Speicher, Eugene E.",500003881
+1249,,1883,1962,Euguene E. Speicher,Euguene E.,Speicher,American,"Speicher, Euguene E.",500003881
+1250,,&quot;1944 &quot;,,Alice Spencer,Alice,Spencer,American,"Spencer, Alice",
+1251,,1806,1875,Frederick R. Spencer,Frederick R.,Spencer,American,"Spencer, Frederick R.",500022054
+1252,,c. 1425-1428,c. 1504,Savelli Sperandio,Savelli,Sperandio,Italian,"Sperandio, Savelli",500009228
+1253,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Seattle, Wash. 1962-Member, Jury for Awards, Ceramic National...Prof. of Art, University of Washington, Seattle...Exhibitions: Ceramic National, Syracuse; International Exhibition, Prague, Czechoslovakia...1962-1st Prize, Pacific North West Arts &amp; Crafts Fair Award...Awards: Young Americans-1955; National Exhibition of Contemporary Art-1956; Tiffany Scholarship-1957; Miami Ceramic National-1959; Craftsman of the Year, Bellvue Fair-1961&quot;",,,Robert Sperry,Robert,Sperry,,"Sperry, Robert",
+1254,,1898,1977,Clay Edgar Spohn,Clay Edgar,Spohn,American,"Spohn, Clay Edgar",500335424
+1255,,1887,1971,Carl Sprinchorn,Carl,Sprinchorn,American,"Sprinchorn, Carl",500030288
+1256,,1927,,Jack Squier,Jack,Squier,American,"Squier, Jack",
+1257,,,,David Staber,David,Staber,American,"Staber, David",
+1872,,1856,1935,William Merritt Post,William Merritt,Post,American,"Post, William Merritt",500011969
+1259,,1911,1976,Eva Staehr-Nielson,Eva,Staehr-Nielson,Danish,"Staehr-Nielson, Eva",
+1260,,1920,1990,Carl Henry Stalhane,Carl Henry,Stalhane,Swedish,"Stalhane, Carl Henry",
+1261,,1922,1997,Theodore Stamos,Theodore,Stamos,American,"Stamos, Theodore",500006236
+1262,,1915,1988,Margaret Stark,Margaret,Stark,American,"Stark, Margaret",
+1263,,1810,1885,Junius Brutus Stearns,Junius Brutus,Stearns,American,"Stearns, Junius Brutus",500003873
+1264,,1877,1946,Joseph Stella,Joseph,Stella,American,"Stella, Joseph",500032250
+1265,,1877,1957,Maurice Sterne,Maurice,Sterne,American,"Sterne, Maurice",500026464
+1266,,1888,1969,William Lester Stevens,William Lester,Stevens,American,"Stevens, William Lester",500027556
+1267,,,,Stuart John Stevens,Stuart John,Stevens,,"Stevens, Stuart John",
+1268,,1864,1946,Alfred Stieglitz,Alfred,Stieglitz,American,"Stieglitz, Alfred",500024301
+1269,,1891,1967,Ary Stillman,Ary,Stillman,American,"Stillman, Ary",500095124
+1270,,,,Margaret Vincent Stockler,Margaret Vincent,Stockler,American,"Stockler, Margaret Vincent",
+1271,,1926,,Frank Stout (Attributed To),Frank,Stout (Attributed To),American,"Stout (Attributed To), Frank",
+1272,,1890,1976,Paul Strand,Paul,Strand,American,"Strand, Paul",500003133
+1273,,1896,1987,Henry Strater,Henry,Strater,American,"Strater, Henry",500005838
+1274,,1755,1828,Gilbert Stuart,Gilbert,Stuart,American,"Stuart, Gilbert",500010392
+1275,,1812,1888,Jane Stuart,Jane,Stuart,American,"Stuart, Jane",500006645
+1276,,,,Walter Stuempfig,Walter,Stuempfig,American,"Stuempfig, Walter",
+1277,,1896,1976,Joseph Sudek,Joseph,Sudek,Czechoslavakian,"Sudek, Joseph",500021756
+1278,Lives and works in Japan and the United States,1948,,Hiroshi Sugimoto,Hiroshi,Sugimoto,Japanese,"Sugimoto, Hiroshi",500036907
+1279,,1783,1872,Thomas Sully,Thomas,Sully,American,"Sully, Thomas",500006873
+1280,,1957,,Mary Sumner,Mary,Sumner,English,"Sumner, Mary",
+1281,,1966,,Ena Swansea,Ena,Swansea,American,"Swansea, Ena",500332521
+1282,,1967,,Julianne Swartz,Julianne,Swartz,American,"Swartz, Julianne",500122808
+1283,,,,S. H. Swire,S. H.,Swire,American,"Swire, S. H.",
+1284,,1839,1915,James Brade Sword,James Brade,Sword,American,"Sword, James Brade",500085661
+1285,,1925,2007,John Szarkowski,John,Szarkowski,American,"Szarkowski, John",500125639
+1286,,1955,,Philip Taaffe,Philip,Taaffe,American,"Taaffe, Philip",500026290
+1287,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Cleveland, Ohio. Major Purcahse Prize-Ceramic National, 1962...Instructor in ceramics, Cleveland Art Inst...Works in collections of: Cleveland Museum of Art, Smithsonian, Cranbrook Museum, Detriot Institute of Art, Bangkok Museum, Thailand...Exhibited...Ceramic National, Syracuse; Honolulu Academy; Ceramic Institute, Ostend, Belgium; Brussels World Fair; International Cultural Exchange.&quot;",1922,2011,Toshiko Takaezu,Toshiko,Takaezu,American,"Takaezu, Toshiko",500126272
+1288,,1878,,Fritz B. Talbot,Fritz B.,Talbot,American,"Talbot, Fritz B.",
+1289,,1916,1992,Reuben Tam,Reuben,Tam,American,"Tam, Reuben",500032709
+1290,,1899,1991,Rufino Tamayo,Rufino,Tamayo,Mexican,"Tamayo, Rufino",500024331
+1291,,1859,1937,Henry Ossawa Tanner,Henry Ossawa,Tanner,American,"Tanner, Henry Ossawa",500005351
+1292,,1959,,Stephen Tashjian,Stephen,Tashjian,American,"Tashjian, Stephen",
+1293,,1755,1830,Nicolas Antoine Taunay,Nicolas Antoine,Taunay,French,"Taunay, Nicolas Antoine",500019829
+1294,,1883,1980,Bertha Fanning Taylor,Bertha Fanning,Taylor,American,"Taylor, Bertha Fanning",
+1295,,1898,1957,Pavel Tchelitchew,Pavel,Tchelitchew,Russian,"Tchelitchew, Pavel",500004010
+1296,,1905,1983,Sabina Teichman,Sabina,Teichman,American,"Teichman, Sabina",500032553
+1297,,1610,1690,"David Teniers, The Younger",David,"Teniers, The Younger",Flemish,"Teniers, The Younger, David",
+1298,,1883,1964,Walther Teutsch,Walther,Teutsch,German,"Teutsch, Walther",
+1299,,1849,1921,Abbott H. Thayer,Abbott H.,Thayer,American,"Thayer, Abbott H.",500016002
+1300,,1719,1774,Jeremiah Theus,Jeremiah,Theus,American (b. Switzerland),"Theus, Jeremiah",500031293
+1301,,1920,,Wayne Thiebaud,Wayne,Thiebaud,American,"Thiebaud, Wayne",500010185
+1302,,,,C. David Thomas,C. David,Thomas,American,"Thomas, C. David",
+1303,,,,Harold Thomas,Harold,Thomas,English,"Thomas, Harold",
+1304,,,,Cora P. Thompkins,Cora P.,Thompkins,American,"Thompkins, Cora P.",
+1305,,1892,1982,Susie Wass Thompson,Susie Wass,Thompson,American,"Thompson, Susie Wass",
+1306,,1906,2000,William Thon,William,Thon,American,"Thon, William",500023134
+1307,,1938,,George Tice,George,Tice,American,"Tice, George",
+1308,,1727,1804,Giovanni Domenico Tiepolo,Giovanni Domenico,Tiepolo,Italian,"Tiepolo, Giovanni Domenico",500025154
+1309,,1883,1966,Walter Tittle,Walter,Tittle,American,"Tittle, Walter",500003399
+1310,,1864,1956,George E. Tobin,George E.,Tobin,American,"Tobin, George E.",
+1311,,1864,1901,Henri De Toulouse-Lautrec,Henri De,Toulouse-Lautrec,French,"Toulouse-Lautrec, Henri De",500029114
+1312,Obituary found in The Boston Globe: http://www.boston.com/bostonglobe/obituaries/articles/2008/03/16/harold_tovish_86_sculptor_was_ambitious_for_excellence/?page&#61;full,1921,2008,Harold Tovish,Harold,Tovish,American,"Tovish, Harold",500104949
+1313,,1923,2008,Hugh Townley,Hugh,Townley,American,"Townley, Hugh",500033502
+1314,,,,William Traver,William,Traver,American,"Traver, William",
+1315,,1810,1865,Constant Troyon,Constant,Troyon,French,"Troyon, Constant",500003566
+1316,,1899,1963,Herman Trunk,Herman,Trunk,American,"Trunk, Herman",
+1317,,1865,1952,Katharine Tryon,Katharine,Tryon,American,"Tryon, Katharine",
+1318,,1952,,Philip Tsiaras,Philip,Tsiaras,American,"Tsiaras, Philip",500108122
+1319,,1866,1939,Allen Tucker,Allen,Tucker,American,"Tucker, Allen",500025045
+1320,,1941,,Richard Tuttle,Richard,Tuttle,American,"Tuttle, Richard",500116277
+1321,,1853,1902,J.H. (John Henry) Twachtman,J.H. (John Henry),Twachtman,American,"Twachtman, J.H. (John Henry)",
+1322,,1853,1902,John Henry Twachtman,John Henry,Twachtman,American,"Twachtman, John Henry",500006514
+1323,,1925,,Augustin Ubeda,Augustin,Ubeda,French (b. Spain),"Ubeda, Augustin",500175783
+1324,,1900,1975,Hans Uhlmann,Hans,Uhlmann,German,"Uhlmann, Hans",500013425
+1325,,,,Unknown,,Unknown,Unknown,Unknown,
+1326,,,,Unknown (Illegible Last Name),,Unknown (Illegible Last Name),,Unknown (Illegible Last Name),
+1327,,1885,1964,Max Unold,Max,Unold,German,"Unold, Max",500029478
+1328,,1750,1806,Utamaro (Copy Of Utamaro),,Utamaro (Copy Of Utamaro),Japanese,Utamaro (Copy Of Utamaro),
+1329,,,,Utamaro (Copy),,Utamaro (Copy),Japanese,Utamaro (Copy),
+1330,,1883,1955,Maurice Utrillo,Maurice,Utrillo,French,"Utrillo, Maurice",500008404
+1331,,,,Helene Valentin,Helene,Valentin,French,"Valentin, Helene",
+1332,,1972,,Sam Van Aken,Sam,Van Aken,American,"Van Aken, Sam",
+1333,,ca. 1653,1727,Jan Van Dar Vaart,Jan,Van Dar Vaart,Dutch,"Van Dar Vaart, Jan",500327360
+1334,,1611,1693,"Willem Van De Velde, The Elder",Willem,"Van De Velde, The Elder",Dutch,"Van De Velde, The Elder, Willem",
+1335,,1603,1677,Aert Van Der Neer,Aert,Van Der Neer,Dutch,"Van Der Neer, Aert",500001738
+1336,,1621,1675,Allart Van Everdingen,Allart,Van Everdingen,Dutch,"Van Everdingen, Allart",500115159
+1337,,1889,1959,Johan Van Hell,Johan,Van Hell,Dutch,"Van Hell, Johan",500023754
+1338,,1489,1533,Lucas Van Leyden,Lucas,Van Leyden,Dutch,"Van Leyden, Lucas",500020789
+1339,,1610,1685,Adriaen Van Ostade,Adriaen,Van Ostade,Dutch,"Van Ostade, Adriaen",500021654
+1340,,1624,1693,Willem Van Romeyn,Willem,Van Romeyn,Dutch,"Van Romeyn, Willem",
+1341,,1632,1687,Jurion Van Streek,Jurion,Van Streek,Dutch,"Van Streek, Jurion",500000433
+1342,,1880,1964,Carl van Vechten,Carl,van Vechten,American,"van Vechten, Carl",500058409
+1343,,1814,1886,Thomas Kirby Van Zandt,Thomas Kirby,Van Zandt,American,"Van Zandt, Thomas Kirby",500050699
+1344,,,,Various Artists,,Various Artists,American,Various Artists,
+1345,,1908,1997,Victor Vasarely,Victor,Vasarely,Hungarian,"Vasarely, Victor",500030657
+1346,,1887,1970,Nicholas Vasilieff,Nicholas,Vasilieff,American (b. Russia),"Vasilieff, Nicholas",500029614
+1347,,1758,1836,Carl Vernet,Carl,Vernet,French,"Vernet, Carl",500011057
+1348,,1789,1863,Horace Vernet,Horace,Vernet,French,"Vernet, Horace",500024243
+1349,,1875,1963,Jacques Villon,Jacques,Villon,French,"Villon, Jacques",500003616
+1350,,1930,2010,Tom Vincent,Tom,Vincent,American,"Vincent, Tom",
+1351,,1846,1911,Frederick Porter Vinton,Frederick Porter,Vinton,American,"Vinton, Frederick Porter",500012232
+1352,,,,Vinton,,Vinton,,Vinton,
+1353,,1876,1958,Maurice Vlaminck,Maurice,Vlaminck,French,"Vlaminck, Maurice",
+1354,,1871,1994,Leo Von Konig,Leo,Von Konig,German,"Von Konig, Leo",500007527
+1355,,1920,1992,David Von Schlegell,David,Von Schlegell,American,"Von Schlegell, David",500052017
+1356,,1882,1971,Charles Vyse,Charles,Vyse,English,"Vyse, Charles",500108852
+1357,,1852,1898,Jacob Wagner,Jacob,Wagner,American (b. Bavaria),"Wagner, Jacob",
+1358,,1936,,Paul Waldman,Paul,Waldman,American,"Waldman, Paul",500106417
+1359,,,,James Walford,James,Walford,,"Walford, James",
+1360,,1969,,Kara Walker,Kara,Walker,American,"Walker, Kara",
+1361,,1880,1965,Abraham Walkowitz,Abraham,Walkowitz,American (b. Russia),"Walkowitz, Abraham",500026928
+1362,,,,Wardell &amp; Kempson,,Wardell &amp; Kempson,English (Birmingham),Wardell &amp; Kempson,
+1363,,1928,1987,Andy Warhol,Andy,Warhol,American,"Warhol, Andy",500006031
+1364,,1866,1965,Cadwallader Washburn,Cadwallader,Washburn,American,"Washburn, Cadwallader",500329660
+1365,,1685,1768,John Watson,John,Watson,American (b. Scotland),"Watson, John",500124936
+1366,,1839,1914,Wesley Webber,Wesley,Webber,American,"Webber, Wesley",
+1367,,1881,1961,Max Weber,Max,Weber,"American, b. Poland","Weber, Max",500029261
+1368,,1930,,Larry Webster,Larry,Webster,American,"Webster, Larry",500119529
+1369,,1907,2001,Emil Weddige,Emil,Weddige,American (b. Canada),"Weddige, Emil",
+1370,,1922,1998,James Weeks,James,Weeks,American,"Weeks, James",500092651
+1371,,1899,1989,Katherine Lane Weems,Katherine Lane,Weems,American,"Weems, Katherine Lane",
+1372,,1943,,William Wegman,William,Wegman,American,"Wegman, William",500118696
+1373,,2/10/42,,Lawrence Weiner,Lawrence,Weiner,American,"Weiner, Lawrence",500013081
+1374,,1875,1942,Emil Rudolf Weiss,Emil Rudolf,Weiss,German,"Weiss, Emil Rudolf",500060204
+1375,,,,Mrs. G.N. Wellington,Mrs. G.N.,Wellington,,"Wellington, Mrs. G.N.",
+1376,,1929,2005,Neil Welliver,Neil,Welliver,American,"Welliver, Neil",
+1377,,1925,2009,Mac Wells,Mac,Wells,American,"Wells, Mac",
+1378,,1859,1932,Theodore Wendel,Theodore,Wendel,American,"Wendel, Theodore",500022273
+1379,,,,Wendell,,Wendell,"American (Albany, N.Y.)",Wendell,
+1380,,1783,1820,Benjamin West (Attributed To),Benjamin,West (Attributed To),American,"West (Attributed To), Benjamin",
+1381,,1839,1913,Mary Coburn Weston,Mary Coburn,Weston,American,"Weston, Mary Coburn",
+1382,,1886,1958,Edward Weston,Edward,Weston,American,"Weston, Edward",500003372
+1383,,1915,1993,Aida Whedon,Aida,Whedon,American,"Whedon, Aida",
+1384,,1834,1903,James McNeill Whistler,James McNeill,Whistler,American,"Whistler, James McNeill",500012432
+1572,,1900,1992,Barbara Morgan,Barbara,Morgan,American,"Morgan, Barbara",500023840
+1570,,1958,,Uta Barth,Uta,Barth,American,"Barth, Uta",500331302
+1571,,1904,1983,Bill Brandt,Bill,Brandt,English,"Brandt, Bill",500026943
+1388,,1891,1960,Dorothy Emmons Whitchurch,Dorothy Emmons,Whitchurch,American,"Whitchurch, Dorothy Emmons",
+1389,,1943,,Franklin White,Franklin,White,American,"White, Franklin",
+1390,,1953-4,,Laurie White,Laurie,White,American,"White, Laurie",
+1391,,1852,1904,Sarah Wyman Whitman,Sarah Wyman,Whitman,American,"Whitman, Sarah Wyman",500031800
+1392,,1921,1965,Anne Gwynn Whittlesey,Anne Gwynn,Whittlesey,American,"Whittlesey, Anne Gwynn",
+1393,,1903,1959,John Whorf,John,Whorf,American,"Whorf, John",500027972
+1394,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Guerneville, Calif. Director of Pond Farm Pottery School, Calif...1962- Represented in &quot;1000 Years of American Pottery, Museum of Contemporary Crafts, New York City...1962- One man exhibition, Detroit Institute of Art...1962-Merit Award, San Francisco Arts Festival...1959- Major Award, Ceramic International.&quot;",1896,1985,Marguerite Wildenhain,Marguerite,Wildenhain,American,"Wildenhain, Marguerite",500096143
+1395,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Rochester, N.Y. Studied at Bauhaus-Weimer, Germany...Prizes: International Exhibition, Paris and many American exhibitions...Works in museums in Rotterdam, Amsterdam, England, Belgium, Florence and Milan, Italy...Represented in &quot;1000 Years of American Pottery- 1962 Museum of Contemporary Crafts, New York City...Prof. of Ceramics, School for American Craftsmen, Rochester, New York.&quot;",1905,1980,Frans Wildenhain,Frans,Wildenhain,German,"Wildenhain, Frans",500059428
+1396,,1861,1948,Irving Ramsey Wiles,Irving Ramsey,Wiles,American,"Wiles, Irving Ramsey",500030155
+1397,,1937,,William T. Wiley,William T.,Wiley,American,"Wiley, William T.",500022350
+1398,,,,J.T. Williams,J.T.,Williams,American,"Williams, J.T.",
+1399,,,,William T. Williams,William T.,Williams,American,"Williams, William T.",
+1400,,1926,,Gerry Williams,Gerry,Williams,American,"Williams, Gerry",
+1401,,,,Williams,,Williams,,Williams,
+1402,,1895,1989,Bode Willumsen,Bode,Willumsen,Danish,"Willumsen, Bode",
+1403,,1943,1987,Christopher Wilmarth,Christopher,Wilmarth,American,"Wilmarth, Christopher",
+1404,,1714,1782,Richard Wilson,Richard,Wilson,English,"Wilson, Richard",500022703
+1405,,1915,1987,Richard Wilt,Richard,Wilt,American,"Wilt, Richard",500372857
+1406,,1918,2006,Born Winblad,Born,Winblad,Danish,"Winblad, Born",500085098
+1407,,1928,1984,Garry Winogrand,Garry,Winogrand,American,"Winogrand, Garry",500014550
+1408,,1903,1977,Robert Winokur,Robert,Winokur,American,"Winokur, Robert",
+1409,,1892,1958,Andrew Winter,Andrew,Winter,American,"Winter, Andrew",500052042
+1410,,1869,1942,Charles Allan Winter,Charles Allan,Winter,American,"Winter, Charles Allan",500107999
+1411,,1905,1976,Fritz Winter,Fritz,Winter,German,"Winter, Fritz",500015352
+1412,,1903,1977,Thelma Fraser Winter,Thelma Fraser,Winter,American,"Winter, Thelma Fraser",500086884
+1413,,1913,2002,"Milo K. Winter, Jr.",Milo K.,"Winter, Jr.",American,"Winter, Jr., Milo K.",
+1414,,1905,1985,Denny Winters,Denny,Winters,American,"Winters, Denny",
+1415,,1949,,Terry Winters,Terry,Winters,American,"Winters, Terry",500000039
+1416,,1736,1767,John Wollaston,John,Wollaston,"English, Active American Colonies 1749-58; 1767 (P. 10, Handbook Of The Colby Co","Wollaston, John",
+1417,,1892,1942,Grant Wood,Grant,Wood,American,"Wood, Grant",500031056
+1418,,1864,1940,Charles Herbert Woodbury,Charles Herbert,Woodbury,American,"Woodbury, Charles Herbert",500008853
+1419,,1781,1852,John A. Woodside,John A.,Woodside,American,"Woodside, John A.",500015290
+1420,,1877,1945,Mabel May Woodward,Mabel May,Woodward,American,"Woodward, Mabel May",500027362
+1779,,1954,,Daniel D. Teoli Jr.,Daniel D.,Teoli Jr.,American,"Teoli Jr., Daniel D.",
+1422,,1882,1945,N.C. Wyeth,N.C.,Wyeth,American,"Wyeth, N.C.",500029772
+1423,,1917,2009,Andrew Wyeth,Andrew,Wyeth,American,"Wyeth, Andrew",500001266
+1424,,1946,,Jamie Wyeth,Jamie,Wyeth,American,"Wyeth, Jamie",500001584
+1425,"From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;E. Weymouth, Mass. 1962-Represented in &quot;1000 Years of American Pottery, Museum of Contemporary Crafts, New York City...Major Purchase Awards-1961-62, Ceramic National...Exhibits: International Exhibit, Ostend, Belguim, Brussels World&#39;s Fair...1961-One man show, Siembab Gallery, Boston...Professor of Ceramics, Mass. College of Art, Boston...Instructor: DeCordova Museum, Lincoln, Mass.; Haystack Mountain School of Crafts, Deer Isle, Maine.&quot;",1922,1980,William Wyman,William,Wyman,,"Wyman, William",
+1426,,,,Wyman,,Wyman,,Wyman,
+1427,,,,Wayne Yanz,Wayne,Yanz,American,"Yanz, Wayne",
+1428,,,,Ken Yomura,Ken,Yomura,Japanese,"Yomura, Ken",
+1429,,,,Yoshikuni,,Yoshikuni,Japanese,Yoshikuni,
+1430,,,,Yoshitora,,Yoshitora,Japanese,Yoshitora,
+1431,,1926,,Jack Youngerman,Jack,Youngerman,American,"Youngerman, Jack",500004402
+1432,,1547,1628,Ding Yunpeng,Ding,Yunpeng,Chinese,"Yunpeng, Ding",500125747
+1433,,1921,2013,Zao Wou-Ki,,Zao Wou-Ki,"French, b. China",Zao Wou-Ki,500029565
+1434,,1623,1664,Reinier Nooms Zeeman,Reinier Nooms,Zeeman,Dutch,"Zeeman, Reinier Nooms",
+1435,,1903,1972,Karl Zerbe,Karl,Zerbe,American (b. Germany),"Zerbe, Karl",500020391
+1436,,,,Thomas Zetterstrom,Thomas,Zetterstrom,American,"Zetterstrom, Thomas",
+1437,,,,Rocheng Zhang (Attributed),Rocheng,Zhang (Attributed),Chinese,"Zhang (Attributed), Rocheng",
+1438,,,,Valerie Zint,Valerie,Zint,,"Zint, Valerie",
+1439,,1887,1968,Marguerite Zorach,Marguerite,Zorach,American,"Zorach, Marguerite",
+1440,,1887,1966,William Zorach,William,Zorach,"American, (b. Lithuania)","Zorach, William",500003603
+1441,,1965,,John Zurier,John,Zurier,American,"Zurier, John",500333337
+1442,,,,"Anonymous, Chinese (Shang Period)",,"Anonymous, Chinese (Shang Period)",,"Anonymous, Chinese (Shang Period)",
+1443,,1876,1964,Walter Farndon,Walter,Farndon,American,"Farndon, Walter",500048663
+1444,,,,William Hilliard,William,Hilliard,,"Hilliard, William",
+1445,,1830,1886,Virgil Williams,Virgil,Williams,American,"Williams, Virgil",500009435
+1446,,,,"Anonymous, Pre-Columbian, Mayan",,"Anonymous, Pre-Columbian, Mayan",,"Anonymous, Pre-Columbian, Mayan",
+1474,,1956,,Hannah Collins,Hannah,Collins,British,"Collins, Hannah",500062011
+1448,,,,"Anonymous, Pre-Columbian, Ecuador",,"Anonymous, Pre-Columbian, Ecuador",,"Anonymous, Pre-Columbian, Ecuador",
+1449,,1915,1978,Harry Bertoia,Harry,Bertoia,American,"Bertoia, Harry",500032341
+1450,,1883,1976,Imogen Cunningham,Imogen,Cunningham,American,"Cunningham, Imogen",500115187
+1451,,1848,1933,Louis Comfort Tiffany,Louis Comfort,Tiffany,American,"Tiffany, Louis Comfort",500030415
+1452,,1970,,Amy Stacey Curtis,Amy Stacey,Curtis,American,"Curtis, Amy Stacey",
+1453,,1931,,John Baldessari,John,Baldessari,American,"Baldessari, John",500098854
+1454,,1956,,Gary Green,Gary,Green,American,"Green, Gary",
+1455,,1956,,Gary Green,Gary,Green,American,"Green, Gary",
+1456,,1933,,Sam Gilliam,Sam,Gilliam,American,"Gilliam, Sam",500013570
+1457,,1958,,Ellen Berkenblit,Ellen,Berkenblit,American,"Berkenblit, Ellen",500330316
+1458,,1970,,Robert Zandvliet,Robert,Zandvliet,Dutch,"Zandvliet, Robert",500330513
+1459,,,,Harry Brooker,Harry,Brooker,British,"Brooker, Harry",
+1460,,1844,1927,Sir Luke Fildes,Sir Luke,Fildes,British,"Fildes, Sir Luke",
+1461,,1872,1965,Louis Kronberg,Louis,Kronberg,American,"Kronberg, Louis",500003749
+1462,,1863,1930,Gardner George Symons,Gardner George,Symons,American,"Symons, Gardner George",500026138
+1463,,1927,,Wolf Kahn,Wolf,Kahn,American,"Kahn, Wolf",500084815
+1464,,1883,1935,Charles Demuth,Charles,Demuth,American,"Demuth, Charles",500004441
+1465,,1954,,Juan Usl&#233;,Juan,Usl&#233;,Spanish,"Usl&#233;, Juan",500083573
+1466,,1967,,Olafur Eliasson,Olafur,Eliasson,Danish,"Eliasson, Olafur",500116131
+1467,,1969,,Roman Lipski,Roman,Lipski,Polish,"Lipski, Roman",
+1468,,1944,,Alan Saret,Alan,Saret,American,"Saret, Alan",500007856
+1469,,1938,2015,Robert Berlind,Robert,Berlind,American,"Berlind, Robert",500097633
+1470,,1942,1994,Joe Brainard,Joe,Brainard,American,"Brainard, Joe",500027180
+1471,,1954,,Paul Winstanley,Paul,Winstanley,British,"Winstanley, Paul",500335822
+1472,,1952,,John Coffer,John,Coffer,American,"Coffer, John",
+1473,,1902,1984,Ansel Adams,Ansel,Adams,American,"Adams, Ansel",500026108
+1475,,1856,1915,John White Alexander,John White,Alexander,American,"Alexander, John White",500025329
+1476,,1842,1881,Pietro Barzanti,Pietro,Barzanti,Italian,"Barzanti, Pietro",
+1477,,1838,1910,Etienne Berne-Bellecour,Etienne,Berne-Bellecour,French,"Berne-Bellecour, Etienne",
+1478,,1811,1879,George Caleb Bingham,George Caleb,Bingham,American,"Bingham, George Caleb",500028547
+1479,,1857,1903,Robert Frederick Blum,Robert Frederick,Blum,American,"Blum, Robert Frederick",500003750
+1480,,1840,1915,Edward Darley Boit,Edward Darley,Boit,American,"Boit, Edward Darley",500031631
+1481,,1824,1898,Eugene Boudin,Eugene,Boudin,French,"Boudin, Eugene",500004513
+1482,,1825,1905,William-Adolphe Bouguereau,William-Adolphe,Bouguereau,French,"Bouguereau, William-Adolphe",500011205
+1483,,1831,1913,John George Brown,John George,Brown,"American, b. England","Brown, John George",500000315
+1484,,1856,1931,Jefferson David Chalfant,Jefferson David,Chalfant,American,"Chalfant, Jefferson David",500007461
+1485,,1826,1900,Frederic Edwin Church,Frederic Edwin,Church,American,"Church, Frederic Edwin",500115265
+1486,,1817,1878,Charles-Francois Daubigny,Charles-Francois,Daubigny,French,"Daubigny, Charles-Francois",500115164
+1487,,1853,1924,Joseph Decker,Joseph,Decker,American,"Decker, Joseph",500026392
+1488,,1829,1905,Robert Spear Dunning,Robert Spear,Dunning,American,"Dunning, Robert Spear",500105651
+1489,,1844,1916,Thomas Eakins,Thomas,Eakins,American,"Eakins, Thomas",500115198
+1490,,1836,1904,Henri Fantin-Latour,Henri,Fantin-Latour,French,"Fantin-Latour, Henri",500025754
+1491,,1824,1910,Seymour Joseph Guy,Seymour Joseph,Guy,American,"Guy, Seymour Joseph",500023177
+1492,,1858,1928,Henry Siddons Mowbray,Henry Siddons,Mowbray,American,"Mowbray, Henry Siddons",500028625
+1493,,1886,1957,Armin Carl Hansen,Armin Carl,Hansen,American,"Hansen, Armin Carl",500003132
+1494,,1840,1895,Thomas Hovenden,Thomas,Hovenden,American,"Hovenden, Thomas",500030718
+1495,,c. 1843,c. 1917,Henry Roderick Newman,Henry Roderick,Newman,American,"Newman, Henry Roderick",500031949
+1496,,1859,1938,Elizabeth Nourse,Elizabeth,Nourse,American,"Nourse, Elizabeth",500009983
+1497,,1873,1939,Ernest Lawson,Ernest,Lawson,American,"Lawson, Ernest",500026852
+1498,,1818,1882,Thomas Le Clear,Thomas,Le Clear,American,"Le Clear, Thomas",500125339
+1499,,1852,1930,Antonio Mancini,Antonio,Mancini,Italian,"Mancini, Antonio",500024973
+1500,,,,Eva Marco,Eva,Marco,,"Marco, Eva",
+1501,,,,Paul Marco,Paul,Marco,,"Marco, Paul",
+1502,,1817,1904,Erastus Dow Palmer,Erastus Dow,Palmer,American,"Palmer, Erastus Dow",500023296
+1503,,1854,1907,John Frederick Peto,John Frederick,Peto,American,"Peto, John Frederick",500030892
+1504,,1861,1949,Edward Antoon Portielje,Edward Antoon,Portielje,Belgian,"Portielje, Edward Antoon",500045207
+1505,,1857,1927,Edward Henry Potthast,Edward Henry,Potthast,American,"Potthast, Edward Henry",
+1506,,1867,1917,Bela Lyon Pratt,Bela Lyon,Pratt,American,"Pratt, Bela Lyon",500095555
+1507,,1833,1905,William Trost Richards,William Trost,Richards,American,"Richards, William Trost",500014455
+1508,,1894,1978,Norman Rockwell,Norman,Rockwell,American,"Rockwell, Norman",500018505
+1509,,1838,1915,Francis Hopkinson Smith,Francis Hopkinson,Smith,American,"Smith, Francis Hopkinson",500016368
+1510,,1879,1973,Edward Steichen,Edward,Steichen,American,"Steichen, Edward",
+1511,,1862,1938,Edmund Charles Tarbell,Edmund Charles,Tarbell,American,"Tarbell, Edmund Charles",500025696
+1512,,1849,1925,Dwight Tryon,Dwight,Tryon,American,"Tryon, Dwight",
+1513,,,,S. R. Stoddard,S. R.,Stoddard,,"Stoddard, S. R.",
+1514,,1861,1930,William Ordway Partridge,William Ordway,Partridge,American,"Partridge, William Ordway",500110361
+1515,,1869,1941,William McGregor Paxton,William McGregor,Paxton,American,"Paxton, William McGregor",500003172
+1516,,,,"Chinese, Northern Qi Dynasty Anonymous","Chinese, Northern Qi Dynasty",Anonymous,Chinese,"Anonymous, Chinese, Northern Qi Dynasty",
+1517,,1858,1923,Joseph Rodefer DeCamp,Joseph Rodefer,DeCamp,American,"DeCamp, Joseph Rodefer",
+1518,,1851,1938,Thomas Wilmer Dewing,Thomas Wilmer,Dewing,American,"Dewing, Thomas Wilmer",500014554
+1519,,1823,1880,Sanford Robinson Gifford,Sanford Robinson,Gifford,American,"Gifford, Sanford Robinson",500019147
+1520,,1848,1892,William Michael Harnett,William Michael,Harnett,"American, b. Ireland","Harnett, William Michael",500032464
+1521,,1879,1947,Edward Francis McCartan,Edward Francis,McCartan,American,"McCartan, Edward Francis",
+1522,,1872,1955,Bessie Potter Vonnoh,Bessie Potter,Vonnoh,American,"Vonnoh, Bessie Potter",500015103
+1523,,1849,1903,Edwin Lord Weeks,Edwin Lord,Weeks,American,"Weeks, Edwin Lord",500023842
+1524,,1876,1973,Anna Hyatt Huntington,Anna Hyatt,Huntington,American,"Huntington, Anna Hyatt",500028984
+1525,Lives and works in England.,1940,,Susan Hiller,Susan,Hiller,British (b. America),"Hiller, Susan",500031751
+1526,,1947,,William Acheff,William,Acheff,American,"Acheff, William",
+1527,,1897,1966,Kenneth Miller Adams,Kenneth Miller,Adams,American,"Adams, Kenneth Miller",500003776
+1528,,1874,1952,Oscar Edward Berninghaus,Oscar Edward,Berninghaus,American,"Berninghaus, Oscar Edward",500029522
+1529,,1887,1938,Laverne Nelson Black,Laverne Nelson,Black,American,"Black, Laverne Nelson",500069830
+1530,,1874,1960,Ernest Blumenschein,Ernest,Blumenschein,American,"Blumenschein, Ernest",
+1531,,1851-1852,1917,John Joseph Boyle,John Joseph,Boyle,American,"Boyle, John Joseph",500076309
+1532,,1879,1934,Gerald Cassidy,Gerald,Cassidy,American,"Cassidy, Gerald",500100969
+1533,,1866,1936,Eanger Irving Couse,Eanger Irving,Couse,American,"Couse, Eanger Irving",500016091
+1534,,1861,1944,Cyrus E. Dallin,Cyrus E.,Dallin,American,"Dallin, Cyrus E.",500009366
+1535,,1818,1867,Charles Deas,Charles,Deas,American,"Deas, Charles",500026136
+1536,,1875,1946,Maynard Dixon,Maynard,Dixon,American,"Dixon, Maynard",500012108
+1537,,1878,1936,William Herbert Dunton,William Herbert,Dunton,American,"Dunton, William Herbert",500008822
+1538,,1847,1916,Henry Farny,Henry,Farny,American (b. France),"Farny, Henry",
+1539,,1881,1955,Nicolai Fechin,Nicolai,Fechin,Russian,"Fechin, Nicolai",500012178
+1540,,1882,1964,Leon Gaspard,Leon,Gaspard,American,"Gaspard, Leon",500006633
+1541,,1886,1956,Ernest Martin Hennings,Ernest Martin,Hennings,American,"Hennings, Ernest Martin",500010923
+1542,,1884,1949,Victor Higgins,Victor,Higgins,American,"Higgins, Victor",500002364
+1543,,1867,1934,Charles Harry Humphriss,Charles Harry,Humphriss,English,"Humphriss, Charles Harry",
+1544,,1874,1939,Frank Tenney Johnson,Frank Tenney,Johnson,American,"Johnson, Frank Tenney",500016773
+1545,,1843,1907,Edward Kemeys,Edward,Kemeys,American,"Kemeys, Edward",500336677
+1546,,1866,1955,William Robinson Leigh,William Robinson,Leigh,American,"Leigh, William Robinson",500017580
+1547,,1866,1947,Hermon Atkins MacNeil,Hermon Atkins,MacNeil,American,"MacNeil, Hermon Atkins",500027891
+1548,,1868,1956,Bert Geer Phillips,Bert Geer,Phillips,American,"Phillips, Bert Geer",500020985
+1549,,1862,1950,Alexander Phimister Proctor,Alexander Phimister,Proctor,American,"Proctor, Alexander Phimister",500024193
+1550,,1861,1909,Frederic Remington,Frederic,Remington,American,"Remington, Frederic",500024759
+1551,,1859,1953,Joseph Henry Sharp,Joseph Henry,Sharp,American,"Sharp, Joseph Henry",500019643
+1552,,1871,1922,Henry Merwin Shrady,Henry Merwin,Shrady,American,"Shrady, Henry Merwin",500076927
+1553,,1814,1872,John Mix Stanley,John Mix,Stanley,American,"Stanley, John Mix",500028784
+1554,,1876,1936,Walter Ufer,Walter,Ufer,American,"Ufer, Walter",500001444
+1555,,1870,1952,Adolph Alexander Weinman,Adolph Alexander,Weinman,American,"Weinman, Adolph Alexander",500090663
+1556,,1820,1910,Worthington Whittredge,Worthington,Whittredge,American,"Whittredge, Worthington",500017639
+1557,,1969,,Ann Pibal,Ann,Pibal,American,"Pibal, Ann",
+1558,,1945,,Winston Roeth,Winston,Roeth,American,"Roeth, Winston",500331557
+1559,,1828,1901,Edward Mitchell Bannister,Edward Mitchell,Bannister,"American, b. Canada","Bannister, Edward Mitchell",500006433
+1560,,1824 or 1834,1884,George Kendall Warren,George Kendall,Warren,American,"Warren, George Kendall",500037181
+1561,,1954,,Fred Wilson,Fred,Wilson,American,"Wilson, Fred",500231677
+1562,,1938,,Pat Steir,Pat,Steir,American,"Steir, Pat",500025304
+1563,,1949,,Laurie Simmons,Laurie,Simmons,American,"Simmons, Laurie",500077698
+1564,,1952,,Dirk McDonnell,Dirk,McDonnell,American,"McDonnell, Dirk",
+1565,,1956,,Lalla Essaydi,Lalla,Essaydi,Moroccan,"Essaydi, Lalla",500355941
+1566,,1971,,Susie J. Lee,Susie J.,Lee,American,"Lee, Susie J.",
+1567,,,,Amy Kaufman,Amy,Kaufman,American,"Kaufman, Amy",
+1568,Copyright for artist is overseen by VAGA,1925,1996,Duane Hanson,Duane,Hanson,American,"Hanson, Duane",500007844
+1569,,1959,,Maya Lin,Maya,Lin,American,"Lin, Maya",500001306
+1573,,1901,1988,Carlotta M. Corpron,Carlotta M.,Corpron,American,"Corpron, Carlotta M.",500058199
+1574,,1907,1981,Ilya Bolotowsky,Ilya,Bolotowsky,American (b. Russia),"Bolotowsky, Ilya",500014068
+1575,,1928,2005,Al Held,Al,Held,American,"Held, Al",500026154
+1576,,1961,,Martin Maloney,Martin,Maloney,British,"Maloney, Martin",500057419
+1577,,1968,,Thomas Scheibitz,Thomas,Scheibitz,German,"Scheibitz, Thomas",500199494
+1578,,1937,1966,Bob Thompson,Bob,Thompson,American,"Thompson, Bob",
+1579,,1890,1955,John Rohrbach,John,Rohrbach,American,"Rohrbach, John",
+1580,,1925,,Walter Feldman,Walter,Feldman,American,"Feldman, Walter",
+1581,,1946,,David MacCauley,David,MacCauley,American,"MacCauley, David",
+1582,,,,Gayle Mandle,Gayle,Mandle,,"Mandle, Gayle",
+1583,,,,Thomas Mills,Thomas,Mills,British,"Mills, Thomas",
+1584,,,,M. Ruf,M.,Ruf,,"Ruf, M.",
+1585,,,,Joseph Squires,Joseph,Squires,,"Squires, Joseph",
+1586,,1915,1999,J. Malcolm Greany,J. Malcolm,Greany,American,"Greany, J. Malcolm",
+1587,,1903,1975,Walker Evans,Walker,Evans,American,"Evans, Walker",500012076
+1588,,1894,1985,R. Brooks,R.,Brooks,American,"Brooks, R.",
+1589,,1934,,Lee Norman Friedlander,Lee Norman,Friedlander,American,"Friedlander, Lee Norman",
+1590,,1941,,Burton Pritzker,Burton,Pritzker,American,"Pritzker, Burton",500343361
+1591,,1959,,John Whalley,John,Whalley,American,"Whalley, John",
+1592,,1955,,Don Muchow,Don,Muchow,American,"Muchow, Don",
+1593,,1964,,Jason Fox,Jason,Fox,American,"Fox, Jason",500330641
+1594,,1970,,T.S. Beall,T.S.,Beall,,"Beall, T.S.",
+1988,,1967,,Rivane Neuenschwander,Rivane,Neuenschwander,Brazilan,"Neuenschwander, Rivane",500332207
+1596,,1959,,Peter Doig,Peter,Doig,British,"Doig, Peter",500094247
+1597,,,,Jack Calderwood,Jack,Calderwood,,"Calderwood, Jack",
+1598,,,,R. Brooks,R.,Brooks,,"Brooks, R.",
+1599,,1914,1997,Ralph Fasanella,Ralph,Fasanella,American,"Fasanella, Ralph",500093721
+1600,,1905,1988,Robert Disraeli,Robert,Disraeli,American,"Disraeli, Robert",500037023
+1601,,1905,1977,Kay Bell Reynal,Kay Bell,Reynal,American,"Reynal, Kay Bell",
+1602,,1956,,Lalla Essaydi,Lalla,Essaydi,Moroccan,"Essaydi, Lalla",500355941
+1603,Obituary found: http://www.guardian.co.uk/artanddesign/2010/nov/18/gillian-lowndes-obituary  ,1942,2001,Roger Mertin,Roger,Mertin,American,"Mertin, Roger",500068976
+1604,,1940,,Tod Papageorge,Tod,Papageorge,American,"Papageorge, Tod",500037044
+1605,,1908,1976,Minor White,Minor,White,American,"White, Minor",500000194
+1606,,,,Donald DuBose Duncan,Donald DuBose,Duncan,American,"Duncan, Donald DuBose",
+1607,,1918,1979,Charles White,Charles,White,American,"White, Charles",
+1608,,,,Steven Haas,Steven,Haas,American,"Haas, Steven",
+1609,,1923,2006,Martha Holmes,Martha,Holmes,American,"Holmes, Martha",500125497
+1610,,1901,1983,Lisette Model,Lisette,Model,American,"Model, Lisette",500000242
+1611,,1967,,Spencer Tunick,Spencer,Tunick,American,"Tunick, Spencer",500335235
+1612,,,,Stanis?aw Dr&#243;zdz,Stanis?aw,Dr&#243;zdz,,"Dr&#243;zdz, Stanis?aw",
+1613,,1748,1793,Isaak Ouwater,Isaak,Ouwater,Duth,"Ouwater, Isaak",500011275
+1614,,1606,1662,Johannes Corneliszoon Verspronck,Johannes Corneliszoon,Verspronck,Netherlandish,"Verspronck, Johannes Corneliszoon",
+1615,,1956,,Andrew Bush,Andrew,Bush,American,"Bush, Andrew",500291276
+1616,,1964,,Sharon Lockhart,Sharon,Lockhart,American,"Lockhart, Sharon",500114649
+1617,,1969,,Loretta Lux,Loretta,Lux,German,"Lux, Loretta",500330869
+1618,,1960,,An-My L&#234;,An-My,L&#234;,American (b. Vietnam),"L&#234;, An-My",
+1619,,1738,1820,Benjamin West,Benjamin,West,American,"West, Benjamin",500026989
+1620,,1855,1930,Louis Charles Moeller,Louis Charles,Moeller,American,"Moeller, Louis Charles",500013286
+1621,,,,Rose Marasco,Rose,Marasco,America,"Marasco, Rose",
+1622,,1933,,William Anastasi,William,Anastasi,American,"Anastasi, William",500056778
+1623,,1944,,Frank Badur,Frank,Badur,American,"Badur, Frank",500081618
+1624,,1954,,Jill Baroff,Jill,Baroff,American,"Baroff, Jill",500349192
+1625,,1940,,Mel Bochner,Mel,Bochner,American,"Bochner, Mel",500032444
+1626,,1960,,Sabine Friesicke,Sabine,Friesicke,German,"Friesicke, Sabine",
+1627,,1964,,Frank Gerritz,Frank,Gerritz,German,"Gerritz, Frank",
+1628,,1947,,Nancy Haynes,Nancy,Haynes,American,"Haynes, Nancy",500006669
+1629,,1960,,Christine Hiebert,Christine,Hiebert,American (b. Switzerland),"Hiebert, Christine",500355635
+1630,,1954,,Bronlyn Jones,Bronlyn,Jones,American,"Jones, Bronlyn",
+1631,,1964,,Sharon Louden,Sharon,Louden,American,"Louden, Sharon",500329929
+1632,,1958,,Susanna Niederer,Susanna,Niederer,Swiss,"Niederer, Susanna",
+1633,,1941,,Erik Saxon,Erik,Saxon,American,"Saxon, Erik",
+1634,,1967,,Karen Schiff,Karen,Schiff,American,"Schiff, Karen",
+1635,,1957,,Sara Sosnowy,Sara,Sosnowy,American,"Sosnowy, Sara",500331668
+1636,,1957,,James Siena,James,Siena,American,"Siena, James",500122621
+1637,,1964,,Hadi Tabatabai,Hadi,Tabatabai,Iranian,"Tabatabai, Hadi",500332035
+1638,,1941,2011,Alan Uglow,Alan,Uglow,British,"Uglow, Alan",500072149
+1639,,1941,,Lienhard von Monkiewitsch,Lienhard,von Monkiewitsch,German,"von Monkiewitsch, Lienhard",
+1640,,1944,,Marjorie Welish,Marjorie,Welish,American,"Welish, Marjorie",500332897
+1641,,1943,,Joan Witek,Joan,Witek,American,"Witek, Joan",500090694
+1642,,1963,,Jessica Craig-Martin,Jessica,Craig-Martin,American,"Craig-Martin, Jessica",500333321
+1643,,1965,,Caro Jost,Caro,Jost,German,"Jost, Caro",
+1644,,1926,,Frank Paulin,Frank,Paulin,American,"Paulin, Frank",500350028
+1645,,1925,2008,Joseph Fiore,Joseph,Fiore,,"Fiore, Joseph",
+1646,,1932,2006,Nam June Paik,Nam June,Paik,South Korean,"Paik, Nam June",500118744
+1647,,1952,,David Salle,David,Salle,American,"Salle, David",500027321
+1648,,1951,,Stephen Hannock,Stephen,Hannock,American,"Hannock, Stephen",500330770
+1649,,1965,,Caro Jost,Caro,Jost,German,"Jost, Caro",
+1650,,1607,1677,Wenceslaus Hollar,Wenceslaus,Hollar,Bohemian,"Hollar, Wenceslaus",500028368
+1651,,ca. 1445,1513,Anton Koberger,Anton,Koberger,German,"Koberger, Anton",500099199
+1652,,1931,,Bridget Riley,Bridget,Riley,British,"Riley, Bridget",500013384
+1653,,1938,,Sylvia Plimack Mangold,Sylvia Plimack,Mangold,American,"Mangold, Sylvia Plimack",500006404
+1654,,1944,,Helmut Federle,Helmut,Federle,Swiss,"Federle, Helmut",500066736
+1655,,1926,1976,Wallace Berman,Wallace,Berman,American,"Berman, Wallace",500025293
+1656,,1853,1942,William Couper,William,Couper,American,"Couper, William",500062459
+1657,,1894,1985,Andr&#233; Kert&#233;sz,Andr&#233;,Kert&#233;sz,Hungarian,"Kert&#233;sz, Andr&#233;",500019907
+1658,,1938,,Vija Celmins,Vija,Celmins,American (b. Latvia),"Celmins, Vija",500078777
+1659,,1931,,Lee Bontecou,Lee,Bontecou,American,"Bontecou, Lee",500024833
+1660,,1970,,Julie Mehretu,Julie,Mehretu,American (b. Ethiopia),"Mehretu, Julie",500122539
+1722,,1874,1951,Charles Tefft,Charles,Tefft,American,"Tefft, Charles",
+1662,,1882,1966,Alvin Langdon Coburn,Alvin Langdon,Coburn,American,"Coburn, Alvin Langdon",500010929
+1663,,1953,,Dawoud Bey,Dawoud,Bey,American,"Bey, Dawoud",500114579
+1664,,1963,,Yun-Fei Ji,Yun-Fei,Ji,Chinese,"Ji, Yun-Fei",500330313
+1665,,1951,2004,Carter Zervas,Carter,Zervas,American,"Zervas, Carter",
+1666,,1819,1877,Gustave Courbet,Gustave,Courbet,French,"Courbet, Gustave",500010927
+1667,,1979,,Nicole Wittenberg,Nicole,Wittenberg,American,"Wittenberg, Nicole",
+1668,"Alan Gussow was born in New York City where he studied art at the Pratt Institute before graduating from Middlebury College in 1952. While studying painting at Cooper Union from 1952 to 1953, he was awarded a Prix de Rome and continued his work at the American Academy in Rome, 1953 to 1955. Gussow taught painting at Parsons School of Design until 1968 and beginning in 1970 served for many years as a Consultant in the Arts for the National Park Service of the United States Department of the Interior where he conceived and inaugurated the first Artist in Residence Program for the National Park Service. He was Visiting Artist and Senior Lecturer at the University of California, Santa Cruz in 1975 and again in 1982, and was a Visiting Professor of Art at Iowa State University (1984), and Middlebury College in 1986. In 1986 and 1987 he was Artist in Residence at the American Academy in Rome and in 1990 was named a Regents Professor at the University of California, Santa Cruz, where he also served in 1992 as Adjunct Professor of Art and Environmental Studies. Gussow returned to Middlebury College in 1994 as a Visiting Professor. In addition to the Prix de Rome, Gussow received the American Academy and Institute of Arts and Letters Award in Art in 1977.  Gussow focused his attention on oil painting and oil pastels in which he explored his experience with the natural environment as a main subject. An avid environmentalist, he worked with Senator Robert F. Kennedy on environmental issues, served on the Board of Directors of the Friends of the Earth and was a strong national presence serving as an expert witness on environmental conservation issues before several legislative committees. He organized the exhibition and wrote the book for the nationally touring show A SENSE OF PLACE, THE ARTIST AND THE AMERICAN LAND, 1971 (with an introduction by Richard Wilbur) and also wrote essays on the art and the environment for a variety of publications including Saturday Review Press and the Encyclopedia of Ecology and Pollution. He followed A SENSE OF PLACE with &quot;A Land We Know But Have Not Valued&quot; for the Albany Institute of History and Art (1986) and in 1993 curated and authored THE ARTIST AS NATIVE: REINVENTING REGIONALISM which opened at Babcock Galleries, New York, then toured to five museums across the nation.  Gussow&#39;s work was shown at New York Galleries including Peridot, Washburn, M B Modern, Sid Deutsch and Babcock Galleries, and was exhibited at major museums throughout the United States. Gussow had more than 50 one-person exhibitions including shows at the Washington County Museum of Fine Arts (1961) Portland (Maine) Art Museum (1971), Lowe Gallery of Syracuse University (1972), Arnot Art Museum (1975), Institute of Contemporary Art, Richmond, Virginia (1979), Hopper House, Nyack, New York (1983), Augusta (Georgia) College Art Museum (1993), List Gallery at Swarthmore College (1994). His work was often reviewed in various periodicals including The New York Times (Hilton Kramer, John Russell, Vivien Raynor, John Canaday, Grace Glueck, Stuart Preston, Dore Ashton), American Artist Magazine (Diane Cochrane), Arts Magazine (Martica Sawin), Artnews (Patricia Mainardi), as well as Arts, Art International, Time and New York Magazine. ",1931,1997,Alan Gussow,Alan,Gussow,American,"Gussow, Alan",500079543
+1669,,1911,2010,Louise Bourgeois,Louise,Bourgeois,American,"Bourgeois, Louise",500057350
+1670,,1911,2012,Will Barnet,Will,Barnet,American,"Barnet, Will",500010278
+1671,,,,Viviano Codazzi &amp; Michelangelo Cerquozzi,Viviano Codazzi &amp; Michelangelo Cerquozzi,,,Viviano Codazzi &amp; Michelangelo Cerquozzi,
+1672,,,,Marvin Bilek,Marvin,,,Marvin Bilek,
+1673,,1920,2005,Marvin Bileck,Marvin,Bileck,American,"Bileck, Marvin",
+1676,,,,Jen Casad,Jen,Casad,American,"Casad, Jen",
+1677,,1914,1988,Sekino Jun&#39;chiro,Sekino,Jun&#39;chiro,Japanese,"Jun&#39;chiro, Sekino",
+1678,,1933,,Tanaka Ryohei,Tanaka,Ryohei,Japanese,"Ryohei, Tanaka",
+1679,,1927,,Reika Iwami,Reika,Iwami,Japanese,"Iwami, Reika",
+1680,,1927,2007,Clifton Karhu,Clifton,Karhu,American,"Karhu, Clifton",
+1681,,1924,2000,Haku Maki,Haku,Maki,Japanese,"Maki, Haku",
+1682,,1902,1999,Umetaro Azechi,Umetaro,Azechi,Japanese,"Azechi, Umetaro",500330875
+1683,,1933,,Mitsuaki Sora,Mitsuaki,Sora,Japanese,"Sora, Mitsuaki",
+1684,,1942,,Paul Kos,Paul,Kos,American,"Kos, Paul",500071235
+1685,,1885,1966,Malvina Hoffman,Malvina,Hoffman,American,"Hoffman, Malvina",500024236
+1686,,1943,,David Rabinowitch,David,Rabinowitch,Canadian,"Rabinowitch, David",500099635
+1687,,1974,,Gina Siepel,Gina,Siepel,American,"Siepel, Gina",
+1688,,1684,1758,Martin Engelbrecht,Martin,Engelbrecht,German,"Engelbrecht, Martin",500008821
+1689,,1823,1879,Platt Babbitt,Platt,Babbitt,American,"Babbitt, Platt",
+1690,,1943,2003,Fred Sandback,Fred,Sandback,American,"Sandback, Fred",
+1691,,1802,,Rebecca French,Rebecca,French,American,"French, Rebecca",500334820
+1692,,1966,,Amy Sillman,Amy,Sillman,American,"Sillman, Amy",500122622
+1693,,1934,2009,George Schneeman,George,Schneeman,American,"Schneeman, George",500080068
+1694,,1906,1965,David Smith,David,Smith,American,"Smith, David",500015402
+1695,,1962,,Vivien Bittencourt,Vivien,Bittencourt,Brazilian,"Bittencourt, Vivien",
+1696,,1957,,Andrew Moore,Andrew,Moore,American,"Moore, Andrew",500036944
+1697,,1961,,Byron Kim,Byron,Kim,American,"Kim, Byron",500329273
+1698,,1960,,Glenn Ligon,Glenn,Ligon,American,"Ligon, Glenn",500191072
+1699,,1957,,Raymond Pettibon,Raymond,Pettibon,American,"Pettibon, Raymond",500115615
+1700,,1945,,Daisy Youngblood,Daisy,Youngblood,American,"Youngblood, Daisy",500062695
+1701,,1960,,Dan Walsh,Dan,Walsh,American,"Walsh, Dan",500332221
+1702,,1958,,James Hyde,James,Hyde,American,"Hyde, James",500101389
+1703,,1947,,Joanna Pousette-Dart,Joanna,Pousette-Dart,American,"Pousette-Dart, Joanna",500057943
+1985,,1926,,Zilia S&#225;nchez,Zilia,S&#225;nchez,Cuban,"S&#225;nchez, Zilia",500373011
+1984,,1907,2007,Lenore Tawney,Lenore,Tawney,American,"Tawney, Lenore",500025932
+1706,,1932,,Robert Bechtle,Robert,Bechtle,American,"Bechtle, Robert",
+1983,,1959,,Janet Passehl,Janet,Passehl,American,"Passehl, Janet",
+1982,,1941,,Morgan O&#39;Hara,Morgan,O&#39;Hara,American,"O&#39;Hara, Morgan",
+1709,,1780,1800,Ch&#244;k&#244;sai Eish&#244;,Ch&#244;k&#244;sai,Eish&#244;,Japanese,"Eish&#244;, Ch&#244;k&#244;sai",500335350
+1710,,1753,1806,Kitagawa Utamaro,Kitagawa,Utamaro,Japanese,"Utamaro, Kitagawa",500054492
+1981,,1956,,Jill O&#39;Bryan,Jill,O&#39;Bryan,American,"O&#39;Bryan, Jill",
+1712,,,,Stewart Martin,Stewart,Martin,,"Martin, Stewart",
+1713,,,,Stewart Martin,Stewart,Martin,,"Martin, Stewart",
+1714,,1828,1891,Jervis McEntee,Jervis,McEntee,American,"McEntee, Jervis",500024287
+1715,,1962,,Gregory Crewdson,Gregory,Crewdson,American,"Crewdson, Gregory",500128025
+1716,,,,Anonymous Pre-Columbian,Anonymous,Pre-Columbian,Mayan,"Pre-Columbian, Anonymous",
+1717,,1961,,Leonardo Drew,Leonardo,Drew,American,"Drew, Leonardo",500128679
+1718,,1910,1988,Leon Levinstein,Leon,Levinstein,American,"Levinstein, Leon",500338798
+1719,,1983,,Sarah Sockbeson,Sarah,Sockbeson,American,"Sockbeson, Sarah",
+1720,,1926,,Betye Saar,Betye,Saar,American,"Saar, Betye",500110489
+1723,,1938,1990,Joan Brown,Joan,Brown,American,"Brown, Joan",500025543
+1724,,1930,,Jasper Johns,Jasper,Johns,American,"Johns, Jasper",500022247
+1725,,1969,,Tanyth Berkeley,Tanyth,Berkeley,American,"Berkeley, Tanyth",
+1726,,1965,,Elizabeth Peyton,Elizabeth,Peyton,American,"Peyton, Elizabeth",500116160
+1727,,1767,1842,Jean-Victor Bertin,Jean-Victor,Bertin,French,"Bertin, Jean-Victor",500019040
+1728,,1941,,Joyce Pensato,Joyce,Pensato,American,"Pensato, Joyce",500330377
+1729,,1968,,Dara Friedman,Dara,Friedman,German,"Friedman, Dara",500114633
+1730,,1893,1967,Charles Burchfield,Charles,Burchfield,American,"Burchfield, Charles",
+1731,`,1955,,Enrique Chagoya,Enrique,Chagoya,Mexican,"Chagoya, Enrique",500299814
+1732,,1836,1923,Elihu Vedder,Elihu,Vedder,American,"Vedder, Elihu",500032587
+1733,,1911,1977,Forrest Bess,Forrest,Bess,American,"Bess, Forrest",
+1734,,1989,,Michael P. Barry,Michael P.,Barry,American,"Barry, Michael P.",
+1735,,1969,,Chantal Joffe,Chantal,Joffe,British,"Joffe, Chantal",500124669
+1736,,1951,,Sally Mann,Sally,Mann,American,"Mann, Sally",500105206
+1737,,1856,1933,John Haberle,John,Haberle,American,"Haberle, John",500003053
+1738,,1926,,Beth Van Hoesen,Beth,Van Hoesen,American,"Van Hoesen, Beth",500063546
+1739,,1830,1910,John Quincy Adams Ward,John Quincy Adams,Ward,American,"Ward, John Quincy Adams",500023733
+1740,,1906,1963,Yun Gee,Yun,Gee,Chinese,"Gee, Yun",500053754
+1741,,,,Anonymous,,Anonymous,,Anonymous,
+1745,,1835,1913,Julie Hart Beers,Julie Hart,Beers,American,"Beers, Julie Hart",500032814
+1744,,1952,,Elena del Rivero,Elena,del Rivero,Spanish,"del Rivero, Elena",
+1746,,1823,1894,William Hart,William,Hart,American,"Hart, William",500005878
+1747,,1828,1901,James McDougal Hart,James,McDougal Hart,American,"McDougal Hart, James",500015240
+1748,,1853,1945,Marion Robertson Beers,Marion Robertson,Beers,American,"Beers, Marion Robertson",
+1749,,1930,,Ron Gorchov,Ron,Gorchov,American,"Gorchov, Ron",500023104
+1752,,,,Kenji Ushiko,Kenji,Ushiko,Japanese,"Ushiko, Kenji",
+1753,,1937,,Luis Camnitzer,Luis,Camnitzer,Uruguayan,"Camnitzer, Luis",500120217
+1754,,1934,,Lino Tagliapietra,Lino,Tagliapietra,Italian,"Tagliapietra, Lino",500259555
+1755,,1857,1927,Eug&#232;ne Atget,Eug&#232;ne,Atget,French,"Atget, Eug&#232;ne",500008199
+1756,,1796,1872,George Catlin,George,Catlin,American,"Catlin, George",500004854
+1757,,1883,1962,Guy C. Wiggins,Guy C.,Wiggins,American,"Wiggins, Guy C.",500011126
+1758,,1954,,Anish Kapoor,Anish,Kapoor,British,"Kapoor, Anish",500005997
+1759,,1967,,Entang Wiharso,Entang,Wiharso,Indonesian,"Wiharso, Entang",500126052
+1760,,1873,1932,Robert James Halls,Robert James,Halls,,"Halls, Robert James",
+1761,,1863,1933,Robert Anning Bell,Robert Anning,Bell,British,"Bell, Robert Anning",500028697
+1762,,1941,,Jane Patterson,Jane,Patterson,Scottish,"Patterson, Jane",500053870
+1763,,,,J. Howard &amp; Company,,J. Howard &amp; Company,,J. Howard &amp; Company,
+1764,,1951,,Susan Belton,Susan,Belton,American,"Belton, Susan",
+1765,,1972,,Jules de Balincourt,Jules,de Balincourt,French,"de Balincourt, Jules",500332332
+1766,,1964,,Phong Bui,Phong,Bui,Vietnamese,"Bui, Phong",
+1767,,1966,,Udomsak Krisanamis,Udomsak,Krisanamis,Thai,"Krisanamis, Udomsak",500330204
+1768,,,,"Anonymous, Spanish, Visigothic",,"Anonymous, Spanish, Visigothic",,"Anonymous, Spanish, Visigothic",
+1769,,,,"Unknown, Chinese",,"Unknown, Chinese",Chinese,"Unknown, Chinese",
+1770,,,,"Unknown, Chinese",,"Unknown, Chinese",Chinese,"Unknown, Chinese",
+1771,,,,"Unknown, Chinese",,"Unknown, Chinese",Chinese,"Unknown, Chinese",
+1772,,,,"Unknown, Chinese",,"Unknown, Chinese",Chinese,"Unknown, Chinese",
+1773,,1974,,Trevor Paglen,Trevor,Paglen,American,"Paglen, Trevor",500294207
+1774,,1918,1988,Ronald Bladen,Ronald,Bladen,American,"Bladen, Ronald",500077632
+1775,,1972,,Tanja Alexia Hollander,Tanja Alexia,Hollander,American,"Hollander, Tanja Alexia",
+1776,,1957,,Beat Streuli,Beat,Streuli,Swiss,"Streuli, Beat",500347126
+1777,,1863,1944,Edvard Munch,Edvard,Munch,Norwegian,"Munch, Edvard",500032949
+1778,,1981,,Meleko Mokgosi,Meleko,Mokgosi,Botswanian,"Mokgosi, Meleko",
+1780,,1761,1822,Bertrand Andrieu,Bertrand,Andrieu,French,"Andrieu, Bertrand",500069164
+1781,,,,Thomas Colley,Thomas,Colley,,"Colley, Thomas",
+1782,,,,Nicolas Barthelemy Francois Dequevauviller,Nicolas Barthelemy Francois,Dequevauviller,,"Dequevauviller, Nicolas Barthelemy Francois",
+1783,,1750,1818,Jean Duplessi-Bertaux,Jean,Duplessi-Bertaux,French,"Duplessi-Bertaux, Jean",500002717
+1784,,1748,1833,Augustin Dupr&#233;,Augustin,Dupr&#233;,French,"Dupr&#233;, Augustin",500014612
+1785,,1741,1804,Charles-Etienne Gaucher,Charles-Etienne,Gaucher,French,"Gaucher, Charles-Etienne",500049964
+1786,,1757,1815,James Gillray,James,Gillray,British,"Gillray, James",500017355
+1787,,ca. 1740,ca. 1810,William Humphrey,William,Humphrey,British,"Humphrey, William",500184510
+1788,,1884,1969,Margaret Watkins,Margaret,Watkins,Canadian,"Watkins, Margaret",500344941
+1789,,1969,,Anna Hepler,Anna,Hepler,American,"Hepler, Anna",
+1790,,,,"Unidentified artist, French, 19th century",,"Unidentified artist, French, 19th century",,"Unidentified artist, French, 19th century",
+1791,,1798,1871,Claude F&#233;lix Th&#233;odore Caruelle d&#39;Aligny,Claude F&#233;lix Th&#233;odore Caruelle d&#39;Aligny,,French,Claude F&#233;lix Th&#233;odore Caruelle d&#39;Aligny,
+1792,,c. 1765,after 1825,Joshua Johnson,Joshua,Johnson,American,"Johnson, Joshua",500121295
+1793,,1967,,Tomma Abts,Tomma,Abts,German,"Abts, Tomma",500126116
+1794,,1979,,David Adamo,David,Adamo,American,"Adamo, David",500294120
+1795,,1980,,Richard Mosse,Richard,Mosse,Irish,"Mosse, Richard",500356038
+1796,,1946,,Alice Aycock,Alice,Aycock,American,"Aycock, Alice",500026635
+1797,,1940,,Howard Schatz,Howard,Schatz,American,"Schatz, Howard",500347940
+1798,,1953,,Mohamed Abla,Mohamed,Abla,Eqyptian,"Abla, Mohamed",
+1799,,1974,,Hala Elkoussy,Hala,Elkoussy,Eqyptian,"Elkoussy, Hala",500356067
+1800,,1978,2011,Ahmed Basiony,Ahmed,Basiony,Egyptian,"Basiony, Ahmed",
+1801,,1967,,Sabah Naim,Sabah,Naim,Egyptian,"Naim, Sabah",500356092
+1802,,1961,,Moataz Nasr,Moataz,Nasr,Egyptian,"Nasr, Moataz",500356093
+1803,,1971,,Shady El Noshokaty,Shady,El Noshokaty,Eqyptian,"El Noshokaty, Shady",
+1804,,1806,1836,George Twibill,George,Twibill,American,"Twibill, George",
+1805,,1933,,Hung Hsien,Hung,Hsien,American,"Hsien, Hung",
+1806,,,,Stew Henderson,Stew,Henderson,,"Henderson, Stew",
+1807,,1948,,Jamaica Kincaid,Jamaica,Kincaid,American,"Kincaid, Jamaica",
+1808,,1911,1993,Brett Weston,Brett,Weston,American,"Weston, Brett",500030585
+1809,,1852,1934,Gertrude K&#228;sebier,Gertrude,K&#228;sebier,American,"K&#228;sebier, Gertrude",500011698
+1810,,1793,1878,Robert Havell (after John James Audubon),Robert,Havell (after John James Audubon),,"Havell (after John James Audubon), Robert",
+1811,,1955,,Tim Rollins and K.O.S.,Tim,Rollins and K.O.S.,American,"Rollins and K.O.S., Tim",
+1812,,1938,,Aaron Rose,Aaron,Rose,American,"Rose, Aaron",500114742
+1813,,1903,1990,Harold Eugene Edgerton,Harold Eugene,Edgerton,American,"Edgerton, Harold Eugene",500014767
+1814,,1915,,Carmen Herrera,Carmen,Herrera,Cuban,"Herrera, Carmen",500332016
+1815,,1886,1967,Helen Torr,Helen,Torr,American,"Torr, Helen",500027808
+1816,,1905,2000,Todd Webb,Todd,Webb,American,"Webb, Todd",500124474
+1817,,,,De Aulestia,,De Aulestia,,De Aulestia,
+1818,,1911,1993,Alfred Manessier,Alfred,Manessier,French,"Manessier, Alfred",500010362
+1819,,,,Jack Butler Yeats,Jack Butler,Yeats,,"Yeats, Jack Butler",
+1820,,1930,1998,Allan D&#39;Arcangelo,Allan,D&#39;Arcangelo,American,"D&#39;Arcangelo, Allan",500013648
+1821,"Mianqinzi (&quot;Sleepless Zither Master), late Qing dynasty (1644-1911)",,,Mianqinzi,,Mianqinzi,Chinese,Mianqinzi,
+1822,,1930,,Faith Ringgold,Faith,Ringgold,American,"Ringgold, Faith",500063866
+1823,,1760,1849,Katsushika Hokusai,Katsushika,Hokusai,Japanese,"Hokusai, Katsushika",500060426
+1824,,,,Colby College Oracle,Colby College,,,Colby College Oracle,
+1825,,1925,1992,Joan Mitchell,Joan,Mitchell,American,"Mitchell, Joan",500000901
+1826,,1874,1940,Lewis Hine,Lewis,Hine,American,"Hine, Lewis",
+1827,,1902,2002,Manuel &#193;lvarez Bravo,Manuel,&#193;lvarez Bravo,Mexican,"&#193;lvarez Bravo, Manuel",500028115
+1828,,1964,,Tom Burckhardt,Tom,Burckhardt,American,"Burckhardt, Tom",500332835
+1829,,1818,1910,Seymour Haden,Seymour,Haden,British,"Haden, Seymour",500021004
+1830,,1976,,Hank Willis Thomas,Hank Willis,Thomas,American,"Thomas, Hank Willis",
+1831,,1945,,Frances Hynes,Frances,Hynes,American,"Hynes, Frances",
+1832,,1968,,Todd Hido,Todd,Hido,American,"Hido, Todd",500262899
+1833,,1819,1903,Charles Bierstadt (Attributed to),Charles,Bierstadt (Attributed to),American,"Bierstadt (Attributed to), Charles",
+1834,,1815,1879,Julia Margaret Cameron,Julia Margaret,Cameron,British,"Cameron, Julia Margaret",500118804
+1835,,,,William H. Jackson,William H.,Jackson,,"Jackson, William H.",
+1836,,1829,1916,Carleton E. Watkins,Carleton E.,Watkins,American,"Watkins, Carleton E.",500002731
+1837,,1957,,Tommy Brown,Tommy,Brown,American,"Brown, Tommy",
+1838,,1949,,Richard Misrach,Richard,Misrach,American,"Misrach, Richard",500110670
+1839,,,,Lesia Sochor,Lesia,Sochor,,"Sochor, Lesia",
+1840,,1890,1918,Egon Schiele,Egon,Schiele,Austrian,"Schiele, Egon",500002633
+1841,,,,Lynne Haywood,Lynne,Haywood,,"Haywood, Lynne",
+1842,,,,Lt. Morris,Lt.,Morris,,"Morris, Lt.",
+1843,,,,Joanne Scheider,Joanne,Scheider,,"Scheider, Joanne",
+1844,,,,P. Andy,P.,Andy,,"Andy, P.",
+1845,,,,Anonymous Neapolitan or British,Anonymous,Neapolitan or British,,"Neapolitan or British, Anonymous",
+1846,,1982,,Elizabeth Atterbury,Elizabeth,Atterbury,American,"Atterbury, Elizabeth",
+1847,,,,Stander,,Stander,,Stander,
+1848,,,,Ken Knudson,Ken,Knudson,,"Knudson, Ken",
+1849,,,,Jesus Villar,Jesus,Villar,,"Villar, Jesus",
+1850,,,,King,,King,,King,
+1851,,,,Bukov,,Bukov,,Bukov,
+1852,,,,Carbo,,Carbo,,Carbo,
+1853,,,,"Anonymous, Chinese (Shang Dynasty)",,"Anonymous, Chinese (Shang Dynasty)",,"Anonymous, Chinese (Shang Dynasty)",
+1854,,1958,1996,Felix Gonzalez-Torres,Felix,Gonzalez-Torres,American,"Gonzalez-Torres, Felix",500114715
+1856,,1912,1999,George Sugarman,George,Sugarman,American,"Sugarman, George",500016027
+1857,,1817,1864,John Leech,John,Leech,British,"Leech, John",500002592
+1858,,1947,,Stephen Shore,Stephen,Shore,American,"Shore, Stephen",500040819
+1859,,,,Michele Wong,Michele,Wong,Albanese,"Wong, Michele",
+1860,,1946,,Libby Barrett,Libby,Barrett,American,"Barrett, Libby",
+1861,,,,Crystal Cawley,Crystal,Cawley,,"Cawley, Crystal",
+1862,,,,Allison Cooke Brown,Allison,Cooke Brown,American,"Cooke Brown, Allison",
+1863,,,,Anne-Claude Cotty,Anne-Claude,Cotty,American,"Cotty, Anne-Claude",
+1864,,1911,2004,Bern Porter,Bern,Porter,American,"Porter, Bern",500077278
+1865,,1949,,Donna Ferrato,Donna,Ferrato,American,"Ferrato, Donna",500333526
+1866,,1825,1904,J.P. Ball,J.P.,Ball,American,"Ball, J.P.",
+1867,,,,William J. Pierce,William J.,Pierce,,"Pierce, William J.",
+1868,,,,"Anonymous, Flemish",,"Anonymous, Flemish",,"Anonymous, Flemish",
+1869,,1935,,Carl Andre,Carl,Andre,American,"Andre, Carl",500011651
+1870,,1963,,Teresa Margolles,Teresa,Margolles,Mexican,"Margolles, Teresa",500356429
+1871,,1944,,Allan McCollum,Allan,McCollum,American,"McCollum, Allan",500118788
+1873,,1839,1870,Gioacchino La Pira,Gioacchino,La Pira,Italian,"La Pira, Gioacchino",500359217
+1874,,1979,,Travis Boyer,Travis,Boyer,American,"Boyer, Travis",
+1875,,,,Sally Egbert,Sally,Egbert,American,"Egbert, Sally",
+1876,,1981,,Josephine Halvorson,Josephine,Halvorson,American,"Halvorson, Josephine",500356190
+1877,,1981,,Nathlie Provosty,Nathlie,Provosty,American,"Provosty, Nathlie",
+1878,,1872,1930,Charles Webster Hawthorne,Charles Webster,Hawthorne,American,"Hawthorne, Charles Webster",500008988
+1879,,1959,,Peter Soriano,Peter,Soriano,American,"Soriano, Peter",500195936
+1880,,1935,,Su&#241;ol Alvar,Su&#241;ol,Alvar,Spanish,"Alvar, Su&#241;ol",500083715
+1881,,,,"Unknown, Dutch",,"Unknown, Dutch",,"Unknown, Dutch",
+1882,,1769,1837,William Daniell,William,Daniell,English,"Daniell, William",500011732
+1883,,1930,,Rosalind Solomon,Rosalind,Solomon,American,"Solomon, Rosalind",500037071
+1884,,1943,,George Butler,George,Butler,British,"Butler, George",500339164
+1885,,1948,,Susan Meiselas,Susan,Meiselas,American,"Meiselas, Susan",500059191
+1886,,1935,,Ossi Czinner,Ossi,Czinner,Austrian,"Czinner, Ossi",
+1887,,1868,1958,Yokohama Taikan,Yokohama,Taikan,Japanese,"Taikan, Yokohama",500124955
+1888,,1555,1632,Liu Yuanqi,Liu,Yuanqi,Chinese,"Yuanqi, Liu",
+1889,,,,Wen Boren,Wen,Boren,,"Boren, Wen",
+1890,,1899,1984,Brassa&#239;,Brassa&#239;,,French,Brassa&#239;,500000306
+1891,,,,Benamin Lord,Benamin,Lord,,"Lord, Benamin",
+1892,,,,Bradley Borthwick,Bradley,Borthwick,,"Borthwick, Bradley",
+1893,,1905,1999,Frederick Sommer,Frederick,Sommer,,"Sommer, Frederick",500014027
+1894,,1955,,Xu Bing,Xu,Bing,Chinese,"Bing, Xu",500125592
+1895,,1960,,Hong Lei,Hong,Lei,Chinese,"Lei, Hong",500353442
+1896,,1900,1964,Rico Lebrun,Rico,Lebrun,American,"Lebrun, Rico",500030304
+1897,,1876,1950,Hiroshi Yoshida,Hiroshi,Yoshida,Japanese,"Yoshida, Hiroshi",500341679
+1898,,1819,1900,John Ruskin,John,Ruskin,British,"Ruskin, John",500006262
+1899,,,,Garry Mitchell,Garry,Mitchell,,"Mitchell, Garry",
+1900,,1723,1792,Joshua Reynolds,Joshua,Reynolds,English,"Reynolds, Joshua",500004539
+1901,,1839,1899,Alfred Sisley,Alfred,Sisley,French and British,"Sisley, Alfred",500027485
+1902,,,,Yoshijiro Urushibara,Yoshijiro,Urushibara,,"Urushibara, Yoshijiro",
+1903,,1859,1927,Paul C. Helleu,Paul C.,Helleu,French,"Helleu, Paul C.",500009361
+1904,"Lives and Works: Windhoek, Namibia",1964,,Kristin Capp,Kristin,Capp,American,"Capp, Kristin",500343626
+1905,,1906,2004,Charles Biederman,Charles,Biederman,American,"Biederman, Charles",500031104
+1906,,1952,,Don Voisine,Don,Voisine,American,"Voisine, Don",
+1907,,1853,1890,Vincent van Gogh,Vincent,van Gogh,Netherlandish,"van Gogh, Vincent",500115588
+1908,,1966,,Bernhard Martin,Bernhard,Martin,German,"Martin, Bernhard",500329808
+1909,,1887,1968,Marcel Duchamp,Marcel,Duchamp,French,"Duchamp, Marcel",500115393
+1910,,1939,,Stanislaw Dr&#243;zdz,Stanislaw,Dr&#243;zdz,Polish,"Dr&#243;zdz, Stanislaw",
+1911,,1690,1775,Jan Caspar Phillips,Jan Caspar,Phillips,"Dutch, b. Germany","Phillips, Jan Caspar",500008748
+1912,,1937,,Robert Adams,Robert,Adams,American,"Adams, Robert",500037036
+1913,,1940,,Jaune Quick-to-See Smith,Jaune Quick-to-See,Smith,American,"Smith, Jaune Quick-to-See",500092544
+1914,,1905,1988,Jared French,Jared,French,American,"French, Jared",500053389
+1915,,1903,1976,Ilse Martha Bischoff,Ilse Martha,Bischoff,American,"Bischoff, Ilse Martha",500065320
+1916,,1792-1876,,Elliza Lyman,Elliza,Lyman,,"Lyman, Elliza",
+1917,,1904,1967,Benton Spruance,Benton,Spruance,American,"Spruance, Benton",500055755
+1918,,1645,1708,Romeyn de Hooghe,Romeyn de,Hooghe,Dutch,"Hooghe, Romeyn de",500015656
+1919,,1926,,Rosalyn Drexler,Rosalyn,Drexler,American,"Drexler, Rosalyn",
+1920,,1942,,Danny Lyon,Danny,Lyon,American,"Lyon, Danny",500055341
+1921,,1938,,Joel Meyerowitz,Joel,Meyerowitz,American,"Meyerowitz, Joel",500017876
+1922,,,,Chinese Anonymous,Chinese,Anonymous,"Chinese (Yuan Dynasty, 1276-1368)","Anonymous, Chinese",
+1923,,,,"Anonymous, Chinese (Qing Dynasty 1644-1911)",,"Anonymous, Chinese (Qing Dynasty 1644-1911)",Chinese (Qing Dynasty 1644-1911),"Anonymous, Chinese (Qing Dynasty 1644-1911)",
+1924,,,,Yan Qi,Yan,Qi,Chinese (Qing Dynasty 1644-1911),"Qi, Yan",
+1925,,1944,,Joel Sternfeld,Joel,Sternfeld,American,"Sternfeld, Joel",500037070
+1926,,,,E.G. Washburn &amp; Company,,E.G. Washburn &amp; Company,,E.G. Washburn &amp; Company,
+1927,,1953,,Barbara Gallucci,Barbara,Gallucci,American,"Gallucci, Barbara",500126121
+1928,,1924,2010,Kenneth Noland,Kenneth,Noland,American,"Noland, Kenneth",500003418
+1929,,1957,,Shirin Neshat,Shirin,Neshat,American and Iranian,"Neshat, Shirin",500114658
+1930,,,,Rochester Ironworks,,Rochester Ironworks,,Rochester Ironworks,
+1931,,,,A.L. Jewell &amp; Company,,A.L. Jewell &amp; Company,,A.L. Jewell &amp; Company,
+1932,,,,A.B. &amp; W.T. Westervelt,,A.B. &amp; W.T. Westervelt,,A.B. &amp; W.T. Westervelt,
+1933,,1606,1682,Abraham de Wicquefort,Abraham,de Wicquefort,Netherlandish,"de Wicquefort, Abraham",
+1934,"AMERICAN ABSTRACT ARTISTS was founded in 1936 in New York City, at a time when abstract art was met with strong critical resistance. During the 1930s and early 1940s, AAA provided exhibition opportunities when few existed. Its publishing, panels and lectures provided a forum for discussion and gave abstract art theoretical support in the United States. AAA was a predecessor to the New York School and Abstract Expressionism, and contributed to the development and acceptance of abstract art in the United States. American Abstract Artists is one of the few artists&#8217; organizations to survive from the Great Depression and continue into the 21st century. (http://americanabstractartists.org/)",,,American Abstract Artists,American Abstract Artists,,,American Abstract Artists,
+1935,,1957,,Andrew Masullo,Andrew,Masullo,American,"Masullo, Andrew",500331432
+1936,,1903,2001,Esteban Vicente,Esteban,Vicente,American,"Vicente, Esteban",500008993
+1937,,1947-2014,,Margaret &quot;Peggy&quot; McKenna,Margaret &quot;Peggy&quot;,McKenna,American,"McKenna, Margaret &quot;Peggy&quot;",
+1938,,1691,1759,Cornelis Pronk,Cornelis,Pronk,Dutch,"Pronk, Cornelis",500010052
+1939,,1705,1765,Isaak Tirion,Isaak,Tirion,Dutch,"Tirion, Isaak",
+1940,,1606,c. 1687,Jianlong Gu,Jianlong,Gu,,"Gu, Jianlong",
+1941,,1798-1872,,Hadassah Newhall,Hadassah,Newhall,,"Newhall, Hadassah",
+1942,,1819,,Mary Newhall,Mary,Newhall,,"Newhall, Mary",
+1943,,,,"Artist unknown, American","Artist unknown,",American,,"American, Artist unknown",
+1944,,,,"Artist unknown, Italian","Artist unknown,",Italian,,"Italian, Artist unknown",
+1945,,1785,1877,Attributed to Robert Peckham,Attributed to Robert Peckham,,,Attributed to Robert Peckham,
+1946,,,,Attributed to Sturtevant J. Hamblen,Attributed to Sturtevant J.,Hamblen,American,"Hamblen, Attributed to Sturtevant J.",500005815
+1947,,1806,1881,Samuel P. Howes,Samuel P.,Howes,,"Howes, Samuel P.",
+1948,,,,Attributed to Leopold Paul Unger,Attributed to Leopold Paul,Unger,,"Unger, Attributed to Leopold Paul",
+1949,,,,Attributed to Orlando Hand Bears (1811-1851),Orlando Hand,Bears,American,"Bears, Orlando Hand",500335676
+1950,"Luce Artist Biography The Prior-Hamblen School of artists made plain-style portraits with simple forms and little detail. When it is impossible to determine whether William Matthew Prior or his brother-in-law Sturtevant Hamblin created them, they are attributed to the Prior-Hamblen School. The Prior and Hamblen families of Maine were united with the 1828 marriage of William Matthew Prior to Rosamond Hamblen. They were a good match, as Rosamond came from a reputable family of skilled artisans and Prior was an established decorative painter. In the year of their marriage he placed an ad in the (Portland) Maine Inquirer offering &quot;side views and profiles of children at reduced prices.&quot; By 1841 the Prior and Hamblen extended families had moved together to Boston, where they lived in the home of Rosamond&#39;s brother while they established their own &quot;Painting Garret.&quot; Prior traveled as far south as Baltimore making portraits for a fee. He and his brother-in-law Sturtevant Hamblen developed a portrait style with a sliding pay scale according to the amount of detail requested by the sitter. Prior advertised these portraits as &quot;flat pictures . . . a likeness without shade or shadow at one quarter price.&quot; For a higher price (about twenty five dollars), the portraitists would produce more detailed likenesses. (Hollander et al., American Anthem: Masterworks from the American Folk Art Museum, 2001)",,,Prior-Hamblen School,,,American,Prior-Hamblen School,500005815
+1951,,1953,,Barbara Gallucci,Barbara,Gallucci,American,"Gallucci, Barbara",500126121
+1952,,1559,1638,Domenico Cresti (Il Passignano),Domenico,Cresti (Il Passignano),Italian,"Cresti (Il Passignano), Domenico",500013186
+1953,,1792,1884,Rufus Porter,Rufus,Porter,,"Porter, Rufus",500022253
+1954,,,,Pedro Tokoovan Parris,Pedro Tokoovan,Parris,,"Parris, Pedro Tokoovan",
+1955,,1807,1862,Attributed to William James Hubard,William James,Hubard,American,"Hubard, William James",500032518
+1956,,,,"Unknown, American",,"Unknown, American",,"Unknown, American",
+1957,,,,Bernard Gloekler Company,,Bernard Gloekler Company,,Bernard Gloekler Company,
+1958,,,,"Unknown, American or English",,"Unknown, American or English",,"Unknown, American or English",
+1959,,1786,1864,Utagawa Yoshikazu,Utagawa,Yoshikazu,Japanese,"Yoshikazu, Utagawa",500334458
+1980,,1942,,Deborah Gottheil Nehmad,Deborah Gottheil,Nehmad,American,"Nehmad, Deborah Gottheil",
+1961,,1981,,Greg Kahn,Greg,Kahn,American,"Kahn, Greg",
+1962,,,,Utagawa Kuniyasu,Utagawa,Kuniyasu,,"Kuniyasu, Utagawa",500334453
+1963,"American designer, printmaker, and educator, 1918-1986  A Roman Catholic nun from 1936-1968, Corita gained fame as a pop artist in the 1960s. As the head of the art department of Immaculate Heart College in Los Angeles, she taught students to find art in everyday life, as well as everyday objects. As her classes grew, so did her fame - in 1967 her works were displayed in over 150 shows in the Unites States alone. This led her to leave public life in 1968, though she continued to work. Her most well-known work was painted on a large gas storage tank in suburban Boston during the Vietnam War - a series of large strokes of paint which instigated controversy as some claimed to see the image of Ho Chi Minh hidden within the strokes.",1918,1986,Mary Corita,Mary,Corita,American,"Corita, Mary",500014156
+1964,"American painter, photographer, and art theorist, 1906-2001",1906,2001,Gy&#246;rgy Kepes,Gy&#246;rgy,Kepes,American,"Kepes, Gy&#246;rgy",500028012
+1965,"American painter and printmaker, born 1933",1933,,August Robert Birmelin,August Robert,Birmelin,American,"Birmelin, August Robert",500009912
+1966,20th century,,,P.C. Madsen Conant,P.C. Madsen,Conant,,"Conant, P.C. Madsen",
+1967,,1756,1843,John Trumbull,John,Trumbull,American,"Trumbull, John",500016000
+1968,"American photographer, contemporary",,,Salvatore Mancini,Salvatore,Mancini,American,"Mancini, Salvatore",500092294
+1969,,1948,,Jan Henle,Jan,Henle,American,"Henle, Jan",
+1970,,1922,1983,Richard Stankiewicz,Richard,Stankiewicz,American,"Stankiewicz, Richard",500007819
+1971,,1950,,Enzo Cucchi,Enzo,Cucchi,Italian,"Cucchi, Enzo",500053926
+1972,,,,Richard Bassett,Richard,Bassett,,"Bassett, Richard",
+1973,,1941,,William Chlidress,William,Chlidress,American,"Chlidress, William",
+1974,,1941,,William Childress,William,Childress,American,"Childress, William",
+1975,,1967,,Annabel Daou,Annabel,Daou,Lebanese,"Daou, Annabel",500355937
+1976,,1952,,John Fraser,John,Fraser,American,"Fraser, John",
+1977,,1934,,Cris Gianakos,Cris,Gianakos,American,"Gianakos, Cris",500100186
+1978,,1964,,Teo Gonz&#225;lez,Teo,Gonz&#225;lez,Spanish,"Gonz&#225;lez, Teo",
+1979,,1973,,Kristin Holder,Kristin,Holder,American,"Holder, Kristin",
+1989,,1962,,Rachel Perry,Rachel,Perry,"American, b. Japan","Perry, Rachel",
+1990,,,,Mason Philip Smith,Mason Philip,Smith,American,"Smith, Mason Philip",
+1991,,1943,,Walter Iooss,Walter,Iooss,American,"Iooss, Walter",500347075
+1992,,,,Zhi Feng,Zhi,Feng,,"Feng, Zhi",
+1993,,,,Nan Chung Jiang,Nan Chung,Jiang,Chinese,"Jiang, Nan Chung",
+1994,,,,Lu Xing College of Art Publishing House,Lu Xing College of Art Publishing House,,Chinese,Lu Xing College of Art Publishing House,
+1995,,,,Hang Zhou City Art Studio,Hang Zhou City Art Studio,,Chinese,Hang Zhou City Art Studio,
+1996,,,,Jiangsu People&#39;s Publishing House,Jiangsu People&#39;s Publishing House,,Chinese,Jiangsu People&#39;s Publishing House,
+1997,,,,Clemencia Lucena,Clemencia,Lucena,,"Lucena, Clemencia",
+1998,,,,Antonio Caro,Antonio,Caro,,"Caro, Antonio",
+1999,,,,Taller 4 Rojo,Taller 4,Rojo,,"Rojo, Taller 4",
+2000,,,,Beatriz Gonz&#225;lez,Beatriz,Gonz&#225;lez,,"Gonz&#225;lez, Beatriz",
+2001,,,,Dora Ramirez,Dora,Ramirez,,"Ramirez, Dora",
+2002,,1957,,Ai Weiwei,Ai,Weiwei,Chinese,"Weiwei, Ai",500125586
+2003,,1968,,Mark Grotjahn,Mark,Grotjahn,American,"Grotjahn, Mark",500331760
+2004,,1891,1969,Otto Dix,Otto,Dix,German,"Dix, Otto",500028047
+2005,,1926,1973,Alina Szapocznikow,Alina,Szapocznikow,Polish,"Szapocznikow, Alina",500107942
+2006,,ca. 1752,1818,John Johnston,John,Johnston,American,"Johnston, John",500000251
+2007,,1939,,Glenna Goodacre,Glenna,Goodacre,American,"Goodacre, Glenna",500335410
+2008,,1923,1994,Sam Francis,Sam,Francis,,"Francis, Sam",500115537
+2009,,1880,1966,Hans Hofmann,Hans,Hofmann,,"Hofmann, Hans",500024228
+2010,,1911,2002,Roberto Matta,Roberto,Matta,Chilean,"Matta, Roberto",500057123
+2011,,1970,,Anna Jermolaewa,Anna,Jermolaewa,,"Jermolaewa, Anna",500382122
+2012,,,,Louis Raemaekers,Louis,Raemaekers,,"Raemaekers, Louis",
+2013,,,,Labert St. Clair,Labert,St. Clair,,"St. Clair, Labert",
+2014,,,,Ernst Friedrich,Ernst,Friedrich,,"Friedrich, Ernst",
+2015,,,,Newell Dwight Hillis,Newell Dwight,Hillis,,"Hillis, Newell Dwight",
+2016,,1925,,Etel Adnan,Etel,Adnan,Lebanese,"Adnan, Etel",
+2017,,1897,1971,Pan Tianshou,Pan,Tianshou,Chinese,"Tianshou, Pan",500125705
+2018,,1901,1989,Richmond Barth&#233;,Richmond,Barth&#233;,American,"Barth&#233;, Richmond",500020064
+2019,,1857,1922,Arthur Wesley Dow,Arthur Wesley,Dow,American,"Dow, Arthur Wesley",500006205
+2020,,1863,1908,Alfred Horsely Hinton,Alfred Horsely,Hinton,British,"Hinton, Alfred Horsely",500016616
+2021,,1891,1978,Alma Thomas,Alma,Thomas,American,"Thomas, Alma",500041104
+2022,,1944,,Gary Erbe,Gary,Erbe,American,"Erbe, Gary",
+2023,,,,Hanabusa Itcho,Hanabusa,Itcho,,"Itcho, Hanabusa",
+2024,,,,"Unknown, Japanese",,"Unknown, Japanese",,"Unknown, Japanese",
+2025,,1900,1993,Marcel Jean,Marcel,Jean,French,"Jean, Marcel",500022344
+2027,,1948,1985,Ana Mendieta,Ana,Mendieta,Cuban-American,"Mendieta, Ana",500052055
+2028,,,,Marina Adams,Marina,Adams,,"Adams, Marina",
+2029,,1974,,Santiago Montoya,Santiago,Montoya,Colombian,"Montoya, Santiago",

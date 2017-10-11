@@ -1,0 +1,43 @@
+{
+    "dc:identifier": "Surrogates",
+    "dc:title": "Surrogate",
+    "foreignKeys": [
+        {
+            "columnReference": "_Objects_1_ID",
+            "reference": {
+                "columnReference": "_Objects_1_ID",
+                "resource": "Objects_1.csv"
+            }
+        }
+    ],
+    "tableSchema": {
+        "columns": [
+            {
+                "name": "_Objects_1_ID",
+                "suppressOutput": false
+            },
+            {
+                "datatype": "string",
+                "dc:description": "If the surrogate has been digitized, the name of the digital file",
+                "name": "File_Name",
+                "suppressOutput": false,
+                "titles": "Digital File Name"
+            },
+            {
+                "datatype": "boolean",
+                "dc:description": "Specifies that this surrogate's image should be used as the primary object image.",
+                "name": "IsPrimary",
+                "suppressOutput": false,
+                "titles": "Use for Object?"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Identifies the view of the subject above, e.g., 'from above,' 'looking North,' 'from the apse.'  Also used in describing part/whole relationships (eg., page x of y). Use controlled vocabulary.",
+                "name": "View_1",
+                "suppressOutput": false,
+                "titles": "View"
+            }
+        ]
+    },
+    "url": "surrogates.csv"
+}

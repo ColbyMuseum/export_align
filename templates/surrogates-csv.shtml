@@ -1,0 +1,3 @@
+_Objects_1_ID,File_Name,IsPrimary,View_1
+<!--4DLOOP [Surrogates]--><!--4DSCRIPT/LoadRelatedRecords/Surrogates:Objects_1--><!--4DHTML [Objects_1]_Objects_1_ID-->,<!--4DIF ([Surrogates]File_Name % ",")-->"<!--4DENDIF--><!--4DTEXT Replace string(Replace string([Surrogates]File_Name;Char(Line feed);" ";*);Char(Carriage return);" ";*)--><!--4DIF ([Surrogates]File_Name % ",")-->"<!--4DENDIF-->,<!--4DHTML [Surrogates]IsPrimary-->,<!--4DIF ([Surrogates]View_1 % ",")-->"<!--4DENDIF--><!--4DTEXT Replace string(Replace string([Surrogates]View_1;Char(Line feed);" ";*);Char(Carriage return);" ";*)--><!--4DIF ([Surrogates]View_1 % ",")-->"<!--4DENDIF-->
+<!--4DENDLOOP-->
