@@ -4,19 +4,23 @@
     "dc:title": "Surrogate",
     "tableSchema": {
         "primaryKey": "File_Name",
-        "aboutUrl": "http://data.museum.colby.edu/collection/surrogate/{File_Name}",
+        "aboutUrl": "http://iiif.museum.colby.edu/presentation/canvas/{File_Name}",
         "columns": [
             {
                 "name": "Objects_1_ID",
                 "suppressOutput": false,
-                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}",
-                "propertyUrl": "crm:P138_has_representation",
-                "valueUrl": "http://data.museum.colby.edu/collection/surrogate/{File_Name}"
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#hasSequences",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/sequence/primary",
+                "separator": ";",
+                "ordered": true
             },
             {
                 "datatype": "string",
                 "name": "File_Name",
-                "suppressOutput": true
+                "suppressOutput": false,
+                "required": true,
+                "propertyUrl": "dc:identifier"
             },
             {
                 "datatype": "boolean",
@@ -27,9 +31,21 @@
             },
             {
                 "datatype": "string",
-                "suppressOutput": false,
+                "suppressOutput": true,
                 "name": "View_1",
-                "valueUrl": "rdfs:label"
+                "propertyUrl": "rdfs:label"
+            },
+            {
+                "datatype": "integer",
+                "suppressOutput": false,
+                "name": "height",
+                "propertyUrl": "http://www.w3.org/2003/12/exif/ns#height"
+            },
+            {
+                "datatype": "integer",
+                "suppressOutput": false,
+                "name": "width",
+                "propertyUrl": "http://www.w3.org/2003/12/exif/ns#width"
             },
             {
                 "virtual": true,
@@ -53,7 +69,7 @@
                 "virtual": true,
                 "aboutUrl": "http://iiif.museum.colby.edu/presentation/canvas/{File_Name}/annotation",
                 "propertyUrl": "http://www.w3.org/ns/oa#motivatedBy",
-                "valueUrl": "http://iiif.io/api/presentation/2#Painting"
+                "valueUrl": "http://iiif.io/api/presentation/2#painting"
             },
             {
                 "virtual": true,
@@ -82,21 +98,22 @@
             {
                 "virtual": true,
                 "aboutUrl": "http://iiif.museum.colby.edu/image/{File_Name}",
-                "propertyUrl": "context",
-                "valueUrl": "https://iiif.io/api/image/2/context.json"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://iiif.museum.colby.edu/image/{File_Name}",
                 "propertyUrl": "http://usefulinc.com/ns/doap#implements",
                 "valueUrl": "https://iiif.io/api/image/2/level2.json"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/collection/surrogate/{File_Name}",
-                "propertyUrl": "skos:sameAs",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/sequence/primary",
+                "propertyUrl": "http://iiif.io/api/presentation/2#hasCanvases",
                 "valueUrl": "http://iiif.museum.colby.edu/presentation/canvas/{File_Name}"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/sequence/primary",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://iiif.io/api/presentation/2#Sequence"
             }
+
         ]
     }
 }

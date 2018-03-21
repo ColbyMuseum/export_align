@@ -1,0 +1,239 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "objects_1.csv",
+    "dc:identifier": "Objects_1",
+    "dc:title": "Objects",
+    "tableSchema": {
+    	"aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+        "primaryKey": "Objects_1_ID",
+        "columns": [
+            {
+                "name": "Artist_ID",
+                "suppressOutput": true
+            },
+            {
+                "datatype": "string",
+                "dc:description": "The internal ID number for object records.",
+                "name": "Objects_1_ID",
+                "suppressOutput": false,
+                "titles": "ID",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/object_id",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "The five components of the Accession number concatenated in a single string for efficiency of display and retrieval.",
+                "name": "Disp_Access_No",
+                "suppressOutput": false,
+                "titles": "Accession Number",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/accession_number",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "An alternate title assigned to an object, e.g., the historical or original title, the primary title in its original language, or, if the primary title is in the original language, a translation into the language of the cataloging institution, or a transliteration from another alphabet. This information may be accessed by visitors to the collection through the scrolling list of Notes & Histories on page 4 of the Object Info layout.",
+                "name": "Alt_Title",
+                "suppressOutput": false,
+                "titles": "Alternate Title",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/alt_title",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A formal public credit statement about a transfer of ownership, acquisition, source, or sponsorship of an item suitable for use in a display, label or publication. The full text of lengthy credit statements may be accessed by visitors to the collection through the scrolling list of Notes & Histories on page 4 of the Object Info layout.",
+                "name": "Dedication",
+                "suppressOutput": false,
+                "titles": "Credit Line",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/credit_line",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A display field that contains the dimensions of the object - the Display Height, Width, and Depth. As information is entered into these three fields, EmbARK will concatenate the information into a single string and automatically fill in this field. The data may be then be edited for display on the Object Information layout. Information may also be directly entered into this field.",
+                "name": "Disp_Dimen",
+                "suppressOutput": false,
+                "titles": "Display Dimensions",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/dimensions",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "The title displayed in the kiosk view of the Object Info screen.",
+                "name": "Disp_Title",
+                "suppressOutput": false,
+                "titles": "Display Title",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/title",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": " Indicates status of object:  permanent collection, loan, etc.",
+                "name": "Department",
+                "suppressOutput": false,
+                "titles": "Disposition",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/department",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "A display field for information concerning the material/media & support of the object. As information is entered into the Medium and Support fields, EmbARK will concatenate the information into a single string and automatically fill in this field. The data may be then be edited to conform to the way the institution would like it displayed, published, and reproduced, e.g., 'oil on panel.' Information may also be directly entered into this field.",
+                "name": "Disp_Medium",
+                "suppressOutput": false,
+                "titles": "Media & Support",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/medium",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Classifies the object as to general media or technique to provide a broad categorization for purposes of public access retrieval and Info Page description, e.g., 'painting,' 'print,' 'Decorative Arts,' 'Media Arts.'",
+                "name": "Disp_Obj_Type",
+                "suppressOutput": false,
+                "titles": "Object Type",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/object_type",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Previously called Creation Date.  A field to accommodate the natural language entry and display of the object’s creation date and any modifications to the date to indicate uncertain scholarship, e.g., 'circa 1645' or 'first exhibited 1765-66.'",
+                "name": "Disp_Create_DT",
+                "suppressOutput": false,
+                "titles": "Year",
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/creation_date",
+                "propertyUrl": "rdf:value"
+            },
+            {
+                "datatype": "string",
+                "name": "Disp_Start_Dat",
+                "suppressOutput": true,
+                "titles": "Start Date"
+            },
+            {
+                "datatype": "string",
+                "name": "Disp_End_Date",
+                "suppressOutput": true,
+                "titles": "End Date" 
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://iiif.io/api/presentation/2#Manifest"
+            },
+
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/object_id"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/object_id",
+                "propertyUrl": "rdfs:label",
+                "default": "Object ID"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/accession_number"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/accession_number",
+                "propertyUrl": "rdfs:label",
+                "default": "Accession Number"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/alt_title"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/alt_title",
+                "propertyUrl": "rdfs:label",
+                "default": "Alternate Title"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/credit_line"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/credit_line",
+                "propertyUrl": "rdfs:label",
+                "default": "Credit Line"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/title"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/title",
+                "propertyUrl": "rdfs:label",
+                "default": "Title"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/medium"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/medium",
+                "propertyUrl": "rdfs:label",
+                "default": "Medium"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/department"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/department",
+                "propertyUrl": "rdfs:label",
+                "default": "Department"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/creation_date"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/creation_date",
+                "propertyUrl": "rdfs:label",
+                "default": "Date"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "http://iiif.io/api/presentation/2#metadataLabels",
+                "valueUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/dimensions"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}/metadata/dimensions",
+                "propertyUrl": "rdfs:label",
+                "default": "Dimensions"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://xmlns.com/foaf/0.1/logo",
+                "valueUrl": "https://iiif.museum.colby.edu/image/logo/full/50,/0/default.jpg"
+            }
+
+        ]
+    }
+}

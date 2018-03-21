@@ -1,0 +1,53 @@
+{
+    "dc:identifier": "Surrogates",
+    "dc:title": "Surrogate",
+    "foreignKeys": [
+        {
+            "columnReference": "_Objects_1_ID",
+            "reference": {
+                "columnReference": "_Objects_1_ID",
+                "resource": "Objects_1.csv"
+            }
+        }
+    ],
+    "tableSchema": {
+        "aboutUrl": "http://data.museum.colby.edu/<collection>/<surrogate>/{File_Name}",
+        "columns": [
+            {
+                "name": "_Objects_1_ID",
+                "suppressOutput": false,
+                "aboutUrl": "http://data.museum.colby.edu/<collection>/<object>/{_Objects_1_ID}",
+                "propertyUrl": "crm:P138_has_representation",
+                "valueUrl": "http://data.museum.colby.edu/<collection>/<surrogate>/{File_Name}"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "If the surrogate has been digitized, the name of the digital file",
+                "name": "File_Name",
+                "suppressOutput": false,
+                "titles": "Digital File Name",
+                "propertyUrl": "has_identifier" // FIXME: Reify this as an Identifier instead
+            },
+            {
+                "datatype": "boolean",
+                "dc:description": "Specifies that this surrogate's image should be used as the primary object image.",
+                "name": "IsPrimary",
+                "suppressOutput": false,
+                "titles": "Use for Object?",
+                "propertyUrl": "classified_as",
+                "valueUrl": "aat:primary_image"
+            },
+            {
+                "datatype": "string",
+                "dc:description": "Identifies the view of the subject above, e.g., 'from above,' 'looking North,' 'from the apse.'  Also used in describing part/whole relationships (eg., page x of y). Use controlled vocabulary.",
+                "name": "View_1",
+                "suppressOutput": false,
+                "titles": "View",
+                "valueUrl": "rdfs:label" // FIXME: Go the long route and construct a ling. object
+            }
+            // FIXME: Type the surrogate as VisualItem
+            // FIXME: Can we get sequence numbers in the data export?
+        ]
+    },
+    "url": "surrogates.csv"
+}
