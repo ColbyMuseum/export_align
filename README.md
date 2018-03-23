@@ -1,3 +1,3 @@
 # export_align
 
-Generate linked open data from the Embark collections management system using a CSV export template and CSV on the Web.
+A CSV to JSON-LD pipeline, generates IIIF Presentation manifests and Linked Art data from CSV files. 

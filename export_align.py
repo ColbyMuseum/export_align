@@ -1,13 +1,14 @@
 # export_align.py:
 # - Exports CSV data from EmbARK Web Kiosk XML template exporter
-# - (FUTURE) Validates data for type and format
 # - Transform into JSON-LD as IIIF manifests or Linked.Art objects
+# - (FUTURE) Validates data for type and format
 
 import argparse
 import csv
 import json
 import re
 import csv
+import os
 
 from pprint import pprint
 from tempfile import NamedTemporaryFile
@@ -157,129 +158,48 @@ def process_csv(csv_file, metadata_file, riotpath, g = None):
 
 	return g
 
-
-def build_canvases(graph = None):
-	if graph is not None:
-		process_csv('data/surrogates.csv', 'metadata/surrogates-iiif.csv-metadata.json',RIOT_PATH, graph)
-	else:
-		graph = process_csv('data/surrogates.csv', 'metadata/surrogates-iiif.csv-metadata.json',RIOT_PATH)
-
-	return graph 
-
-def build_manifests(graph = None):
-	if graph is not None:
-		process_csv('data/objects_1.csv', 'metadata/objects_1-iiif.csv-metadata.json', RIOT_PATH, graph)
-	else: 
-		graph = process_csv('data/objects_1.csv', 'metadata/objects_1-iiif.csv-metadata.json',RIOT_PATH)
-
-	return graph
-
-def frame_and_write_canvases():
-	# FIXME: frame and write canvases to disk
-	pass
-
-def write_manifests(json_ld):
+def write_jsonld(json_ld, output_dir):
 	# Write out manifest JSON files, one per entry in the graph
 
-	for m in json_ld["@graph"]:
-		fp = "manifests/" + m["@id"].split('/')[-1]
-		m["@context"] = "http://iiif.io/api/presentation/2/context.json"
+	for js in json_ld["@graph"]:
+		# IIIF takes an "@id", linked.art takes "id"
+		ident = js.get("@id")
+		ident = js.get("id") if ident is None else ident
+
+		fp = os.path.join(output_dir, ident.split('/')[-1])
+		js["@context"] = json_ld["@context"]
 		with open(fp,'w') as f:
-			json.dump(m,f, indent = 4, sort_keys = True )
+			json.dump(js,f, indent = 4, sort_keys = True )
 
-def frame_and_write_manifests(g):
-	
-	#with open('contexts/linked-art.json') as f:
-	#	ctx = json.load(f)
+def frame_and_write(graph, context, frame, output_dir, graph_fixer = None ):
+	# Take an RDF graph, convert it to JSON-LD with a compaction context, frame, and an optional graph fixer func
 
-	js = json.loads(g.serialize(format = 'json-ld', context = "http://iiif.io/api/presentation/2/context.json" ))
-	# js = {
-	# 	"@context": "http://iiif.io/api/presentation/2/context.json", 
-	# }
-	# js["@graph"] = [ json.loads(g.serialize(format = 'json-ld')) ]
+	fp = os.path.join("frames/", frame)
+	with open(fp) as f:
+		frm = json.load(f)
 
-	with open('graph.json', 'w') as f:
+	print("Loading graph as JSON-LD")
+	js = json.loads(graph.serialize(format = 'json-ld', context = context ))
+
+	with open('data/graph.json', 'w') as f:
 		json.dump(js,f)
 
-	frame = {
-		"@context": "http://iiif.io/api/presentation/2/context.json",
-		"@embed": "@always",
-		"@type": "http://iiif.io/api/presentation/2#Manifest",
-		"explicit": "true",
-		"metadata": {},
-		"sequences": {
-			"canvases": {
-				"images": {
-					"resource": {
-						"service": {
-							"@context": "http://iiif.io/api/image/2/context.json"
-						}
-					}
-				}
-			}
-		}
-	}
+	print("Framing entities")
+	entities = jsonld.frame( js,frm )
 
-	# See https://github.com/zimeon/iiif-ld-demo/blob/master/prezi-api/jabber5.py
-	# frame = {
-	# 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	# 	"@type": "sc:Manifest",
-	# 	"startCanvas": {
-	# 		"@embed": False
-	# 	},
-	# 	"sequences": [
-	# 		{
-	# 		"@type": "sc:Sequence",
-	# 		"startCanvas": {
-	# 			"@embed": False
-	# 		},
-	# 		"canvases": [
-	# 			{
-	# 				"@type": "sc:Canvas",
-	# 				"images": [
-	# 					{
-	# 					"@type": "oa:Annotation",
-	# 					"@embed": True
-	# 					}
-	# 				],
-	# 				"otherContent": [
-	# 					{
-	# 					"@explicit": True,
-	# 					"@embed": True,
-	# 					"@type": "sc:AnnotationList",
-	# 					"label": {"@embed": True}
-	# 					}
-	# 				]	
-	# 			}
-	# 		]
-	# 		}
-	# 	],
-	# 	"structures": [{
-	# 	"@type": "sc:Range",
-	# 	"@embed": True,
-	# 	"canvases": [{
-	# 	"@embed": False
-	# 	}],
-	# 	"ranges": [{
-	# 	"@embed": False
-	# 	}],
-	# 	"members": [{
-	# 	"@embed": True,
-	# 	"@explicit": True,
-	# 	"@type": "",
-	# 	"label": {"@embed": True}
-	# 	}]
-	# 	}]
-	# }
+	if graph_fixer:
+		entities = graph_fixer(entities)
 
-	manifests = jsonld.frame( js,frame )
+	print("Writing entities")
+	write_jsonld(entities, output_dir)
 
-	# Compact with an amended context using "@container": "@set" instead of "@list" to account for JSON-LD 1.1..
+def fix_iiif(manifests):
 	with open('contexts/iiif2-jsonld11.json') as f:
 		ctx = json.load(f)
 	manifests = jsonld.compact( manifests, ctx )
 	manifests = patch_image_service(manifests)
-	write_manifests(manifests)
+
+	return manifests
 
 def main():
 	args = parse_args()
@@ -294,15 +214,26 @@ def main():
 
 	if args["iiif_manifest"]:
 		graph = Graph()
-		print("Before builds",len(graph),"statements") 
-		build_canvases(graph = graph)
-		print("After canvas build",len(graph),"statements") 
-		build_manifests(graph)
-		print("After manifest build",len(graph),"statements")
-		frame_and_write_manifests(graph)
+		print("Building IIIF graph",len(graph),"statements")
+		process_csv("data/surrogates.csv", "metadata/surrogates-iiif.csv-metadata.json", RIOT_PATH, graph)
+		print("After canvases",len(graph),"statements") 
+		process_csv("data/objects_1.csv", "metadata/objects_1-iiif.csv-metadata.json", RIOT_PATH, graph)
+		print("After manifests",len(graph),"statements")
+		print("Framing and writing manifests")
+		frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "manifests/", graph_fixer = fix_iiif)
 
 	if args["linked_art"]:
-		raise NotImplementedError
+		graph = Graph()
+		print("Building Linked Art graph", len(graph), "statements")
+		process_csv("data/objects_1.csv", "metadata/objects_1.csv-metadata.json", RIOT_PATH, graph)
+		print("After ManMadeObjects", len(graph), "statements")
+		process_csv("data/artist_maker.csv", "metadata/artist_maker.csv-metadata.json", RIOT_PATH, graph)
+		print("After Actors", len(graph), "statements")
+		#process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
+		print("After Visual Items", len(graph),"statements")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "mmos/")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "actors/")
+		#frame_and_write(graph, "la_visualitems.json")
 
 if __name__ == "__main__":
 	main()
