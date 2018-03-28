@@ -167,6 +167,10 @@ def write_jsonld(json_ld, output_dir):
 		ident = js.get("id") if ident is None else ident
 
 		fp = os.path.join(output_dir, ident.split('/')[-1])
+
+		if not fp.endswith(".json"):
+			fp = fp + ".json"
+			
 		js["@context"] = json_ld["@context"]
 		with open(fp,'w') as f:
 			json.dump(js,f, indent = 4, sort_keys = True )
@@ -220,7 +224,7 @@ def main():
 		process_csv("data/objects_1.csv", "metadata/objects_1-iiif.csv-metadata.json", RIOT_PATH, graph)
 		print("After manifests",len(graph),"statements")
 		print("Framing and writing manifests")
-		frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "manifests/", graph_fixer = fix_iiif)
+		frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "output/manifests/", graph_fixer = fix_iiif)
 
 	if args["linked_art"]:
 		graph = Graph()
@@ -231,8 +235,8 @@ def main():
 		print("After Actors", len(graph), "statements")
 		#process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
 		print("After Visual Items", len(graph),"statements")
-		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "mmos/")
-		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "actors/")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "otuput/mmos/")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actors/")
 		#frame_and_write(graph, "la_visualitems.json")
 
 if __name__ == "__main__":
