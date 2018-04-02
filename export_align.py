@@ -30,6 +30,7 @@ def parse_args():
 	parser.add_argument("--fix-ccma-iiif", action = "store_true", help = "Optional: apply CCMA-specific fixes to surrogates")
 	parser.add_argument("--iiif-manifest", action = "store_true", help = "Generate files representing sc:Manifest objects for each object")
 	parser.add_argument("--linked-art", action = "store_true", help = "Generate JSON-LD for linked.art")
+	parser.add_argument("--riot", default = "./bin/apache-3.6.0/bin/riot", help = "Path to Jena's riot command")
 
 	#parser.add_argument("--csv_file", help = "Process CSV file instead of fetching from server")
 	#parser.add_argument("--metadata", help = "Metadata file (if not in an expected location)", required = False)
@@ -203,10 +204,14 @@ def fix_iiif(manifests):
 	manifests = jsonld.compact( manifests, ctx )
 	manifests = patch_image_service(manifests)
 
+	manifests["@context"] = "http://iiif.io/api/presentation/2/context.json"
+
 	return manifests
 
 def main():
 	args = parse_args()
+
+	RIOT_PATH = args["riot"]
 
 	if args["fetch_csv"]:
 		fetch_data('surrogates')
