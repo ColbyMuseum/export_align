@@ -9,6 +9,7 @@ import json
 import re
 import csv
 import os
+import shutil
 
 from pprint import pprint
 from tempfile import NamedTemporaryFile
@@ -186,7 +187,7 @@ def frame_and_write(graph, context, frame, output_dir, graph_fixer = None ):
 	print("Loading graph as JSON-LD")
 	js = json.loads(graph.serialize(format = 'json-ld', context = context ))
 
-	with open('data/graph.json', 'w') as f:
+	with open('output/graph.json', 'w') as f:
 		json.dump(js,f)
 
 	print("Framing entities")
@@ -208,10 +209,34 @@ def fix_iiif(manifests):
 
 	return manifests
 
+def clean_output_dirs():
+	shutil.rmtree('./output')
+
+	dirs = [ 
+	'./output/manmadeobject',
+	'./output/actor',
+	'./output/person',
+	'./output/manifest',
+	'./output/canvas'
+	]
+
+	# mkdir -p, see https://stackoverflow.com/questions/600268/mkdir-p-functionality-in-python#600612
+	for path in dirs:
+		try: 
+			os.makedirs(path)
+		except OSError as exc: 
+			if exc.errno == errno.EEXIST and os.path.isdir(path):
+				pass
+			else:
+				raise
+
+
 def main():
 	args = parse_args()
 
 	RIOT_PATH = args["riot"]
+
+	clean_output_dirs()
 
 	if args["fetch_csv"]:
 		fetch_data('surrogates')
@@ -229,7 +254,7 @@ def main():
 		process_csv("data/objects_1.csv", "metadata/objects_1-iiif.csv-metadata.json", RIOT_PATH, graph)
 		print("After manifests",len(graph),"statements")
 		print("Framing and writing manifests")
-		frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "output/manifests/", graph_fixer = fix_iiif)
+		frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "output/manifest/", graph_fixer = fix_iiif)
 
 	if args["linked_art"]:
 		graph = Graph()
@@ -240,8 +265,8 @@ def main():
 		print("After Actors", len(graph), "statements")
 		#process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
 		print("After Visual Items", len(graph),"statements")
-		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "otuput/mmos/")
-		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actors/")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "otuput/manmadeobject/")
+		frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actor/")
 		#frame_and_write(graph, "la_visualitems.json")
 
 if __name__ == "__main__":
