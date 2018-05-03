@@ -4,12 +4,16 @@ A CSV to JSON-LD pipeline, generates IIIF Presentation manifests and Linked Art 
 
 ## Requirements
 
-A server or laptop running the EmbARK Web Kiosk and an updated data file, python 3.X, and Java 8.
+An EmbARK Web Kiosk instance to pull data from, a Linux or macOS instance to run the scripts with python, pip, and Java 8 installed.
 
 ## Usage
 
-To install the pipeline dependencies, run `pip3 install -r requirements.txt`.
+- Clone this repo `git clone https://github.com/ColbyMuseum/export_align`
+- `cd export_align`
+- Install the python dependencies, `pip install -r requirements.txt` (or set up a virtualenv)
+- Install riot `./install_riot.sh`
 
-To execute the pipeline, for:
-- IIIF manifests, run `python3 export_align.py --iiif-manifest`
-- Linked Art entities, run `python3 export_align.py --linked-art`
+Copy the WebKiosk SHTML templates in `./templates` to the WebFolder directory of your WebKiosk install and reboot the WebKiosk service. 
+
+- `python export_align.py --fetch-csv --iiif-manifest` will produce IIIF manifests in `./output/manifest`
+- `python export_align.py --fetch-csv --linked-art` will produce LinkedArt JSON documents in `./output/mmo` and `./output/actor`
