@@ -210,7 +210,9 @@ def fix_iiif(manifests):
 	return manifests
 
 def clean_output_dirs():
-	shutil.rmtree('./output')
+
+	if os.path.isdir('./output'):
+		shutil.rmtree('./output')
 
 	dirs = [ 
 	'./output/manmadeobject',
