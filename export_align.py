@@ -15,14 +15,14 @@ from tempfile import NamedTemporaryFile
 
 from rdflib import Graph
 
-from utils.embarkservice import KioskQuery, EmbarkService
+from embarkservice import KioskQuery, EmbarkService
 from pycsvw import CSVW
 from pyld import jsonld
 
 import requests
 
 # pycsvw requires Jena
-RIOT_PATH = "/usr/local/jena/bin/riot"
+RIOT_PATH = "./bin/apache-jena-3.6.0/bin/riot"
 
 def parse_args(): 
 	parser = argparse.ArgumentParser(description = """Uses metadata templates to generate IIIF and linked.art as JSON-LD from CSV files.""")
@@ -30,7 +30,7 @@ def parse_args():
 	parser.add_argument("--fix-ccma-iiif", action = "store_true", help = "Optional: apply CCMA-specific fixes to surrogates")
 	parser.add_argument("--iiif-manifest", action = "store_true", help = "Generate files representing sc:Manifest objects for each object")
 	parser.add_argument("--linked-art", action = "store_true", help = "Generate JSON-LD for linked.art")
-	parser.add_argument("--riot", default = "./bin/apache-3.6.0/bin/riot", help = "Path to Jena's riot command")
+	parser.add_argument("--riot", default = "./bin/apache-jena-3.6.0/bin/riot", help = "Path to Jena's riot command")
 
 	#parser.add_argument("--csv_file", help = "Process CSV file instead of fetching from server")
 	#parser.add_argument("--metadata", help = "Metadata file (if not in an expected location)", required = False)
@@ -148,7 +148,7 @@ def process_csv(csv_file, metadata_file, riotpath, g = None):
 	if g is None:
 		g = Graph()
 
-	csvw = CSVW(csv_path = csv_file, metadata_path = metadata_file, riot_path = RIOT_PATH)
+	csvw = CSVW(csv_path = csv_file, metadata_path = metadata_file, riot_path = riotpath)
 
 	with NamedTemporaryFile() as f:
 		rdf_output = csvw.to_rdf_files([ (f,'turtle') ])
