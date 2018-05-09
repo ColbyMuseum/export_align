@@ -23,7 +23,7 @@ from pyld import jsonld
 import requests
 
 # pycsvw requires Jena
-RIOT_PATH = "./bin/apache-jena-3.6.0/bin/riot"
+#RIOT_PATH = "./bin/apache-jena-3.6.0/bin/riot"
 
 def parse_args(): 
     parser = argparse.ArgumentParser(description = """Uses metadata templates to generate IIIF and linked.art as JSON-LD from CSV files.""")
@@ -31,7 +31,7 @@ def parse_args():
     parser.add_argument("--fix-ccma-iiif", action = "store_true", help = "Optional: apply CCMA-specific fixes to surrogates")
     parser.add_argument("--iiif-manifest", action = "store_true", help = "Generate files representing sc:Manifest objects for each object")
     parser.add_argument("--linked-art", action = "store_true", help = "Generate JSON-LD for linked.art")
-    parser.add_argument("--riot", default = "./bin/apache-jena-3.6.0/bin/riot", help = "Path to Jena's riot command")
+    parser.add_argument("--riot", default = "./bin/apache-jena-3.6.0/bin/riot --nocheck", help = "Path to Jena's riot command")
 
     #parser.add_argument("--csv_file", help = "Process CSV file instead of fetching from server")
     #parser.add_argument("--metadata", help = "Metadata file (if not in an expected location)", required = False)
@@ -117,7 +117,8 @@ def fetch_data(rec_type):
             writer.writerow(row)
 
 def patch_image_service(manifests):
-    # Adds "@context": "http://iiif.io/api/image/2/context.json" to all image service blocks
+    # Adds "@context": "http://iiif.io/api/image/2/context.json" to all image service blocks.
+    # IIIF Image+Presentation 3 / JSON-LD 1.1 make this unnecessary
     for m in manifests["@graph"]:
 
         seq = m.get("sequences")
@@ -185,7 +186,17 @@ def frame_and_write(graph, context, frame, output_dir, graph_fixer = None ):
         frm = json.load(f)
 
     print("Loading graph as JSON-LD")
-    js = json.loads(graph.serialize(format = 'json-ld', context = context ))
+
+    # with requests.get(context) as r:
+    #     if r.status_code == 200:
+    #         context = json.loads(r.content)
+
+    # print("Context is",context)
+    # del context["@context"]["@version"]
+
+    empty_ctx = { "@context": {} }
+    js = json.loads(graph.serialize(format = 'json-ld', context = empty_ctx ))
+    js = jsonld.compact(js, context)
 
     with open('output/graph.json', 'w') as f:
         json.dump(js,f)
@@ -263,12 +274,12 @@ def main():
         print("Building Linked Art graph", len(graph), "statements")
         process_csv("data/objects_1.csv", "metadata/objects_1.csv-metadata.json", RIOT_PATH, graph)
         print("After ManMadeObjects", len(graph), "statements")
-        process_csv("data/artist_maker.csv", "metadata/artist_maker.csv-metadata.json", RIOT_PATH, graph)
-        print("After Actors", len(graph), "statements")
-        #process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
-        print("After Visual Items", len(graph),"statements")
-        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "otuput/manmadeobject/")
-        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actor/")
+        # process_csv("data/artist_maker.csv", "metadata/artist_maker.csv-metadata.json", RIOT_PATH, graph)
+        # print("After Actors", len(graph), "statements")
+        process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
+        print("After IIIF Integrations", len(graph),"statements")
+        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "output/manmadeobject/")
+        # frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actor/")
         #frame_and_write(graph, "la_visualitems.json")
 
 if __name__ == "__main__":

@@ -156,13 +156,19 @@
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body"
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E74_Group"
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu",
                 "propertyUrl": "rdfs:label",
                 "default": "Colby College Museum of Art"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300312281"
             },
             {
                 "virtual": true,
@@ -210,14 +216,14 @@
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P102_has_title",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
                 "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/alt_title"
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/alt_title",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E35_Title"
+                "valueUrl": "https://linked.art/ns/terms/Name"
             },
             {
                 "virtual": true,
@@ -255,49 +261,20 @@
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P102_has_title",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
                 "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title"  
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E35_Title"  
+                "valueUrl": "https://linked.art/ns/terms/Name"  
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"  
-            },
-            {
-                "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P41i_was_classified_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/classification"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/classification",
-                "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/classification",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P42_assigned",
-                "valueUrl": "http://data.museum.colby.edu/thesauri/classification/{Disp_Obj_Type}"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/classification/{Disp_Obj_Type}",
-                "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/classification/{Disp_Obj_Type}",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose",
-                "valueUrl": "aat:300179869"  
             },
             {
                 "virtual": true,
@@ -318,38 +295,80 @@
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P45_consists_of",
-                "valueUrl": "http://data.museum.colby.edu/thesauri/material/{Disp_Medium}"  
-            },
-            {
-                "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/physical_object"  
+                "propertyUrl": "http://www.openarchives.org/ore/terms/isAggregatedBy",
+                "valueUrl": "http://data.museum.colby.edu/thesauri/department/{Department}"  
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/thesauri/department/{Department}",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E74_Group"  
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/physical_object",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P49_has_current_keeper",
-                "valueUrl": "http://data.museum.colby.edu/thesauri/department/{Department}"  
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/physical_object",
-                "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E19_Physical_Object"  
+                "valueUrl": "http://www.openarchives.org/ore/terms/Aggregation"  
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}",
-                "propertyUrl": "foat:homepage",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
                 "valueUrl": "http://embark.colby.edu/Obj{Objects_1_ID}"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://embark.colby.edu/Obj{Objects_1_ID}",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://embark.colby.edu/Obj{Objects_1_ID}",
+                "propertyUrl": "rdfs:label",
+                "default": "Homepage for the Object"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://embark.colby.edu/Obj{Objects_1_ID}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300264578"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://embark.colby.edu/Obj{Objects_1_ID}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300404670"  
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://embark.colby.edu/Obj{Objects_1_ID}",
+                "propertyUrl": "dc:format",
+                "default": "text/html"  
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "http://vocab.getty.edu/aat/300133025"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                "valueUrl": "https://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "https://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "https://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "dcterms:conformsTo",
+                "valueUrl": "http://iiif.io/api/presentation"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "https://iiif.museum.colby.edu/presentation/object/{Objects_1_ID}.json",
+                "propertyUrl": "dc:format",
+                "default": "application/ld+json;profile=\"http://iiif.io/api/presentation/2/context.json\""
             }
+
         ]
     }
 }

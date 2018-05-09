@@ -1,5 +1,9 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
     "@embed": "@always",
-    "@type": "ManMadeObject"
+    "@type": "ManMadeObject",
+    "identified_by": {
+    	"@requireAll": true,
+    	"value": {}
+    }
 }
