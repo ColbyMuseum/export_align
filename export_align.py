@@ -272,14 +272,14 @@ def main():
     if args["linked_art"]:
         graph = Graph()
         print("Building Linked Art graph", len(graph), "statements")
-        process_csv("data/objects_1.csv", "metadata/objects_1.csv-metadata.json", RIOT_PATH, graph)
-        print("After ManMadeObjects", len(graph), "statements")
-        # process_csv("data/artist_maker.csv", "metadata/artist_maker.csv-metadata.json", RIOT_PATH, graph)
-        # print("After Actors", len(graph), "statements")
+        #process_csv("data/objects_1.csv", "metadata/objects_1.csv-metadata.json", RIOT_PATH, graph)
+        #print("After ManMadeObjects", len(graph), "statements")
+        process_csv("data/artist_maker.csv", "metadata/artist_maker.csv-metadata.json", RIOT_PATH, graph)
+        print("After Actors", len(graph), "statements")
         process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
         print("After IIIF Integrations", len(graph),"statements")
-        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "output/manmadeobject/")
-        # frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actor/")
+        #frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "output/manmadeobject/")
+        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/actor/")
         #frame_and_write(graph, "la_visualitems.json")
 
 if __name__ == "__main__":

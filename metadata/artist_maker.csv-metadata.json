@@ -1,274 +1,258 @@
 {
-    "@context": [ "http://www.w3.org/ns/csvw", { "@base": "http://example.com/" } ],
+    "@context": "http://www.w3.org/ns/csvw",
     "dc:title": "Artist",
     "dc:identifier": "Artist_Maker",
     "url": "artist_maker.csv",
     "tableSchema": {
-        "aboutUrl": "/constituent/{Artist_ID}",
+        "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}",
         "columns": [
             {
                 "name": "Artist_ID",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "long",
                 "description": "The internal ID for Artist records.",
-                "aboutUrl": "/constituent/{Artist_ID}/preferred_id",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/preferred_id",
                 "propertyUrl": "rdf:value"
             },
             {
                 "name": "Biography",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "A narrative field that provides for a lengthy description of the artist\u2019s life and commentary on his/her contributions and achievements.",
-                "aboutUrl": "/constituent/{Artist_ID}/biography",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
                 "propertyUrl": "rdf:value"
             },
             {
                 "name": "Start_Date_Disp",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "The display version of the artist\u2019s birth date, e.g., 'circa 1645.'",
-                "aboutUrl": "/constituent/{Artist_ID}/birth/date",
-                "propertyUrl": "rdfs:label"
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth/date",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin"
             },
             {
                 "titles": "Death",
                 "name": "End_Date_Disp",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "The display version of the artist\u2019s death date, e.g., 'before 1703'. ",
-                "aboutUrl": "/constituent/{Artist_ID}/death/date",
-                "propertyUrl": "rdfs:label"
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death/date",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end"
             },
             {
                 "titles": "Display Name",
                 "name": "Display_Name",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "The commonly known or generally recognized name of the artist, for display, publication and reproduction purposes, e.g., 'Rembrandt' or 'Guercino' as opposed to the full name 'Rembrandt Harmenszoon Van Rijn' or 'Giovanni Francesco Barbieri.' ",
-                "aboutUrl": "/constituent/{Artist_ID}/name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name",
                 "propertyUrl": "rdf:value"
             },
             {
                 "titles": "First Names",
                 "name": "First_Name",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "All the names that precede the last name and last name prefix, e.g., 'Jan Davidszoon' (de Heem) or 'George Wesley' (Bellows).",
-                "aboutUrl": "/constituent/{Artist_ID}/first_name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name",
                 "propertyUrl": "rdf:value"
             },
             {
                 "titles": "Last Name",
                 "name": "Last_Name",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "The name you would look up in a standard reference work, e.g., 'Rijn,' Rembrandt Harmenszoon van or 'Sanzio,' Raphael.",
-                "aboutUrl": "/constituent/{Artist_ID}/last_name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/last_name",
                 "propertyUrl": "rdf:value"
             },
             {
                 "titles": "Nationality",
                 "name": "Nat_Culture_L2",
-                "suppressOutput": "false",
+                "suppressOutput": false,
                 "datatype": "string",
                 "description": "This field contains information about the geopolitical entity that claims the artist, expressed as a nationality, e.g., 'French,' 'American,' 'Flemish.'",
-                "aboutUrl": "/thesauri/nationality/{Nat_Culture_L2}",
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
                 "propertyUrl": "rdfs:label"
             },
             {
                 "titles": "Sort Name",
                 "name": "Sort_Name",
-                "suppressOutput": false,
+                "suppressOutput": true,
                 "datatype": "string",
-                "description": "For searching and organizing, the name or sequence of names which determines the position of the artist in the list of artists, so that he or she may be found where expected, e.g. 'Rembrandt' under 'R' or 'Guercino' under 'G.'",
-                "aboutUrl": "/constituent/{Artist_ID}/sort_name",
-                "propertyUrl": "rdf:value"
+                "description": "For searching and organizing, the name or sequence of names which determines the position of the artist in the list of artists, so that he or she may be found where expected, e.g. 'Rembrandt' under 'R' or 'Guercino' under 'G.'"
             },
             {
                 "name": "Artist_Code",
                 "suppressOutput": false,
                 "datatype": "string",
                 "description": "A reference number used by the institution to identify the artist or maker, e.g., a Cutter number.",
-                "aboutUrl": "http://vocab.getty.edu/ulan/{Artist_Code}",
+                "propertyUrl": "skos:exactMatch"
+            },
+            {
+                "virtual": true,
                 "propertyUrl": "rdf:type",
-                "valueUrl": "skos:Concept"
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                "valueUrl": "/constituent/{Artist_ID}/preferred_id"
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/preferred_id"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/preferred_id",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/preferred_id",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/preferred_id",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/preferred_id",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by",
-                "valueUrl": "/constituent/{Artist_ID}/name"
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation"
+                "valueUrl": "https://linked.art/ns/terms/Name"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by",
-                "valueUrl": "/constituent/{Artist_ID}/sort_name"
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of",
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/sort_name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/name",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of",
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/last_name"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/sort_name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                "valueUrl": "aat:300404672"
+                "valueUrl": "http://data.museum.colby.edu/thesauri/name_type/first_name"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/name",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of",
-                "valueUrl": "/constituent/{Artist_ID}/first_name"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/name",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of",
-                "valueUrl": "/constituent/{Artist_ID}/last_name"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/first_name",
-                "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/first_name",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                "valueUrl": "/thesauri/name_type/first_name"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "/thesauri/name_type/first_name",
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/name_type/first_name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404651"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/thesauri/name_type/last_name",
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/name_type/last_name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404652"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P92i_was_brought_into_existence_by",
-                "valueUrl": "/constituent/{Artist_ID}/birth"
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/birth",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/birth",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                "valueUrl": "/constituent/{Artist_ID}/birth/date"
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth/date"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/birth/date",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/birth/date",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"
             },
             {
                 "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P93i_taken_out_of_existence_by",
-                "valueUrl": "/constituent/{Artist_ID}/death"
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P93i_was_taken_out_of_existence_by",
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/death",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/death",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                "valueUrl": "/constituent/{Artist_ID}/death/date"
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death/date"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/death/date",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/death/date",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/thesauri/nationality/{Nat_Culture_L2}",
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E74_Group"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/thesauri/nationality/{Nat_Culture_L2}",
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300379842"
             },
             {
                 "virtual": true,
                 "propertyUrl": "P107i_is_current_or_former_member_of",
-                "valueUrl": "/thesauri/nationality/{Nat_Culture_L2}"
+                "valueUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/biography",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/biography",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300080102"
             },
             {
                 "virtual": true,
-                "aboutUrl": "/constituent/{Artist_ID}/biography",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
-                "valueUrl": "/constituent/{Artist_ID}/biography"
+                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography"
             },
             {
                 "virtual": true,
-                "propertyUrl": "skos:exactMatch",
+                "propertyUrl": "",
                 "valueUrl": "http://vocab.getty.edu/ulan/{Artist_Code}"
             },
             {
