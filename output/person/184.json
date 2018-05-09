@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/184/birth",
+        "timespan": {
+            "begin_of_the_begin": "1882",
+            "id": "http://data.museum.colby.edu/constituent/184/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/184",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/184/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/184/last_name",
+                    "type": "Name",
+                    "value": "Bellows"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/184/first_name",
+                    "type": "Name",
+                    "value": "George Wesley"
+                }
+            ],
+            "type": "Name",
+            "value": "George Bellows"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/184/preferred_id",
+            "type": "Identifier",
+            "value": "184"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/184/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/184/death",
+        "timespan": {
+            "end_of_the_end": "1925",
+            "id": "http://data.museum.colby.edu/constituent/184/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

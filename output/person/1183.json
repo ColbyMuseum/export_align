@@ -1,0 +1,70 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1183/birth",
+        "timespan": {
+            "begin_of_the_begin": "1932",
+            "id": "http://data.museum.colby.edu/constituent/1183/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1183",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1183/preferred_id",
+            "type": "Identifier",
+            "value": "1183"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1183/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1183/first_name",
+                    "type": "Name",
+                    "value": "Italo"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1183/last_name",
+                    "type": "Name",
+                    "value": "Scanga"
+                }
+            ],
+            "type": "Name",
+            "value": "Italo Scanga"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1183/biography",
+            "type": "LinguisticObject",
+            "value": "Obituary found in The New York Times: http://www.nytimes.com/2001/08/03/arts/italo-scanga-69-an-artist-inspired-by-found-objects.html"
+        }
+    ],
+    "skos:exactMatch": "500076393",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1183/death",
+        "timespan": {
+            "end_of_the_end": "2001",
+            "id": "http://data.museum.colby.edu/constituent/1183/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

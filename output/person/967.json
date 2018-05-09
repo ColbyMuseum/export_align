@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/967/birth",
+        "timespan": {
+            "begin_of_the_begin": "1940",
+            "id": "http://data.museum.colby.edu/constituent/967/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/967",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/967/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/967/last_name",
+                    "type": "Name",
+                    "value": "Murray"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/967/first_name",
+                    "type": "Name",
+                    "value": "Elizabeth"
+                }
+            ],
+            "type": "Name",
+            "value": "Elizabeth Murray"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/967/preferred_id",
+            "type": "Identifier",
+            "value": "967"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/967/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500025911",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/967/death",
+        "timespan": {
+            "end_of_the_end": "2007",
+            "id": "http://data.museum.colby.edu/constituent/967/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

@@ -1,0 +1,66 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1012/birth",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1012/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1012",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1012/preferred_id",
+            "type": "Identifier",
+            "value": "1012"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1012/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1012/last_name",
+                    "type": "Name",
+                    "value": "O&#39;leary"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1012/first_name",
+                    "type": "Name",
+                    "value": "John"
+                }
+            ],
+            "type": "Name",
+            "value": "John O&#39;leary"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1012/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1012/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1012/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

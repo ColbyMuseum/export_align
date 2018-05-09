@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1086/birth",
+        "timespan": {
+            "begin_of_the_begin": "1931",
+            "id": "http://data.museum.colby.edu/constituent/1086/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1086",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1086/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1086/first_name",
+                    "type": "Name",
+                    "value": "Kenneth"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1086/last_name",
+                    "type": "Name",
+                    "value": "Quick"
+                }
+            ],
+            "type": "Name",
+            "value": "Kenneth Quick"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1086/preferred_id",
+            "type": "Identifier",
+            "value": "1086"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1086/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1086/death",
+        "timespan": {
+            "end_of_the_end": "1963",
+            "id": "http://data.museum.colby.edu/constituent/1086/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

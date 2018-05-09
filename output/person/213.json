@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/213/birth",
+        "timespan": {
+            "begin_of_the_begin": "1913",
+            "id": "http://data.museum.colby.edu/constituent/213/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/213",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/213/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/213/first_name",
+                    "type": "Name",
+                    "value": "Hyman"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/213/last_name",
+                    "type": "Name",
+                    "value": "Bloom"
+                }
+            ],
+            "type": "Name",
+            "value": "Hyman Bloom"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/213/preferred_id",
+            "type": "Identifier",
+            "value": "213"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/213/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500022094",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/213/death",
+        "timespan": {
+            "end_of_the_end": "2009",
+            "id": "http://data.museum.colby.edu/constituent/213/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

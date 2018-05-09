@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/635/birth",
+        "timespan": {
+            "begin_of_the_begin": "1891",
+            "id": "http://data.museum.colby.edu/constituent/635/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/635",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/635/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/635/last_name",
+                    "type": "Name",
+                    "value": "Heintzelman"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/635/first_name",
+                    "type": "Name",
+                    "value": "Arthur William"
+                }
+            ],
+            "type": "Name",
+            "value": "Arthur William Heintzelman"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/635/preferred_id",
+            "type": "Identifier",
+            "value": "635"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/635/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500057101",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/635/death",
+        "timespan": {
+            "end_of_the_end": "1965",
+            "id": "http://data.museum.colby.edu/constituent/635/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

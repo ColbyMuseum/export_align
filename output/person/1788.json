@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1788/birth",
+        "timespan": {
+            "begin_of_the_begin": "1884",
+            "id": "http://data.museum.colby.edu/constituent/1788/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1788",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1788/preferred_id",
+            "type": "Identifier",
+            "value": "1788"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1788/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1788/last_name",
+                    "type": "Name",
+                    "value": "Watkins"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1788/first_name",
+                    "type": "Name",
+                    "value": "Margaret"
+                }
+            ],
+            "type": "Name",
+            "value": "Margaret Watkins"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1788/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500344941",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1788/death",
+        "timespan": {
+            "end_of_the_end": "1969",
+            "id": "http://data.museum.colby.edu/constituent/1788/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

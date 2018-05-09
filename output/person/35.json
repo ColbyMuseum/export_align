@@ -1,0 +1,65 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/35/birth",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/35/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/35",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/35/preferred_id",
+            "type": "Identifier",
+            "value": "35"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/35/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/35/last_name",
+                    "type": "Name",
+                    "value": "Anonymous, Chinese Ming Dynasty (?)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/35/first_name",
+                    "type": "Name"
+                }
+            ],
+            "type": "Name",
+            "value": "Anonymous, Chinese Ming Dynasty (?)"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/35/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/35/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/35/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

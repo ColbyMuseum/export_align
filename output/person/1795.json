@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1795/birth",
+        "timespan": {
+            "begin_of_the_begin": "1980",
+            "id": "http://data.museum.colby.edu/constituent/1795/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1795",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1795/preferred_id",
+            "type": "Identifier",
+            "value": "1795"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1795/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1795/last_name",
+                    "type": "Name",
+                    "value": "Mosse"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1795/first_name",
+                    "type": "Name",
+                    "value": "Richard"
+                }
+            ],
+            "type": "Name",
+            "value": "Richard Mosse"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1795/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500356038",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1795/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1795/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

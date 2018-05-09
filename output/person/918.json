@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/918/birth",
+        "timespan": {
+            "begin_of_the_begin": "1914",
+            "id": "http://data.museum.colby.edu/constituent/918/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/918",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/918/preferred_id",
+            "type": "Identifier",
+            "value": "918"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/918/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/918/first_name",
+                    "type": "Name",
+                    "value": "Edward"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/918/last_name",
+                    "type": "Name",
+                    "value": "Melcarth"
+                }
+            ],
+            "type": "Name",
+            "value": "Edward Melcarth"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/918/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500110034",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/918/death",
+        "timespan": {
+            "end_of_the_end": "1973",
+            "id": "http://data.museum.colby.edu/constituent/918/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/19/birth",
+        "timespan": {
+            "begin_of_the_begin": "1768",
+            "id": "http://data.museum.colby.edu/constituent/19/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/19",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/19/preferred_id",
+            "type": "Identifier",
+            "value": "19"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/19/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/19/first_name",
+                    "type": "Name",
+                    "value": "Ezra"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/19/last_name",
+                    "type": "Name",
+                    "value": "Ames"
+                }
+            ],
+            "type": "Name",
+            "value": "Ezra Ames"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/19/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500018732",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/19/death",
+        "timespan": {
+            "end_of_the_end": "1836",
+            "id": "http://data.museum.colby.edu/constituent/19/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

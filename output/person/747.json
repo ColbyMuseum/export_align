@@ -1,0 +1,66 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/747/birth",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/747/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/747",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/747/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/747/first_name",
+                    "type": "Name",
+                    "value": "Anne"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/747/last_name",
+                    "type": "Name",
+                    "value": "Kimmell"
+                }
+            ],
+            "type": "Name",
+            "value": "Anne Kimmell"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/747/preferred_id",
+            "type": "Identifier",
+            "value": "747"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/747/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/747/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/747/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

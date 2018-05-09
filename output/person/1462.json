@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1462/birth",
+        "timespan": {
+            "begin_of_the_begin": "1863",
+            "id": "http://data.museum.colby.edu/constituent/1462/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1462",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1462/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1462/last_name",
+                    "type": "Name",
+                    "value": "Symons"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1462/first_name",
+                    "type": "Name",
+                    "value": "Gardner George"
+                }
+            ],
+            "type": "Name",
+            "value": "Gardner George Symons"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1462/preferred_id",
+            "type": "Identifier",
+            "value": "1462"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1462/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500026138",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1462/death",
+        "timespan": {
+            "end_of_the_end": "1930",
+            "id": "http://data.museum.colby.edu/constituent/1462/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

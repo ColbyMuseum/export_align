@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1558/birth",
+        "timespan": {
+            "begin_of_the_begin": "1945",
+            "id": "http://data.museum.colby.edu/constituent/1558/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1558",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1558/preferred_id",
+            "type": "Identifier",
+            "value": "1558"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1558/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1558/last_name",
+                    "type": "Name",
+                    "value": "Roeth"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1558/first_name",
+                    "type": "Name",
+                    "value": "Winston"
+                }
+            ],
+            "type": "Name",
+            "value": "Winston Roeth"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1558/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500331557",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1558/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1558/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

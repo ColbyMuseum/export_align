@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1536/birth",
+        "timespan": {
+            "begin_of_the_begin": "1875",
+            "id": "http://data.museum.colby.edu/constituent/1536/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1536",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1536/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1536/first_name",
+                    "type": "Name",
+                    "value": "Maynard"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1536/last_name",
+                    "type": "Name",
+                    "value": "Dixon"
+                }
+            ],
+            "type": "Name",
+            "value": "Maynard Dixon"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1536/preferred_id",
+            "type": "Identifier",
+            "value": "1536"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1536/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500012108",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1536/death",
+        "timespan": {
+            "end_of_the_end": "1946",
+            "id": "http://data.museum.colby.edu/constituent/1536/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

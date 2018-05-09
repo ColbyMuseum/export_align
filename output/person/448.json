@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/448/birth",
+        "timespan": {
+            "begin_of_the_begin": "1939",
+            "id": "http://data.museum.colby.edu/constituent/448/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/448",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/448/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/448/first_name",
+                    "type": "Name",
+                    "value": "Rackstraw"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/448/last_name",
+                    "type": "Name",
+                    "value": "Downes"
+                }
+            ],
+            "type": "Name",
+            "value": "Rackstraw Downes"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/448/preferred_id",
+            "type": "Identifier",
+            "value": "448"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/448/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500075282",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/448/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/448/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

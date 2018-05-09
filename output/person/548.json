@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/548/birth",
+        "timespan": {
+            "begin_of_the_begin": "1939",
+            "id": "http://data.museum.colby.edu/constituent/548/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/548",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/548/preferred_id",
+            "type": "Identifier",
+            "value": "548"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/548/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/548/last_name",
+                    "type": "Name",
+                    "value": "Gibson"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/548/first_name",
+                    "type": "Name",
+                    "value": "Ralph"
+                }
+            ],
+            "type": "Name",
+            "value": "Ralph Gibson"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/548/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500094623",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/548/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/548/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

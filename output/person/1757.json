@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1757/birth",
+        "timespan": {
+            "begin_of_the_begin": "1883",
+            "id": "http://data.museum.colby.edu/constituent/1757/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1757",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1757/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1757/last_name",
+                    "type": "Name",
+                    "value": "Wiggins"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1757/first_name",
+                    "type": "Name",
+                    "value": "Guy C."
+                }
+            ],
+            "type": "Name",
+            "value": "Guy C. Wiggins"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1757/preferred_id",
+            "type": "Identifier",
+            "value": "1757"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1757/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500011126",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1757/death",
+        "timespan": {
+            "end_of_the_end": "1962",
+            "id": "http://data.museum.colby.edu/constituent/1757/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

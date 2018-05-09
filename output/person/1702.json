@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1702/birth",
+        "timespan": {
+            "begin_of_the_begin": "1958",
+            "id": "http://data.museum.colby.edu/constituent/1702/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1702",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1702/preferred_id",
+            "type": "Identifier",
+            "value": "1702"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1702/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1702/last_name",
+                    "type": "Name",
+                    "value": "Hyde"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1702/first_name",
+                    "type": "Name",
+                    "value": "James"
+                }
+            ],
+            "type": "Name",
+            "value": "James Hyde"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1702/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500101389",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1702/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1702/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

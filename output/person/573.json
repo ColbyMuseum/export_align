@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/573/birth",
+        "timespan": {
+            "begin_of_the_begin": "1967",
+            "id": "http://data.museum.colby.edu/constituent/573/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/573",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/573/preferred_id",
+            "type": "Identifier",
+            "value": "573"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/573/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/573/last_name",
+                    "type": "Name",
+                    "value": "Gowin"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/573/first_name",
+                    "type": "Name",
+                    "value": "Elijah"
+                }
+            ],
+            "type": "Name",
+            "value": "Elijah Gowin"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/573/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500345874",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/573/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/573/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

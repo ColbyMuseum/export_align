@@ -1,0 +1,70 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1668/birth",
+        "timespan": {
+            "begin_of_the_begin": "1931",
+            "id": "http://data.museum.colby.edu/constituent/1668/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1668",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1668/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1668/first_name",
+                    "type": "Name",
+                    "value": "Alan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1668/last_name",
+                    "type": "Name",
+                    "value": "Gussow"
+                }
+            ],
+            "type": "Name",
+            "value": "Alan Gussow"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1668/preferred_id",
+            "type": "Identifier",
+            "value": "1668"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1668/biography",
+            "type": "LinguisticObject",
+            "value": "Alan Gussow was born in New York City where he studied art at the Pratt Institute before graduating from Middlebury College in 1952. While studying painting at Cooper Union from 1952 to 1953, he was awarded a Prix de Rome and continued his work at the American Academy in Rome, 1953 to 1955. Gussow taught painting at Parsons School of Design until 1968 and beginning in 1970 served for many years as a Consultant in the Arts for the National Park Service of the United States Department of the Interior where he conceived and inaugurated the first Artist in Residence Program for the National Park Service. He was Visiting Artist and Senior Lecturer at the University of California, Santa Cruz in 1975 and again in 1982, and was a Visiting Professor of Art at Iowa State University (1984), and Middlebury College in 1986. In 1986 and 1987 he was Artist in Residence at the American Academy in Rome and in 1990 was named a Regents Professor at the University of California, Santa Cruz, where he also served in 1992 as Adjunct Professor of Art and Environmental Studies. Gussow returned to Middlebury College in 1994 as a Visiting Professor. In addition to the Prix de Rome, Gussow received the American Academy and Institute of Arts and Letters Award in Art in 1977.  Gussow focused his attention on oil painting and oil pastels in which he explored his experience with the natural environment as a main subject. An avid environmentalist, he worked with Senator Robert F. Kennedy on environmental issues, served on the Board of Directors of the Friends of the Earth and was a strong national presence serving as an expert witness on environmental conservation issues before several legislative committees. He organized the exhibition and wrote the book for the nationally touring show A SENSE OF PLACE, THE ARTIST AND THE AMERICAN LAND, 1971 (with an introduction by Richard Wilbur) and also wrote essays on the art and the environment for a variety of publications including Saturday Review Press and the Encyclopedia of Ecology and Pollution. He followed A SENSE OF PLACE with &quot;A Land We Know But Have Not Valued&quot; for the Albany Institute of History and Art (1986) and in 1993 curated and authored THE ARTIST AS NATIVE: REINVENTING REGIONALISM which opened at Babcock Galleries, New York, then toured to five museums across the nation.  Gussow&#39;s work was shown at New York Galleries including Peridot, Washburn, M B Modern, Sid Deutsch and Babcock Galleries, and was exhibited at major museums throughout the United States. Gussow had more than 50 one-person exhibitions including shows at the Washington County Museum of Fine Arts (1961) Portland (Maine) Art Museum (1971), Lowe Gallery of Syracuse University (1972), Arnot Art Museum (1975), Institute of Contemporary Art, Richmond, Virginia (1979), Hopper House, Nyack, New York (1983), Augusta (Georgia) College Art Museum (1993), List Gallery at Swarthmore College (1994). His work was often reviewed in various periodicals including The New York Times (Hilton Kramer, John Russell, Vivien Raynor, John Canaday, Grace Glueck, Stuart Preston, Dore Ashton), American Artist Magazine (Diane Cochrane), Arts Magazine (Martica Sawin), Artnews (Patricia Mainardi), as well as Arts, Art International, Time and New York Magazine. "
+        }
+    ],
+    "skos:exactMatch": "500079543",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1668/death",
+        "timespan": {
+            "end_of_the_end": "1997",
+            "id": "http://data.museum.colby.edu/constituent/1668/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

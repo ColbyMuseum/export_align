@@ -212,23 +212,6 @@
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
-                "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E74_Group"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                "valueUrl": "aat:300379842"
-            },
-            {
-                "virtual": true,
-                "propertyUrl": "P107i_is_current_or_former_member_of",
-                "valueUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}"
-            },
-            {
-                "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
@@ -243,6 +226,23 @@
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
                 "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography"
+            },
+            {
+                "virtual": true,
+                "propertyUrl": "ore:isAggregatedBy",
+                "valueUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}"
+            }
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "ore:Aggregation"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                "valueUrl": "aat:300379842"       
             }
         ]
     }

@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1593/birth",
+        "timespan": {
+            "begin_of_the_begin": "1964",
+            "id": "http://data.museum.colby.edu/constituent/1593/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1593",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1593/preferred_id",
+            "type": "Identifier",
+            "value": "1593"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1593/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1593/first_name",
+                    "type": "Name",
+                    "value": "Jason"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1593/last_name",
+                    "type": "Name",
+                    "value": "Fox"
+                }
+            ],
+            "type": "Name",
+            "value": "Jason Fox"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1593/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500330641",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1593/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1593/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

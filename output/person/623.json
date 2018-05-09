@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/623/birth",
+        "timespan": {
+            "begin_of_the_begin": "1940",
+            "id": "http://data.museum.colby.edu/constituent/623/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/623",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/623/preferred_id",
+            "type": "Identifier",
+            "value": "623"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/623/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/623/first_name",
+                    "type": "Name",
+                    "value": "Susan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/623/last_name",
+                    "type": "Name",
+                    "value": "Hartnett"
+                }
+            ],
+            "type": "Name",
+            "value": "Susan Hartnett"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/623/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500332831",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/623/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/623/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

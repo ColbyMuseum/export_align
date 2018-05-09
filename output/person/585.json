@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/585/birth",
+        "timespan": {
+            "begin_of_the_begin": "1779",
+            "id": "http://data.museum.colby.edu/constituent/585/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/585",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/585/preferred_id",
+            "type": "Identifier",
+            "value": "585"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/585/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/585/last_name",
+                    "type": "Name",
+                    "value": "Greenwood"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/585/first_name",
+                    "type": "Name",
+                    "value": "Ethan Allen"
+                }
+            ],
+            "type": "Name",
+            "value": "Ethan Allen Greenwood"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/585/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500000162",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/585/death",
+        "timespan": {
+            "end_of_the_end": "1854",
+            "id": "http://data.museum.colby.edu/constituent/585/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

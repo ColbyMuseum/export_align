@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1728/birth",
+        "timespan": {
+            "begin_of_the_begin": "1941",
+            "id": "http://data.museum.colby.edu/constituent/1728/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1728",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1728/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1728/first_name",
+                    "type": "Name",
+                    "value": "Joyce"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1728/last_name",
+                    "type": "Name",
+                    "value": "Pensato"
+                }
+            ],
+            "type": "Name",
+            "value": "Joyce Pensato"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1728/preferred_id",
+            "type": "Identifier",
+            "value": "1728"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1728/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500330377",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1728/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1728/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

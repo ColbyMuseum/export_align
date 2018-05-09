@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1507/birth",
+        "timespan": {
+            "begin_of_the_begin": "1833",
+            "id": "http://data.museum.colby.edu/constituent/1507/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1507",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1507/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1507/first_name",
+                    "type": "Name",
+                    "value": "William Trost"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1507/last_name",
+                    "type": "Name",
+                    "value": "Richards"
+                }
+            ],
+            "type": "Name",
+            "value": "William Trost Richards"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1507/preferred_id",
+            "type": "Identifier",
+            "value": "1507"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1507/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500014455",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1507/death",
+        "timespan": {
+            "end_of_the_end": "1905",
+            "id": "http://data.museum.colby.edu/constituent/1507/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

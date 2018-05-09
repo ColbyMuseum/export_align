@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/388/birth",
+        "timespan": {
+            "begin_of_the_begin": "1897",
+            "id": "http://data.museum.colby.edu/constituent/388/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/388",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/388/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/388/first_name",
+                    "type": "Name",
+                    "value": "John Steuart"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/388/last_name",
+                    "type": "Name",
+                    "value": "Curry"
+                }
+            ],
+            "type": "Name",
+            "value": "John Steuart Curry"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/388/preferred_id",
+            "type": "Identifier",
+            "value": "388"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/388/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500115503",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/388/death",
+        "timespan": {
+            "end_of_the_end": "1946",
+            "id": "http://data.museum.colby.edu/constituent/388/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

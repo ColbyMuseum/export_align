@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/351/birth",
+        "timespan": {
+            "begin_of_the_begin": "1801",
+            "id": "http://data.museum.colby.edu/constituent/351/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/351",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/351/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/351/last_name",
+                    "type": "Name",
+                    "value": "Cole"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/351/first_name",
+                    "type": "Name",
+                    "value": "Thomas"
+                }
+            ],
+            "type": "Name",
+            "value": "Thomas Cole"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/351/preferred_id",
+            "type": "Identifier",
+            "value": "351"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/351/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500028323",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/351/death",
+        "timespan": {
+            "end_of_the_end": "1848",
+            "id": "http://data.museum.colby.edu/constituent/351/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

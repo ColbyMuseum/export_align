@@ -1,0 +1,70 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1394/birth",
+        "timespan": {
+            "begin_of_the_begin": "1896",
+            "id": "http://data.museum.colby.edu/constituent/1394/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1394",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1394/preferred_id",
+            "type": "Identifier",
+            "value": "1394"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1394/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1394/last_name",
+                    "type": "Name",
+                    "value": "Wildenhain"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1394/first_name",
+                    "type": "Name",
+                    "value": "Marguerite"
+                }
+            ],
+            "type": "Name",
+            "value": "Marguerite Wildenhain"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1394/biography",
+            "type": "LinguisticObject",
+            "value": "From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Guerneville, Calif. Director of Pond Farm Pottery School, Calif...1962- Represented in &quot;1000 Years of American Pottery, Museum of Contemporary Crafts, New York City...1962- One man exhibition, Detroit Institute of Art...1962-Merit Award, San Francisco Arts Festival...1959- Major Award, Ceramic International.&quot;"
+        }
+    ],
+    "skos:exactMatch": "500096143",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1394/death",
+        "timespan": {
+            "end_of_the_end": "1985",
+            "id": "http://data.museum.colby.edu/constituent/1394/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1576/birth",
+        "timespan": {
+            "begin_of_the_begin": "1961",
+            "id": "http://data.museum.colby.edu/constituent/1576/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1576",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1576/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1576/last_name",
+                    "type": "Name",
+                    "value": "Maloney"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1576/first_name",
+                    "type": "Name",
+                    "value": "Martin"
+                }
+            ],
+            "type": "Name",
+            "value": "Martin Maloney"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1576/preferred_id",
+            "type": "Identifier",
+            "value": "1576"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1576/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500057419",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1576/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1576/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1240/birth",
+        "timespan": {
+            "begin_of_the_begin": "1927",
+            "id": "http://data.museum.colby.edu/constituent/1240/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1240",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1240/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1240/first_name",
+                    "type": "Name",
+                    "value": "Kenneth"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1240/last_name",
+                    "type": "Name",
+                    "value": "Snelson"
+                }
+            ],
+            "type": "Name",
+            "value": "Kenneth Snelson"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1240/preferred_id",
+            "type": "Identifier",
+            "value": "1240"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1240/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500007005",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1240/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1240/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

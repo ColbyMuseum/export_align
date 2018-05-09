@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1083/birth",
+        "timespan": {
+            "begin_of_the_begin": "1806",
+            "id": "http://data.museum.colby.edu/constituent/1083/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1083",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1083/preferred_id",
+            "type": "Identifier",
+            "value": "1083"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1083/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1083/first_name",
+                    "type": "Name",
+                    "value": "William Matthew"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1083/last_name",
+                    "type": "Name",
+                    "value": "Prior"
+                }
+            ],
+            "type": "Name",
+            "value": "William Matthew Prior"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1083/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500002566",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1083/death",
+        "timespan": {
+            "end_of_the_end": "1873",
+            "id": "http://data.museum.colby.edu/constituent/1083/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/769/birth",
+        "timespan": {
+            "begin_of_the_begin": "1893",
+            "id": "http://data.museum.colby.edu/constituent/769/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/769",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/769/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/769/last_name",
+                    "type": "Name",
+                    "value": "Kohlhoff"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/769/first_name",
+                    "type": "Name",
+                    "value": "Wilhelm"
+                }
+            ],
+            "type": "Name",
+            "value": "Wilhelm Kohlhoff"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/769/preferred_id",
+            "type": "Identifier",
+            "value": "769"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/769/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500150436",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/769/death",
+        "timespan": {
+            "end_of_the_end": "1917",
+            "id": "http://data.museum.colby.edu/constituent/769/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

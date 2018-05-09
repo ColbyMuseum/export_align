@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/834/birth",
+        "timespan": {
+            "begin_of_the_begin": "1881",
+            "id": "http://data.museum.colby.edu/constituent/834/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/834",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/834/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/834/last_name",
+                    "type": "Name",
+                    "value": "Lewis"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/834/first_name",
+                    "type": "Name",
+                    "value": "Martin"
+                }
+            ],
+            "type": "Name",
+            "value": "Martin Lewis"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/834/preferred_id",
+            "type": "Identifier",
+            "value": "834"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/834/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500028815",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/834/death",
+        "timespan": {
+            "end_of_the_end": "1962",
+            "id": "http://data.museum.colby.edu/constituent/834/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

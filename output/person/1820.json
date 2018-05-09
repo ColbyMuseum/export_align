@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1820/birth",
+        "timespan": {
+            "begin_of_the_begin": "1930",
+            "id": "http://data.museum.colby.edu/constituent/1820/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1820",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1820/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1820/last_name",
+                    "type": "Name",
+                    "value": "D&#39;Arcangelo"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1820/first_name",
+                    "type": "Name",
+                    "value": "Allan"
+                }
+            ],
+            "type": "Name",
+            "value": "Allan D&#39;Arcangelo"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1820/preferred_id",
+            "type": "Identifier",
+            "value": "1820"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1820/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500013648",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1820/death",
+        "timespan": {
+            "end_of_the_end": "1998",
+            "id": "http://data.museum.colby.edu/constituent/1820/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

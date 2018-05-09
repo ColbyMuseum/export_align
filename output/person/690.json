@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/690/birth",
+        "timespan": {
+            "begin_of_the_begin": "1917",
+            "id": "http://data.museum.colby.edu/constituent/690/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/690",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/690/preferred_id",
+            "type": "Identifier",
+            "value": "690"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/690/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/690/first_name",
+                    "type": "Name",
+                    "value": "Dahlov"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/690/last_name",
+                    "type": "Name",
+                    "value": "Ipcar"
+                }
+            ],
+            "type": "Name",
+            "value": "Dahlov Ipcar"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/690/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500054407",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/690/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/690/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

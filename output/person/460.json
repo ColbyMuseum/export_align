@@ -1,0 +1,67 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/460/birth",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/460/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/460",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/460/preferred_id",
+            "type": "Identifier",
+            "value": "460"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/460/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/460/first_name",
+                    "type": "Name",
+                    "value": "Robert"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/460/last_name",
+                    "type": "Name",
+                    "value": "Dunlap"
+                }
+            ],
+            "type": "Name",
+            "value": "Robert Dunlap"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/460/biography",
+            "type": "LinguisticObject",
+            "value": "From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Mt. Desert, ME. Well-known potter and sculptor...Exhibited-University of Maine, Art Institute of Chicago, Portland Museum of Art, Boston Arts Festival, University of Minnesota, Colby College.&quot;"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/460/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/460/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

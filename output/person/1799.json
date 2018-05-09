@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1799/birth",
+        "timespan": {
+            "begin_of_the_begin": "1974",
+            "id": "http://data.museum.colby.edu/constituent/1799/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1799",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1799/preferred_id",
+            "type": "Identifier",
+            "value": "1799"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1799/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1799/first_name",
+                    "type": "Name",
+                    "value": "Hala"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1799/last_name",
+                    "type": "Name",
+                    "value": "Elkoussy"
+                }
+            ],
+            "type": "Name",
+            "value": "Hala Elkoussy"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1799/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500356067",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1799/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1799/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

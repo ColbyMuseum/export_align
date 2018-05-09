@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1823/birth",
+        "timespan": {
+            "begin_of_the_begin": "1760",
+            "id": "http://data.museum.colby.edu/constituent/1823/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1823",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1823/preferred_id",
+            "type": "Identifier",
+            "value": "1823"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1823/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1823/last_name",
+                    "type": "Name",
+                    "value": "Hokusai"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1823/first_name",
+                    "type": "Name",
+                    "value": "Katsushika"
+                }
+            ],
+            "type": "Name",
+            "value": "Katsushika Hokusai"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1823/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500060426",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1823/death",
+        "timespan": {
+            "end_of_the_end": "1849",
+            "id": "http://data.museum.colby.edu/constituent/1823/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

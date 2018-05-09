@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/534/birth",
+        "timespan": {
+            "begin_of_the_begin": "1741",
+            "id": "http://data.museum.colby.edu/constituent/534/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/534",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/534/preferred_id",
+            "type": "Identifier",
+            "value": "534"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/534/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/534/first_name",
+                    "type": "Name",
+                    "value": "Henry"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/534/last_name",
+                    "type": "Name",
+                    "value": "Fuseli"
+                }
+            ],
+            "type": "Name",
+            "value": "Henry Fuseli"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/534/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500115235",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/534/death",
+        "timespan": {
+            "end_of_the_end": "1825",
+            "id": "http://data.museum.colby.edu/constituent/534/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

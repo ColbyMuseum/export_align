@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/329/birth",
+        "timespan": {
+            "begin_of_the_begin": "1969",
+            "id": "http://data.museum.colby.edu/constituent/329/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/329",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/329/preferred_id",
+            "type": "Identifier",
+            "value": "329"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/329/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/329/first_name",
+                    "type": "Name",
+                    "value": "David"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/329/last_name",
+                    "type": "Name",
+                    "value": "Claerbout"
+                }
+            ],
+            "type": "Name",
+            "value": "David Claerbout"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/329/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500198348",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/329/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/329/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

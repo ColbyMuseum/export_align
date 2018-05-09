@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1088/birth",
+        "timespan": {
+            "begin_of_the_begin": "1888",
+            "id": "http://data.museum.colby.edu/constituent/1088/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1088",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1088/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1088/last_name",
+                    "type": "Name",
+                    "value": "Raemisch"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1088/first_name",
+                    "type": "Name",
+                    "value": "Waldemar"
+                }
+            ],
+            "type": "Name",
+            "value": "Waldemar Raemisch"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1088/preferred_id",
+            "type": "Identifier",
+            "value": "1088"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1088/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500333119",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1088/death",
+        "timespan": {
+            "end_of_the_end": "1955",
+            "id": "http://data.museum.colby.edu/constituent/1088/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

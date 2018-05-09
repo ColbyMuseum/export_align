@@ -1,0 +1,68 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/343/birth",
+        "timespan": {
+            "begin_of_the_begin": "1936",
+            "id": "http://data.museum.colby.edu/constituent/343/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/343",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/343/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/343/last_name",
+                    "type": "Name",
+                    "value": "Cohen"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/343/first_name",
+                    "type": "Name",
+                    "value": "Michael"
+                }
+            ],
+            "type": "Name",
+            "value": "Michael Cohen"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/343/preferred_id",
+            "type": "Identifier",
+            "value": "343"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/343/biography",
+            "type": "LinguisticObject",
+            "value": "From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;E. Weymouth, Mass. Herring Run Pottery. 1962-Joint winnter $500 purchase prize, Ceramic National, Everson Museum, Syracuse, N.Y. ... Schoo, Michigal...one of the most outstading young potters in America.&quot;"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/343/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/343/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

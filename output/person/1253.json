@@ -1,0 +1,67 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1253/birth",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1253/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/1253",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1253/preferred_id",
+            "type": "Identifier",
+            "value": "1253"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1253/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1253/last_name",
+                    "type": "Name",
+                    "value": "Sperry"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1253/first_name",
+                    "type": "Name",
+                    "value": "Robert"
+                }
+            ],
+            "type": "Name",
+            "value": "Robert Sperry"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1253/biography",
+            "type": "LinguisticObject",
+            "value": "From collection file notes, found on typed index cards in an envelope addressed to Hugh, undated: &quot;Seattle, Wash. 1962-Member, Jury for Awards, Ceramic National...Prof. of Art, University of Washington, Seattle...Exhibitions: Ceramic National, Syracuse; International Exhibition, Prague, Czechoslovakia...1962-1st Prize, Pacific North West Arts &amp; Crafts Fair Award...Awards: Young Americans-1955; National Exhibition of Contemporary Art-1956; Tiffany Scholarship-1957; Miami Ceramic National-1959; Craftsman of the Year, Bellvue Fair-1961&quot;"
+        }
+    ],
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/1253/death",
+        "timespan": {
+            "id": "http://data.museum.colby.edu/constituent/1253/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

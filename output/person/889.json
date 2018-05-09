@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/889/birth",
+        "timespan": {
+            "begin_of_the_begin": "1870",
+            "id": "http://data.museum.colby.edu/constituent/889/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/889",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/889/preferred_id",
+            "type": "Identifier",
+            "value": "889"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/889/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/889/last_name",
+                    "type": "Name",
+                    "value": "Marin"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/889/first_name",
+                    "type": "Name",
+                    "value": "John"
+                }
+            ],
+            "type": "Name",
+            "value": "John Marin"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/889/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500115368",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/889/death",
+        "timespan": {
+            "end_of_the_end": "1953",
+            "id": "http://data.museum.colby.edu/constituent/889/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

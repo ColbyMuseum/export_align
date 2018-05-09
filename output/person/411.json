@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/411/birth",
+        "timespan": {
+            "begin_of_the_begin": "1930",
+            "id": "http://data.museum.colby.edu/constituent/411/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/411",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/411/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/411/last_name",
+                    "type": "Name",
+                    "value": "De Keyser"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/411/first_name",
+                    "type": "Name",
+                    "value": "Raoul"
+                }
+            ],
+            "type": "Name",
+            "value": "Raoul De Keyser"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/411/preferred_id",
+            "type": "Identifier",
+            "value": "411"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/411/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500085469",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/411/death",
+        "timespan": {
+            "end_of_the_end": "2012",
+            "id": "http://data.museum.colby.edu/constituent/411/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

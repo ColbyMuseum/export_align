@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/463/birth",
+        "timespan": {
+            "begin_of_the_begin": "1751",
+            "id": "http://data.museum.colby.edu/constituent/463/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/463",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/463/preferred_id",
+            "type": "Identifier",
+            "value": "463"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/463/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/463/first_name",
+                    "type": "Name",
+                    "value": "Ralph"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/463/last_name",
+                    "type": "Name",
+                    "value": "Earl"
+                }
+            ],
+            "type": "Name",
+            "value": "Ralph Earl"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/463/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500116241",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/463/death",
+        "timespan": {
+            "end_of_the_end": "1801",
+            "id": "http://data.museum.colby.edu/constituent/463/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

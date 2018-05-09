@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/697/birth",
+        "timespan": {
+            "begin_of_the_begin": "1888",
+            "id": "http://data.museum.colby.edu/constituent/697/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/697",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/697/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/697/first_name",
+                    "type": "Name",
+                    "value": "Wilhelm"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/697/last_name",
+                    "type": "Name",
+                    "value": "Jaeckel"
+                }
+            ],
+            "type": "Name",
+            "value": "Wilhelm Jaeckel"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/697/preferred_id",
+            "type": "Identifier",
+            "value": "697"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/697/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500028573",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/697/death",
+        "timespan": {
+            "end_of_the_end": "1944",
+            "id": "http://data.museum.colby.edu/constituent/697/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}

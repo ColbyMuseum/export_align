@@ -1,0 +1,69 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "brought_into_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/134/birth",
+        "timespan": {
+            "begin_of_the_begin": "1887",
+            "id": "http://data.museum.colby.edu/constituent/134/birth/date",
+            "type": "TimeSpan"
+        },
+        "type": "BeginningOfExistence"
+    },
+    "id": "http://data.museum.colby.edu/constituent/134",
+    "identified_by": [
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/134/name",
+            "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/134/first_name",
+                    "type": "Name",
+                    "value": "John Taylor"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/134/last_name",
+                    "type": "Name",
+                    "value": "Arms"
+                }
+            ],
+            "type": "Name",
+            "value": "John Taylor Arms"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/134/preferred_id",
+            "type": "Identifier",
+            "value": "134"
+        }
+    ],
+    "referred_to_by": [
+        {
+            "classified_as": [
+                "aat:300080102"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/134/biography",
+            "type": "LinguisticObject"
+        }
+    ],
+    "skos:exactMatch": "500022283",
+    "taken_out_of_existence_by": {
+        "id": "http://data.museum.colby.edu/constituent/134/death",
+        "timespan": {
+            "end_of_the_end": "1953",
+            "id": "http://data.museum.colby.edu/constituent/134/death/date",
+            "type": "TimeSpan"
+        },
+        "type": "EndOfExistence"
+    },
+    "type": "Person"
+}
