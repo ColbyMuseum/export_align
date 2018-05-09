@@ -9,7 +9,7 @@
             {
                 "name": "Artist_ID",
                 "suppressOutput": false,
-                "datatype": "long",
+                "datatype": "string",
                 "description": "The internal ID for Artist records.",
                 "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/preferred_id",
                 "propertyUrl": "rdf:value"
@@ -144,23 +144,23 @@
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation"
+                "valueUrl": "https://linked.art/ns/terms/Name"
             },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/first_name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                "valueUrl": "http://data.museum.colby.edu/thesauri/name_type/first_name"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/name_type/first_name",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404651"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/thesauri/name_type/last_name",
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/last_name",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "https://linked.art/ns/terms/Name"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/last_name",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404652"
             },
@@ -241,25 +241,8 @@
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography",
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                "valueUrl": "aat:300404670"
-            },
-            {
-                "virtual": true,
-                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
                 "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}/biography"
-            },
-            {
-                "virtual": true,
-                "propertyUrl": "",
-                "valueUrl": "http://vocab.getty.edu/ulan/{Artist_Code}"
-            },
-            {
-                "virtual": true,
-                "aboutUrl": "http://vocab.getty.edu/ulan/{Artist_Code}",
-                "propertyUrl": "skos:inScheme",
-                "valueUrl": "http://vocab.getty.edu/ulan"
             }
         ]
     }
