@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/516/preferred_id",
+            "type": "Identifier",
+            "value": "516"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/516/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Obed Rice Fowler"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/516/preferred_id",
-            "type": "Identifier",
-            "value": "516"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

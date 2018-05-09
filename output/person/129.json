@@ -26,25 +26,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/129/last_name",
-                    "type": "Name",
-                    "value": "Anteaume"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/129/first_name",
                     "type": "Name",
                     "value": "Jean Jacques"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/129/last_name",
+                    "type": "Name",
+                    "value": "Anteaume"
                 }
             ],
             "type": "Name",
             "value": "Jean Jacques Anteaume"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28Vincennes%29",
+        "label": "French (Vincennes)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

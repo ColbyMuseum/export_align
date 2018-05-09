@@ -26,24 +26,32 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/105/first_name",
-                    "type": "Name"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/105/last_name",
                     "type": "Name",
                     "value": "Anonymous, Valley Of Mexico, Nahua"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/105/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, Valley Of Mexico, Nahua"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Valley%20Of%20Mexico%2C%20Nahua",
+        "label": "Valley Of Mexico, Nahua",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

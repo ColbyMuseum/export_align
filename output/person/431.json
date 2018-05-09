@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/431/preferred_id",
-            "type": "Identifier",
-            "value": "431"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/431/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/431/last_name",
-                    "type": "Name",
-                    "value": "di Suvero"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/431/first_name",
                     "type": "Name",
                     "value": "Mark"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/431/last_name",
+                    "type": "Name",
+                    "value": "di Suvero"
                 }
             ],
             "type": "Name",
             "value": "Mark di Suvero"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/431/preferred_id",
+            "type": "Identifier",
+            "value": "431"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20China%29",
+        "label": "American (b. China)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

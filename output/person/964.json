@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/964/preferred_id",
+            "type": "Identifier",
+            "value": "964"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/964/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/964/first_name",
-                    "type": "Name",
-                    "value": "Jan"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/964/last_name",
                     "type": "Name",
                     "value": "M&#252;ller"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/964/first_name",
+                    "type": "Name",
+                    "value": "Jan"
                 }
             ],
             "type": "Name",
             "value": "Jan M&#252;ller"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/964/preferred_id",
-            "type": "Identifier",
-            "value": "964"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20Germany",
+        "label": "American, b. Germany",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

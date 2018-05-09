@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/594/first_name",
-                    "type": "Name",
-                    "value": "Sidney"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/594/last_name",
                     "type": "Name",
                     "value": "Gross"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/594/first_name",
+                    "type": "Name",
+                    "value": "Sidney"
                 }
             ],
             "type": "Name",
             "value": "Sidney Gross"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

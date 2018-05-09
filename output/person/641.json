@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/641/preferred_id",
-            "type": "Identifier",
-            "value": "641"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/641/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/641/first_name",
-                    "type": "Name",
-                    "value": "Herman"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/641/last_name",
                     "type": "Name",
                     "value": "Herzog"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/641/first_name",
+                    "type": "Name",
+                    "value": "Herman"
                 }
             ],
             "type": "Name",
             "value": "Herman Herzog"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/641/preferred_id",
+            "type": "Identifier",
+            "value": "641"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/German",
+        "label": "German",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

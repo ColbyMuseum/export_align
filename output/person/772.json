@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/772/last_name",
-                    "type": "Name",
-                    "value": "Kollwitz"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/772/first_name",
                     "type": "Name",
                     "value": "Kathe"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/772/last_name",
+                    "type": "Name",
+                    "value": "Kollwitz"
                 }
             ],
             "type": "Name",
             "value": "Kathe Kollwitz"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/German",
+        "label": "German",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

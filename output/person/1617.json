@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1617/preferred_id",
-            "type": "Identifier",
-            "value": "1617"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1617/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Loretta Lux"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1617/preferred_id",
+            "type": "Identifier",
+            "value": "1617"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/German",
+        "label": "German",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

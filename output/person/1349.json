@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1349/last_name",
-                    "type": "Name",
-                    "value": "Villon"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1349/first_name",
                     "type": "Name",
                     "value": "Jacques"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1349/last_name",
+                    "type": "Name",
+                    "value": "Villon"
                 }
             ],
             "type": "Name",
             "value": "Jacques Villon"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French",
+        "label": "French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

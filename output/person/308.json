@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/308/preferred_id",
-            "type": "Identifier",
-            "value": "308"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/308/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/308/last_name",
-                    "type": "Name",
-                    "value": "Cezanne"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/308/first_name",
                     "type": "Name",
                     "value": "Paul"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/308/last_name",
+                    "type": "Name",
+                    "value": "Cezanne"
                 }
             ],
             "type": "Name",
             "value": "Paul Cezanne"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/308/preferred_id",
+            "type": "Identifier",
+            "value": "308"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French",
+        "label": "French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -44,6 +44,14 @@
             "value": "Hang Zhou City Art Studio"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese",
+        "label": "Chinese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

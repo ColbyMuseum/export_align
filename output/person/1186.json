@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1186/preferred_id",
-            "type": "Identifier",
-            "value": "1186"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1186/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1186/first_name",
-                    "type": "Name",
-                    "value": "Ed And Mary"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -39,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/1186/last_name",
                     "type": "Name",
                     "value": "Scheier"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1186/first_name",
+                    "type": "Name",
+                    "value": "Ed And Mary"
                 }
             ],
             "type": "Name",
             "value": "Ed And Mary Scheier"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1186/preferred_id",
+            "type": "Identifier",
+            "value": "1186"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

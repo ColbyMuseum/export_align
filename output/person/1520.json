@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1520/preferred_id",
+            "type": "Identifier",
+            "value": "1520"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1520/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1520/last_name",
-                    "type": "Name",
-                    "value": "Harnett"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1520/first_name",
                     "type": "Name",
                     "value": "William Michael"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1520/last_name",
+                    "type": "Name",
+                    "value": "Harnett"
                 }
             ],
             "type": "Name",
             "value": "William Michael Harnett"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1520/preferred_id",
-            "type": "Identifier",
-            "value": "1520"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20Ireland",
+        "label": "American, b. Ireland",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/871/first_name",
-                    "type": "Name",
-                    "value": "Elmer Livingston"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/871/last_name",
                     "type": "Name",
                     "value": "MacRae"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/871/first_name",
+                    "type": "Name",
+                    "value": "Elmer Livingston"
                 }
             ],
             "type": "Name",
             "value": "Elmer Livingston MacRae"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

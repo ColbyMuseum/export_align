@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/858/preferred_id",
-            "type": "Identifier",
-            "value": "858"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/858/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/858/first_name",
-                    "type": "Name",
-                    "value": "Nancy Christine Jones"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/858/last_name",
                     "type": "Name",
                     "value": "Love"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/858/first_name",
+                    "type": "Name",
+                    "value": "Nancy Christine Jones"
                 }
             ],
             "type": "Name",
             "value": "Nancy Christine Jones Love"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/858/preferred_id",
+            "type": "Identifier",
+            "value": "858"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

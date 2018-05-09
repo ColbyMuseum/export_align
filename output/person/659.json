@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/659/preferred_id",
-            "type": "Identifier",
-            "value": "659"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/659/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/659/last_name",
-                    "type": "Name",
-                    "value": "Holman"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/659/first_name",
                     "type": "Name",
                     "value": "Jonas"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/659/last_name",
+                    "type": "Name",
+                    "value": "Holman"
                 }
             ],
             "type": "Name",
             "value": "Jonas Holman"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/659/preferred_id",
+            "type": "Identifier",
+            "value": "659"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

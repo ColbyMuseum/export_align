@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/765/preferred_id",
-            "type": "Identifier",
-            "value": "765"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/765/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/765/last_name",
-                    "type": "Name",
-                    "value": "Knaths"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/765/first_name",
                     "type": "Name",
                     "value": "Otto Karl"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/765/last_name",
+                    "type": "Name",
+                    "value": "Knaths"
                 }
             ],
             "type": "Name",
             "value": "Otto Karl Knaths"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/765/preferred_id",
+            "type": "Identifier",
+            "value": "765"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

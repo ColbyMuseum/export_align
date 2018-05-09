@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1859/preferred_id",
-            "type": "Identifier",
-            "value": "1859"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1859/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1859/first_name",
-                    "type": "Name",
-                    "value": "Michele"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1859/last_name",
                     "type": "Name",
                     "value": "Wong"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1859/first_name",
+                    "type": "Name",
+                    "value": "Michele"
                 }
             ],
             "type": "Name",
             "value": "Michele Wong"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1859/preferred_id",
+            "type": "Identifier",
+            "value": "1859"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Albanese",
+        "label": "Albanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

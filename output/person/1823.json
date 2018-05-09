@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1823/last_name",
-                    "type": "Name",
-                    "value": "Hokusai"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1823/first_name",
                     "type": "Name",
                     "value": "Katsushika"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1823/last_name",
+                    "type": "Name",
+                    "value": "Hokusai"
                 }
             ],
             "type": "Name",
             "value": "Katsushika Hokusai"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

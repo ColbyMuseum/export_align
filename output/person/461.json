@@ -26,24 +26,31 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/461/first_name",
-                    "type": "Name"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/461/last_name",
                     "type": "Name",
                     "value": "Dunlaps"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/461/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Dunlaps"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

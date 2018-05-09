@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/956/preferred_id",
-            "type": "Identifier",
-            "value": "956"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/956/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/956/first_name",
-                    "type": "Name",
-                    "value": "Keith"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -39,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/956/last_name",
                     "type": "Name",
                     "value": "Morton"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/956/first_name",
+                    "type": "Name",
+                    "value": "Keith"
                 }
             ],
             "type": "Name",
             "value": "Keith Morton"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/956/preferred_id",
+            "type": "Identifier",
+            "value": "956"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

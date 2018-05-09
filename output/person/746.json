@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/746/preferred_id",
+            "type": "Identifier",
+            "value": "746"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/746/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/746/last_name",
-                    "type": "Name",
-                    "value": "Kimball"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/746/first_name",
                     "type": "Name",
                     "value": "Charles F."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/746/last_name",
+                    "type": "Name",
+                    "value": "Kimball"
                 }
             ],
             "type": "Name",
             "value": "Charles F. Kimball"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/746/preferred_id",
-            "type": "Identifier",
-            "value": "746"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

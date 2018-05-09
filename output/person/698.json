@@ -14,8 +14,23 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/698/preferred_id",
+            "type": "Identifier",
+            "value": "698"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/698/name",
             "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/698/first_name",
+                    "type": "Name"
+                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -23,27 +38,20 @@
                     "id": "http://data.museum.colby.edu/constituent/698/last_name",
                     "type": "Name",
                     "value": "J&#39;alto"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/698/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "J&#39;alto"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/698/preferred_id",
-            "type": "Identifier",
-            "value": "698"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Danish",
+        "label": "Danish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

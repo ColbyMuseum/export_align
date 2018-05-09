@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1121/preferred_id",
+            "type": "Identifier",
+            "value": "1121"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1121/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1121/last_name",
-                    "type": "Name",
-                    "value": "Risley"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1121/first_name",
                     "type": "Name",
                     "value": "Mary"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1121/last_name",
+                    "type": "Name",
+                    "value": "Risley"
                 }
             ],
             "type": "Name",
             "value": "Mary Risley"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1121/preferred_id",
-            "type": "Identifier",
-            "value": "1121"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

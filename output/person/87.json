@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/87/preferred_id",
-            "type": "Identifier",
-            "value": "87"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/87/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Anonymous, Etruscan Or Greek"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/87/preferred_id",
+            "type": "Identifier",
+            "value": "87"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Etruscan%20Or%20Greek",
+        "label": "Etruscan Or Greek",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

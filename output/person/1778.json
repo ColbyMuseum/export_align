@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1778/last_name",
-                    "type": "Name",
-                    "value": "Mokgosi"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1778/first_name",
                     "type": "Name",
                     "value": "Meleko"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1778/last_name",
+                    "type": "Name",
+                    "value": "Mokgosi"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1778"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Botswanian",
+        "label": "Botswanian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

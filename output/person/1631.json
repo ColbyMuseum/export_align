@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1631/preferred_id",
-            "type": "Identifier",
-            "value": "1631"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1631/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1631/last_name",
-                    "type": "Name",
-                    "value": "Louden"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1631/first_name",
                     "type": "Name",
                     "value": "Sharon"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1631/last_name",
+                    "type": "Name",
+                    "value": "Louden"
                 }
             ],
             "type": "Name",
             "value": "Sharon Louden"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1631/preferred_id",
+            "type": "Identifier",
+            "value": "1631"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/376/preferred_id",
+            "type": "Identifier",
+            "value": "376"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/376/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/376/last_name",
-                    "type": "Name",
-                    "value": "Coward"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/376/first_name",
                     "type": "Name",
                     "value": "Alexander"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/376/last_name",
+                    "type": "Name",
+                    "value": "Coward"
                 }
             ],
             "type": "Name",
             "value": "Alexander Coward"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/376/preferred_id",
-            "type": "Identifier",
-            "value": "376"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

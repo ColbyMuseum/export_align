@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1911/preferred_id",
+            "type": "Identifier",
+            "value": "1911"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1911/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Jan Caspar Phillips"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1911/preferred_id",
-            "type": "Identifier",
-            "value": "1911"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Dutch%2C%20b.%20Germany",
+        "label": "Dutch, b. Germany",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

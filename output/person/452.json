@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/452/preferred_id",
+            "type": "Identifier",
+            "value": "452"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/452/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Joost Cornelisz Droochsloot"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/452/preferred_id",
-            "type": "Identifier",
-            "value": "452"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Dutch",
+        "label": "Dutch",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

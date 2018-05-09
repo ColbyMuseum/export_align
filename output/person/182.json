@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/182/last_name",
-                    "type": "Name",
-                    "value": "Beham"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/182/first_name",
                     "type": "Name",
                     "value": "Hans Sebold"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/182/last_name",
+                    "type": "Name",
+                    "value": "Beham"
                 }
             ],
             "type": "Name",
             "value": "Hans Sebold Beham"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/German",
+        "label": "German",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -14,6 +14,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/29/preferred_id",
+            "type": "Identifier",
+            "value": "29"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/29/name",
             "includes": [
                 {
@@ -34,16 +42,16 @@
             ],
             "type": "Name",
             "value": "Anonymous, Pre-Columbian, Chupicuaro"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/29/preferred_id",
-            "type": "Identifier",
-            "value": "29"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Pre-Columbian%2C%20Chupicuaro",
+        "label": "Pre-Columbian, Chupicuaro",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

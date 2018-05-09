@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1145/preferred_id",
+            "type": "Identifier",
+            "value": "1145"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1145/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1145/last_name",
-                    "type": "Name",
-                    "value": "Rosenfelt"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/1145/first_name",
                     "type": "Name",
                     "value": "Marguerite"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1145/last_name",
+                    "type": "Name",
+                    "value": "Rosenfelt"
                 }
             ],
             "type": "Name",
             "value": "Marguerite Rosenfelt"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1145/preferred_id",
-            "type": "Identifier",
-            "value": "1145"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

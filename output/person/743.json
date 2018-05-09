@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/743/preferred_id",
-            "type": "Identifier",
-            "value": "743"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/743/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "William Kentridge"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/743/preferred_id",
+            "type": "Identifier",
+            "value": "743"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/South%20African",
+        "label": "South African",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

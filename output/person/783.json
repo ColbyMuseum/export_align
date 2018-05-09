@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/783/preferred_id",
+            "type": "Identifier",
+            "value": "783"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/783/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/783/first_name",
-                    "type": "Name",
-                    "value": "P."
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/783/last_name",
                     "type": "Name",
                     "value": "Kum"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/783/first_name",
+                    "type": "Name",
+                    "value": "P."
                 }
             ],
             "type": "Name",
             "value": "P. Kum"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/783/preferred_id",
-            "type": "Identifier",
-            "value": "783"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

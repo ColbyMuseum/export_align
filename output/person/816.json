@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/816/preferred_id",
-            "type": "Identifier",
-            "value": "816"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/816/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Jocelyn Lee"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/816/preferred_id",
+            "type": "Identifier",
+            "value": "816"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Italy%29",
+        "label": "American (b. Italy)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

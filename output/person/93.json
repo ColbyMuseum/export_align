@@ -14,23 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/93/preferred_id",
-            "type": "Identifier",
-            "value": "93"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/93/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/93/first_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -38,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/93/last_name",
                     "type": "Name",
                     "value": "Anonymous, South Italian"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/93/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, South Italian"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/93/preferred_id",
+            "type": "Identifier",
+            "value": "93"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/South%20Italian",
+        "label": "South Italian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

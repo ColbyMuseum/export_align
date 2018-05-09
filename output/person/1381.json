@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1381/preferred_id",
+            "type": "Identifier",
+            "value": "1381"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1381/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1381/last_name",
-                    "type": "Name",
-                    "value": "Weston"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1381/first_name",
                     "type": "Name",
                     "value": "Mary Coburn"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1381/last_name",
+                    "type": "Name",
+                    "value": "Weston"
                 }
             ],
             "type": "Name",
             "value": "Mary Coburn Weston"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1381/preferred_id",
-            "type": "Identifier",
-            "value": "1381"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

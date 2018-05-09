@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/436/preferred_id",
-            "type": "Identifier",
-            "value": "436"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/436/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/436/last_name",
-                    "type": "Name",
-                    "value": "Diederich"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/436/first_name",
                     "type": "Name",
                     "value": "Hunt (Wilhelm)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/436/last_name",
+                    "type": "Name",
+                    "value": "Diederich"
                 }
             ],
             "type": "Name",
             "value": "Hunt (Wilhelm) Diederich"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/436/preferred_id",
+            "type": "Identifier",
+            "value": "436"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Hungary%29",
+        "label": "American (b. Hungary)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1010/preferred_id",
+            "type": "Identifier",
+            "value": "1010"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1010/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Sigurjon Olafsson"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1010/preferred_id",
-            "type": "Identifier",
-            "value": "1010"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Icelandic",
+        "label": "Icelandic",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

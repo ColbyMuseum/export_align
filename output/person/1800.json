@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1800/last_name",
-                    "type": "Name",
-                    "value": "Basiony"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1800/first_name",
                     "type": "Name",
                     "value": "Ahmed"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1800/last_name",
+                    "type": "Name",
+                    "value": "Basiony"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1800"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Egyptian",
+        "label": "Egyptian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

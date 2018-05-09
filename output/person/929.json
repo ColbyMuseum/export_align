@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/929/preferred_id",
-            "type": "Identifier",
-            "value": "929"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/929/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/929/last_name",
-                    "type": "Name",
-                    "value": "Myers"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/929/first_name",
                     "type": "Name",
                     "value": "Joan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/929/last_name",
+                    "type": "Name",
+                    "value": "Myers"
                 }
             ],
             "type": "Name",
             "value": "Joan Myers"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/929/preferred_id",
+            "type": "Identifier",
+            "value": "929"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

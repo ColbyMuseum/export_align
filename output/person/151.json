@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/151/first_name",
-                    "type": "Name",
-                    "value": "Joseph"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/151/last_name",
                     "type": "Name",
                     "value": "Badger"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/151/first_name",
+                    "type": "Name",
+                    "value": "Joseph"
                 }
             ],
             "type": "Name",
             "value": "Joseph Badger"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

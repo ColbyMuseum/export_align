@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1216/preferred_id",
+            "type": "Identifier",
+            "value": "1216"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1216/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1216/first_name",
-                    "type": "Name",
-                    "value": "T.W."
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/1216/last_name",
                     "type": "Name",
                     "value": "Shaw"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1216/first_name",
+                    "type": "Name",
+                    "value": "T.W."
                 }
             ],
             "type": "Name",
             "value": "T.W. Shaw"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1216/preferred_id",
-            "type": "Identifier",
-            "value": "1216"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

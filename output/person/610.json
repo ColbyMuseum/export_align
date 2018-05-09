@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/610/preferred_id",
-            "type": "Identifier",
-            "value": "610"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/610/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/610/last_name",
-                    "type": "Name",
-                    "value": "Hamblen"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,35 @@
                     "id": "http://data.museum.colby.edu/constituent/610/first_name",
                     "type": "Name",
                     "value": "Sturtevant J."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/610/last_name",
+                    "type": "Name",
+                    "value": "Hamblen"
                 }
             ],
             "type": "Name",
             "value": "Sturtevant J. Hamblen"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/610/preferred_id",
+            "type": "Identifier",
+            "value": "610"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

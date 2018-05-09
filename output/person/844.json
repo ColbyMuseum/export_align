@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/844/preferred_id",
+            "type": "Identifier",
+            "value": "844"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/844/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/844/last_name",
-                    "type": "Name",
-                    "value": "Lindberg"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/844/first_name",
                     "type": "Name",
                     "value": "Stig"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/844/last_name",
+                    "type": "Name",
+                    "value": "Lindberg"
                 }
             ],
             "type": "Name",
             "value": "Stig Lindberg"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/844/preferred_id",
-            "type": "Identifier",
-            "value": "844"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Swedish",
+        "label": "Swedish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

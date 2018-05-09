@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/571/first_name",
-                    "type": "Name",
-                    "value": "Leopold"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/571/last_name",
                     "type": "Name",
                     "value": "Gottlieb"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/571/first_name",
+                    "type": "Name",
+                    "value": "Leopold"
                 }
             ],
             "type": "Name",
             "value": "Leopold Gottlieb"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Polish",
+        "label": "Polish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

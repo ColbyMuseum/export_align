@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1334/first_name",
-                    "type": "Name",
-                    "value": "Willem"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1334/last_name",
                     "type": "Name",
                     "value": "Van De Velde, The Elder"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1334/first_name",
+                    "type": "Name",
+                    "value": "Willem"
                 }
             ],
             "type": "Name",
             "value": "Willem Van De Velde, The Elder"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Dutch",
+        "label": "Dutch",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

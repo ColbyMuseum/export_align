@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/916/preferred_id",
-            "type": "Identifier",
-            "value": "916"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/916/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/916/last_name",
-                    "type": "Name",
-                    "value": "Meigs"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/916/first_name",
                     "type": "Name",
                     "value": "Margaret"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/916/last_name",
+                    "type": "Name",
+                    "value": "Meigs"
                 }
             ],
             "type": "Name",
             "value": "Margaret Meigs"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/916/preferred_id",
+            "type": "Identifier",
+            "value": "916"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

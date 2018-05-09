@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1259/preferred_id",
-            "type": "Identifier",
-            "value": "1259"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1259/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1259/first_name",
-                    "type": "Name",
-                    "value": "Eva"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1259/last_name",
                     "type": "Name",
                     "value": "Staehr-Nielson"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1259/first_name",
+                    "type": "Name",
+                    "value": "Eva"
                 }
             ],
             "type": "Name",
             "value": "Eva Staehr-Nielson"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1259/preferred_id",
+            "type": "Identifier",
+            "value": "1259"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Danish",
+        "label": "Danish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

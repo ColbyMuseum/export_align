@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/261/preferred_id",
-            "type": "Identifier",
-            "value": "261"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/261/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/261/first_name",
-                    "type": "Name",
-                    "value": "G"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -39,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/261/last_name",
                     "type": "Name",
                     "value": "Bunker"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/261/first_name",
+                    "type": "Name",
+                    "value": "G"
                 }
             ],
             "type": "Name",
             "value": "G Bunker"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/261/preferred_id",
+            "type": "Identifier",
+            "value": "261"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

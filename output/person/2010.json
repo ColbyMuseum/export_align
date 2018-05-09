@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/2010/preferred_id",
-            "type": "Identifier",
-            "value": "2010"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/2010/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/2010/first_name",
-                    "type": "Name",
-                    "value": "Roberto"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/2010/last_name",
                     "type": "Name",
                     "value": "Matta"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/2010/first_name",
+                    "type": "Name",
+                    "value": "Roberto"
                 }
             ],
             "type": "Name",
             "value": "Roberto Matta"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/2010/preferred_id",
+            "type": "Identifier",
+            "value": "2010"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chilean",
+        "label": "Chilean",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

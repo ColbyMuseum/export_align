@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/2029/preferred_id",
-            "type": "Identifier",
-            "value": "2029"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/2029/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/2029/first_name",
-                    "type": "Name",
-                    "value": "Santiago"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/2029/last_name",
                     "type": "Name",
                     "value": "Montoya"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/2029/first_name",
+                    "type": "Name",
+                    "value": "Santiago"
                 }
             ],
             "type": "Name",
             "value": "Santiago Montoya"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/2029/preferred_id",
+            "type": "Identifier",
+            "value": "2029"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Colombian",
+        "label": "Colombian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

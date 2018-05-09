@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/237/preferred_id",
+            "type": "Identifier",
+            "value": "237"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/237/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/237/last_name",
-                    "type": "Name",
-                    "value": "Branstead"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/237/first_name",
                     "type": "Name",
                     "value": "Patricia"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/237/last_name",
+                    "type": "Name",
+                    "value": "Branstead"
                 }
             ],
             "type": "Name",
             "value": "Patricia Branstead"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/237/preferred_id",
-            "type": "Identifier",
-            "value": "237"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1525/preferred_id",
-            "type": "Identifier",
-            "value": "1525"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1525/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1525/last_name",
-                    "type": "Name",
-                    "value": "Hiller"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1525/first_name",
                     "type": "Name",
                     "value": "Susan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1525/last_name",
+                    "type": "Name",
+                    "value": "Hiller"
                 }
             ],
             "type": "Name",
             "value": "Susan Hiller"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1525/preferred_id",
+            "type": "Identifier",
+            "value": "1525"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/British%20%28b.%20America%29",
+        "label": "British (b. America)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

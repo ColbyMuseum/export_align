@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1171/preferred_id",
+            "type": "Identifier",
+            "value": "1171"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1171/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1171/last_name",
-                    "type": "Name",
-                    "value": "Saito"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1171/first_name",
                     "type": "Name",
                     "value": "Kiyoshi"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1171/last_name",
+                    "type": "Name",
+                    "value": "Saito"
                 }
             ],
             "type": "Name",
             "value": "Kiyoshi Saito"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1171/preferred_id",
-            "type": "Identifier",
-            "value": "1171"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

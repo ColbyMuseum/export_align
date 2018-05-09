@@ -26,24 +26,32 @@
             "includes": [
                 {
                     "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1772/first_name",
+                    "type": "Name"
+                },
+                {
+                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1772/last_name",
                     "type": "Name",
                     "value": "Unknown, Chinese"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1772/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Unknown, Chinese"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese",
+        "label": "Chinese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

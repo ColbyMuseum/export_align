@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1946/preferred_id",
+            "type": "Identifier",
+            "value": "1946"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1946/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1946/last_name",
-                    "type": "Name",
-                    "value": "Hamblen"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1946/first_name",
                     "type": "Name",
                     "value": "Attributed to Sturtevant J."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1946/last_name",
+                    "type": "Name",
+                    "value": "Hamblen"
                 }
             ],
             "type": "Name",
             "value": "Attributed to Sturtevant J. Hamblen"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1946/preferred_id",
-            "type": "Identifier",
-            "value": "1946"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

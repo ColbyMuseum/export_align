@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1787/preferred_id",
+            "type": "Identifier",
+            "value": "1787"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1787/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1787/last_name",
-                    "type": "Name",
-                    "value": "Humphrey"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1787/first_name",
                     "type": "Name",
                     "value": "William"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1787/last_name",
+                    "type": "Name",
+                    "value": "Humphrey"
                 }
             ],
             "type": "Name",
             "value": "William Humphrey"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1787/preferred_id",
-            "type": "Identifier",
-            "value": "1787"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/British",
+        "label": "British",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

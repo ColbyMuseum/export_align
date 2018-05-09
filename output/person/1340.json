@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1340/first_name",
-                    "type": "Name",
-                    "value": "Willem"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1340/last_name",
                     "type": "Name",
                     "value": "Van Romeyn"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1340/first_name",
+                    "type": "Name",
+                    "value": "Willem"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1340"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Dutch",
+        "label": "Dutch",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

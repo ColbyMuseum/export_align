@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1996/preferred_id",
-            "type": "Identifier",
-            "value": "1996"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1996/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Jiangsu People&#39;s Publishing House"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1996/preferred_id",
+            "type": "Identifier",
+            "value": "1996"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese",
+        "label": "Chinese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/120/preferred_id",
-            "type": "Identifier",
-            "value": "120"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/120/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Anonymous, Chinese (Han Dynasty 206 Bc-220 Ad)"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/120/preferred_id",
+            "type": "Identifier",
+            "value": "120"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese%20%28Han%20Dynasty%20206%20Bc-220%20Ad%29",
+        "label": "Chinese (Han Dynasty 206 Bc-220 Ad)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

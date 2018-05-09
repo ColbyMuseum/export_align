@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1949/preferred_id",
+            "type": "Identifier",
+            "value": "1949"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1949/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1949/first_name",
-                    "type": "Name",
-                    "value": "Orlando Hand"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1949/last_name",
                     "type": "Name",
                     "value": "Bears"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1949/first_name",
+                    "type": "Name",
+                    "value": "Orlando Hand"
                 }
             ],
             "type": "Name",
             "value": "Attributed to Orlando Hand Bears (1811-1851)"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1949/preferred_id",
-            "type": "Identifier",
-            "value": "1949"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

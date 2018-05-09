@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1290/preferred_id",
+            "type": "Identifier",
+            "value": "1290"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1290/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1290/last_name",
-                    "type": "Name",
-                    "value": "Tamayo"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1290/first_name",
                     "type": "Name",
                     "value": "Rufino"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1290/last_name",
+                    "type": "Name",
+                    "value": "Tamayo"
                 }
             ],
             "type": "Name",
             "value": "Rufino Tamayo"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1290/preferred_id",
-            "type": "Identifier",
-            "value": "1290"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Mexican",
+        "label": "Mexican",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

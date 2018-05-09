@@ -44,6 +44,14 @@
             "value": "72"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20And%20French",
+        "label": "American, And French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -229,14 +229,14 @@
             },
             {
                 "virtual": true,
-                "propertyUrl": "ore:isAggregatedBy",
+                "propertyUrl": "http://www.openarchives.org/ore/terms/isAggregatedBy",
                 "valueUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}"
-            }
+            },
             {
                 "virtual": true,
                 "aboutUrl": "http://data.museum.colby.edu/thesauri/nationality/{Nat_Culture_L2}",
                 "propertyUrl": "rdf:type",
-                "valueUrl": "ore:Aggregation"
+                "valueUrl": "http://www.openarchives.org/ore/terms/Aggregation"
             },
             {
                 "virtual": true,

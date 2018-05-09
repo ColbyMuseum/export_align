@@ -44,6 +44,14 @@
             "value": "Anonymous, French (Sevres)"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28Sevres%29",
+        "label": "French (Sevres)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -18,18 +18,18 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/855/first_name",
-                    "type": "Name"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/855/last_name",
                     "type": "Name",
                     "value": "Loudbinine"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/855/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
@@ -44,6 +44,14 @@
             "value": "855"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Russian",
+        "label": "Russian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

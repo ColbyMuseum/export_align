@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1988/last_name",
-                    "type": "Name",
-                    "value": "Neuenschwander"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1988/first_name",
                     "type": "Name",
                     "value": "Rivane"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1988/last_name",
+                    "type": "Name",
+                    "value": "Neuenschwander"
                 }
             ],
             "type": "Name",
             "value": "Rivane Neuenschwander"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Brazilan",
+        "label": "Brazilan",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

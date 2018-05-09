@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/900/preferred_id",
-            "type": "Identifier",
-            "value": "900"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/900/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/900/last_name",
-                    "type": "Name",
-                    "value": "Matulka"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/900/first_name",
                     "type": "Name",
                     "value": "Jan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/900/last_name",
+                    "type": "Name",
+                    "value": "Matulka"
                 }
             ],
             "type": "Name",
             "value": "Jan Matulka"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/900/preferred_id",
+            "type": "Identifier",
+            "value": "900"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Czechoslovakia%29",
+        "label": "American (b. Czechoslovakia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -14,16 +14,15 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1138/preferred_id",
-            "type": "Identifier",
-            "value": "1138"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1138/name",
             "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1138/first_name",
+                    "type": "Name"
+                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,19 +30,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1138/last_name",
                     "type": "Name",
                     "value": "Roistrand Factory"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1138/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Roistrand Factory"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1138/preferred_id",
+            "type": "Identifier",
+            "value": "1138"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Swedish",
+        "label": "Swedish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

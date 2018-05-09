@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1300/preferred_id",
-            "type": "Identifier",
-            "value": "1300"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1300/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1300/last_name",
-                    "type": "Name",
-                    "value": "Theus"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1300/first_name",
                     "type": "Name",
                     "value": "Jeremiah"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1300/last_name",
+                    "type": "Name",
+                    "value": "Theus"
                 }
             ],
             "type": "Name",
             "value": "Jeremiah Theus"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1300/preferred_id",
+            "type": "Identifier",
+            "value": "1300"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Switzerland%29",
+        "label": "American (b. Switzerland)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

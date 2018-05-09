@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1657/preferred_id",
+            "type": "Identifier",
+            "value": "1657"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1657/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Andr&#233; Kert&#233;sz"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1657/preferred_id",
-            "type": "Identifier",
-            "value": "1657"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Hungarian",
+        "label": "Hungarian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

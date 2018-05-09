@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1968/preferred_id",
+            "type": "Identifier",
+            "value": "1968"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1968/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1968/last_name",
-                    "type": "Name",
-                    "value": "Mancini"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1968/first_name",
                     "type": "Name",
                     "value": "Salvatore"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1968/last_name",
+                    "type": "Name",
+                    "value": "Mancini"
                 }
             ],
             "type": "Name",
             "value": "Salvatore Mancini"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1968/preferred_id",
-            "type": "Identifier",
-            "value": "1968"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

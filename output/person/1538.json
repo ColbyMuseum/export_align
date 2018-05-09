@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1538/preferred_id",
+            "type": "Identifier",
+            "value": "1538"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1538/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1538/last_name",
-                    "type": "Name",
-                    "value": "Farny"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1538/first_name",
                     "type": "Name",
                     "value": "Henry"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1538/last_name",
+                    "type": "Name",
+                    "value": "Farny"
                 }
             ],
             "type": "Name",
             "value": "Henry Farny"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1538/preferred_id",
-            "type": "Identifier",
-            "value": "1538"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20France%29",
+        "label": "American (b. France)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

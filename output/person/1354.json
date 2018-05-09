@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1354/last_name",
-                    "type": "Name",
-                    "value": "Von Konig"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1354/first_name",
                     "type": "Name",
                     "value": "Leo"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1354/last_name",
+                    "type": "Name",
+                    "value": "Von Konig"
                 }
             ],
             "type": "Name",
             "value": "Leo Von Konig"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/German",
+        "label": "German",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

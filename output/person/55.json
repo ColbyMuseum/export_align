@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/55/preferred_id",
-            "type": "Identifier",
-            "value": "55"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/55/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Anonymous, Pre-Columbian, Meso-American, Colima"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/55/preferred_id",
+            "type": "Identifier",
+            "value": "55"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Pre-Columbian%2C%20Meso-American%2C%20Colima",
+        "label": "Pre-Columbian, Meso-American, Colima",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

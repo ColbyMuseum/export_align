@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1601/first_name",
-                    "type": "Name",
-                    "value": "Kay Bell"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1601/last_name",
                     "type": "Name",
                     "value": "Reynal"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1601/first_name",
+                    "type": "Name",
+                    "value": "Kay Bell"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1601"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

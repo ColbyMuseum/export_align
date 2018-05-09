@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/598/preferred_id",
-            "type": "Identifier",
-            "value": "598"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/598/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Zvavar Gudnason"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/598/preferred_id",
+            "type": "Identifier",
+            "value": "598"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Icelandic",
+        "label": "Icelandic",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/408/preferred_id",
-            "type": "Identifier",
-            "value": "408"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/408/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/408/first_name",
-                    "type": "Name",
-                    "value": "Juan"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/408/last_name",
                     "type": "Name",
                     "value": "De Arellano"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/408/first_name",
+                    "type": "Name",
+                    "value": "Juan"
                 }
             ],
             "type": "Name",
             "value": "Juan De Arellano"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/408/preferred_id",
+            "type": "Identifier",
+            "value": "408"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Spanish",
+        "label": "Spanish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

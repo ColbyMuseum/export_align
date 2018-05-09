@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/817/last_name",
-                    "type": "Name",
-                    "value": "Leger"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/817/first_name",
                     "type": "Name",
                     "value": "Fernand"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/817/last_name",
+                    "type": "Name",
+                    "value": "Leger"
                 }
             ],
             "type": "Name",
             "value": "Fernand Leger"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French",
+        "label": "French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

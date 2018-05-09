@@ -44,6 +44,14 @@
             "value": "63"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/%26quot%3BPre-Columbian%2C%20Meso-American%26quot%3B",
+        "label": "&quot;Pre-Columbian, Meso-American&quot;",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

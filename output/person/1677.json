@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1677/preferred_id",
+            "type": "Identifier",
+            "value": "1677"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1677/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1677/first_name",
-                    "type": "Name",
-                    "value": "Sekino"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1677/last_name",
                     "type": "Name",
                     "value": "Jun&#39;chiro"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1677/first_name",
+                    "type": "Name",
+                    "value": "Sekino"
                 }
             ],
             "type": "Name",
             "value": "Sekino Jun&#39;chiro"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1677/preferred_id",
-            "type": "Identifier",
-            "value": "1677"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

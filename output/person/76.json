@@ -44,6 +44,14 @@
             "value": "76"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Siamese%3F",
+        "label": "Siamese?",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

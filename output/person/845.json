@@ -46,6 +46,14 @@
             "value": "Richard Lindner"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Germany%29",
+        "label": "American (b. Germany)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

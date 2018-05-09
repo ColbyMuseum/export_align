@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/127/preferred_id",
-            "type": "Identifier",
-            "value": "127"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/127/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Anonymous, Chinese (T&#39;ang Dynasty)"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/127/preferred_id",
+            "type": "Identifier",
+            "value": "127"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese%20%28Tang%20Dynasty%29",
+        "label": "Chinese (Tang Dynasty)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/326/preferred_id",
+            "type": "Identifier",
+            "value": "326"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/326/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/326/first_name",
-                    "type": "Name",
-                    "value": "Nickolai"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/326/last_name",
                     "type": "Name",
                     "value": "Cikovsky"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/326/first_name",
+                    "type": "Name",
+                    "value": "Nickolai"
                 }
             ],
             "type": "Name",
             "value": "Nickolai Cikovsky"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/326/preferred_id",
-            "type": "Identifier",
-            "value": "326"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Russia%29",
+        "label": "American (b. Russia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

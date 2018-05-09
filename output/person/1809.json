@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1809/preferred_id",
+            "type": "Identifier",
+            "value": "1809"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1809/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1809/first_name",
-                    "type": "Name",
-                    "value": "Gertrude"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1809/last_name",
                     "type": "Name",
                     "value": "K&#228;sebier"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1809/first_name",
+                    "type": "Name",
+                    "value": "Gertrude"
                 }
             ],
             "type": "Name",
             "value": "Gertrude K&#228;sebier"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1809/preferred_id",
-            "type": "Identifier",
-            "value": "1809"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

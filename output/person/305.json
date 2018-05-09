@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/305/preferred_id",
+            "type": "Identifier",
+            "value": "305"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/305/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/305/last_name",
-                    "type": "Name",
-                    "value": "Cereijido"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/305/first_name",
                     "type": "Name",
                     "value": "Fabian"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/305/last_name",
+                    "type": "Name",
+                    "value": "Cereijido"
                 }
             ],
             "type": "Name",
             "value": "Fabian Cereijido"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/305/preferred_id",
-            "type": "Identifier",
-            "value": "305"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Argentina",
+        "label": "Argentina",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

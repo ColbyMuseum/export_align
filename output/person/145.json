@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/145/preferred_id",
-            "type": "Identifier",
-            "value": "145"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/145/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Attributed to Sugo Shohaku"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/145/preferred_id",
+            "type": "Identifier",
+            "value": "145"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

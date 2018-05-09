@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1695/last_name",
-                    "type": "Name",
-                    "value": "Bittencourt"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1695/first_name",
                     "type": "Name",
                     "value": "Vivien"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1695/last_name",
+                    "type": "Name",
+                    "value": "Bittencourt"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1695"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Brazilian",
+        "label": "Brazilian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

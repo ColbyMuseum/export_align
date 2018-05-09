@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1369/preferred_id",
+            "type": "Identifier",
+            "value": "1369"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1369/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1369/last_name",
-                    "type": "Name",
-                    "value": "Weddige"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1369/first_name",
                     "type": "Name",
                     "value": "Emil"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1369/last_name",
+                    "type": "Name",
+                    "value": "Weddige"
                 }
             ],
             "type": "Name",
             "value": "Emil Weddige"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1369/preferred_id",
-            "type": "Identifier",
-            "value": "1369"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Canada%29",
+        "label": "American (b. Canada)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

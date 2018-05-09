@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/597/preferred_id",
+            "type": "Identifier",
+            "value": "597"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/597/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/597/first_name",
-                    "type": "Name",
-                    "value": "George"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/597/last_name",
                     "type": "Name",
                     "value": "Grosz"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/597/first_name",
+                    "type": "Name",
+                    "value": "George"
                 }
             ],
             "type": "Name",
             "value": "George Grosz"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/597/preferred_id",
-            "type": "Identifier",
-            "value": "597"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Germany%29",
+        "label": "American (b. Germany)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

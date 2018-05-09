@@ -14,8 +14,23 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1930/preferred_id",
+            "type": "Identifier",
+            "value": "1930"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1930/name",
             "includes": [
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1930/first_name",
+                    "type": "Name"
+                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -23,27 +38,19 @@
                     "id": "http://data.museum.colby.edu/constituent/1930/last_name",
                     "type": "Name",
                     "value": "Rochester Ironworks"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1930/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Rochester Ironworks"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1930/preferred_id",
-            "type": "Identifier",
-            "value": "1930"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

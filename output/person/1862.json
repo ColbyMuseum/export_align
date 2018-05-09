@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1862/preferred_id",
-            "type": "Identifier",
-            "value": "1862"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1862/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1862/last_name",
-                    "type": "Name",
-                    "value": "Cooke Brown"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1862/first_name",
                     "type": "Name",
                     "value": "Allison"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1862/last_name",
+                    "type": "Name",
+                    "value": "Cooke Brown"
                 }
             ],
             "type": "Name",
             "value": "Allison Cooke Brown"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1862/preferred_id",
+            "type": "Identifier",
+            "value": "1862"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

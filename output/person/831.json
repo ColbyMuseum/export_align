@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/831/first_name",
-                    "type": "Name",
-                    "value": "(Richard) Hayley"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/831/last_name",
                     "type": "Name",
                     "value": "Lever"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/831/first_name",
+                    "type": "Name",
+                    "value": "(Richard) Hayley"
                 }
             ],
             "type": "Name",
             "value": "(Richard) Hayley Lever"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Australia%29",
+        "label": "American (b. Australia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

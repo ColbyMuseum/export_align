@@ -46,6 +46,14 @@
             "value": "Rachel Perry"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20Japan",
+        "label": "American, b. Japan",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

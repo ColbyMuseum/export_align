@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1806/preferred_id",
+            "type": "Identifier",
+            "value": "1806"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1806/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1806/last_name",
-                    "type": "Name",
-                    "value": "Henderson"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/1806/first_name",
                     "type": "Name",
                     "value": "Stew"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1806/last_name",
+                    "type": "Name",
+                    "value": "Henderson"
                 }
             ],
             "type": "Name",
             "value": "Stew Henderson"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1806/preferred_id",
-            "type": "Identifier",
-            "value": "1806"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

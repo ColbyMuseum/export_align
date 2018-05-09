@@ -18,19 +18,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1902/first_name",
-                    "type": "Name",
-                    "value": "Yoshijiro"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1902/last_name",
                     "type": "Name",
                     "value": "Urushibara"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1902/first_name",
+                    "type": "Name",
+                    "value": "Yoshijiro"
                 }
             ],
             "type": "Name",
@@ -45,6 +45,13 @@
             "value": "1902"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

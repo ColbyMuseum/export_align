@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/645/preferred_id",
-            "type": "Identifier",
-            "value": "645"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/645/name",
             "includes": [
                 {
@@ -43,8 +35,24 @@
             ],
             "type": "Name",
             "value": "Yauchi Hidemine"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/645/preferred_id",
+            "type": "Identifier",
+            "value": "645"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

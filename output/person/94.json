@@ -14,23 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/94/preferred_id",
-            "type": "Identifier",
-            "value": "94"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/94/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/94/first_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -38,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/94/last_name",
                     "type": "Name",
                     "value": "Anonymous, Chinese, Han Dynasty (206 Bc - 220ad)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/94/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, Chinese, Han Dynasty (206 Bc - 220ad)"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/94/preferred_id",
+            "type": "Identifier",
+            "value": "94"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese%2C%20Han%20Dynasty%20%28206%20Bc%20-%20220ad%29",
+        "label": "Chinese, Han Dynasty (206 Bc - 220ad)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

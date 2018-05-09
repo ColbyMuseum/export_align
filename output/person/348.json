@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/348/preferred_id",
-            "type": "Identifier",
-            "value": "348"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/348/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/348/first_name",
-                    "type": "Name",
-                    "value": "James"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/348/last_name",
                     "type": "Name",
                     "value": "Coignard"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/348/first_name",
+                    "type": "Name",
+                    "value": "James"
                 }
             ],
             "type": "Name",
             "value": "James Coignard"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/348/preferred_id",
+            "type": "Identifier",
+            "value": "348"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French",
+        "label": "French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/381/first_name",
-                    "type": "Name",
-                    "value": "Giovan Battista"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/381/last_name",
                     "type": "Name",
                     "value": "Crema"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/381/first_name",
+                    "type": "Name",
+                    "value": "Giovan Battista"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "381"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Italian",
+        "label": "Italian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

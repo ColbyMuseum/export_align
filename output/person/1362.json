@@ -44,6 +44,14 @@
             "value": "1362"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English%20%28Birmingham%29",
+        "label": "English (Birmingham)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

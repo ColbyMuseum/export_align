@@ -15,15 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/323/preferred_id",
+            "type": "Identifier",
+            "value": "323"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/323/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/323/last_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +32,27 @@
                     "id": "http://data.museum.colby.edu/constituent/323/first_name",
                     "type": "Name",
                     "value": "Christo"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/323/last_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Christo"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/323/preferred_id",
-            "type": "Identifier",
-            "value": "323"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Bulgaria%29",
+        "label": "American (b. Bulgaria)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

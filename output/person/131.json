@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/131/first_name",
-                    "type": "Name",
-                    "value": "Adolphe"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/131/last_name",
                     "type": "Name",
                     "value": "Appian"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/131/first_name",
+                    "type": "Name",
+                    "value": "Adolphe"
                 }
             ],
             "type": "Name",
             "value": "Adolphe Appian"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French",
+        "label": "French",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

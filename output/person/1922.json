@@ -45,6 +45,14 @@
             "value": "Chinese Anonymous"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese%20%28Yuan%20Dynasty%2C%201276-1368%29",
+        "label": "Chinese (Yuan Dynasty, 1276-1368)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

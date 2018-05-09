@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/997/preferred_id",
-            "type": "Identifier",
-            "value": "997"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/997/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/997/last_name",
-                    "type": "Name",
-                    "value": "Norling"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/997/first_name",
                     "type": "Name",
                     "value": "Barry"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/997/last_name",
+                    "type": "Name",
+                    "value": "Norling"
                 }
             ],
             "type": "Name",
             "value": "Barry Norling"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/997/preferred_id",
+            "type": "Identifier",
+            "value": "997"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

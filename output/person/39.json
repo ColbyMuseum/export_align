@@ -26,24 +26,32 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/39/first_name",
-                    "type": "Name"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/39/last_name",
                     "type": "Name",
                     "value": "Anonymous, Tibetan"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/39/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, Tibetan"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Tibetan",
+        "label": "Tibetan",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

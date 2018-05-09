@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/2013/preferred_id",
+            "type": "Identifier",
+            "value": "2013"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/2013/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/2013/last_name",
-                    "type": "Name",
-                    "value": "St. Clair"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/2013/first_name",
                     "type": "Name",
                     "value": "Labert"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/2013/last_name",
+                    "type": "Name",
+                    "value": "St. Clair"
                 }
             ],
             "type": "Name",
             "value": "Labert St. Clair"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/2013/preferred_id",
-            "type": "Identifier",
-            "value": "2013"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

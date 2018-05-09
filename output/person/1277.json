@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1277/last_name",
-                    "type": "Name",
-                    "value": "Sudek"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1277/first_name",
                     "type": "Name",
                     "value": "Joseph"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1277/last_name",
+                    "type": "Name",
+                    "value": "Sudek"
                 }
             ],
             "type": "Name",
             "value": "Joseph Sudek"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Czechoslavakian",
+        "label": "Czechoslavakian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

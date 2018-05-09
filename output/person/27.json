@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/27/preferred_id",
+            "type": "Identifier",
+            "value": "27"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/27/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/27/first_name",
-                    "type": "Name",
-                    "value": "Ethan Allen"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/27/last_name",
                     "type": "Name",
                     "value": "Greenwood"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/27/first_name",
+                    "type": "Name",
+                    "value": "Ethan Allen"
                 }
             ],
             "type": "Name",
             "value": "Ethan Allen Greenwood"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/27/preferred_id",
-            "type": "Identifier",
-            "value": "27"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

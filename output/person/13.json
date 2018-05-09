@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/13/preferred_id",
-            "type": "Identifier",
-            "value": "13"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/13/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Albert Alcalay"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/13/preferred_id",
+            "type": "Identifier",
+            "value": "13"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/b.%20France%20but%20lived%20in%20the%20USA%20since%201945",
+        "label": "b. France but lived in the USA since 1945",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

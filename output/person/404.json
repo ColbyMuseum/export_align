@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/404/preferred_id",
+            "type": "Identifier",
+            "value": "404"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/404/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/404/last_name",
-                    "type": "Name",
-                    "value": "Davis"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/404/first_name",
                     "type": "Name",
                     "value": "Raymond H."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/404/last_name",
+                    "type": "Name",
+                    "value": "Davis"
                 }
             ],
             "type": "Name",
             "value": "Raymond H. Davis"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/404/preferred_id",
-            "type": "Identifier",
-            "value": "404"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

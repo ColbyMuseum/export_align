@@ -14,23 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/123/preferred_id",
-            "type": "Identifier",
-            "value": "123"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/123/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/123/first_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -38,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/123/last_name",
                     "type": "Name",
                     "value": "Anonymous, Chinese (Shang Period)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/123/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, Chinese (Shang Period)"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/123/preferred_id",
+            "type": "Identifier",
+            "value": "123"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese%20%28Shang%20Period%298",
+        "label": "Chinese (Shang Period)8",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

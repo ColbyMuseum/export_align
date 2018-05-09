@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/473/preferred_id",
-            "type": "Identifier",
-            "value": "473"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/473/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/473/last_name",
-                    "type": "Name",
-                    "value": "Elman"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,36 @@
                     "id": "http://data.museum.colby.edu/constituent/473/first_name",
                     "type": "Name",
                     "value": "Emily Schorr"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/473/last_name",
+                    "type": "Name",
+                    "value": "Elman"
                 }
             ],
             "type": "Name",
             "value": "Emily Schorr Elman"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/473/preferred_id",
+            "type": "Identifier",
+            "value": "473"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

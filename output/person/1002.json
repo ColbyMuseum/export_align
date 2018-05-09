@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1002/preferred_id",
-            "type": "Identifier",
-            "value": "1002"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1002/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1002/first_name",
-                    "type": "Name",
-                    "value": "George L."
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1002/last_name",
                     "type": "Name",
                     "value": "Noyes"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1002/first_name",
+                    "type": "Name",
+                    "value": "George L."
                 }
             ],
             "type": "Name",
             "value": "George L. Noyes"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1002/preferred_id",
+            "type": "Identifier",
+            "value": "1002"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Canada%29",
+        "label": "American (b. Canada)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

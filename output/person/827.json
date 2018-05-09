@@ -26,24 +26,32 @@
             "includes": [
                 {
                     "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/827/first_name",
+                    "type": "Name"
+                },
+                {
+                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/827/last_name",
                     "type": "Name",
                     "value": "Lepine"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/827/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Lepine"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28Louis%20Xvi%20Period%29",
+        "label": "French (Louis Xvi Period)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

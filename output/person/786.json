@@ -46,6 +46,14 @@
             "value": "Yasuo Kuniyoshi"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28B%20.%20Japan%29",
+        "label": "American (B . Japan)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

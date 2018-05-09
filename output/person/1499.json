@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1499/first_name",
-                    "type": "Name",
-                    "value": "Antonio"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1499/last_name",
                     "type": "Name",
                     "value": "Mancini"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1499/first_name",
+                    "type": "Name",
+                    "value": "Antonio"
                 }
             ],
             "type": "Name",
             "value": "Antonio Mancini"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Italian",
+        "label": "Italian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

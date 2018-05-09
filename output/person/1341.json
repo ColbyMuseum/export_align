@@ -46,6 +46,14 @@
             "value": "1341"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Dutch",
+        "label": "Dutch",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

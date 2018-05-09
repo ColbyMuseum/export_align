@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1416/preferred_id",
-            "type": "Identifier",
-            "value": "1416"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1416/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "John Wollaston"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1416/preferred_id",
+            "type": "Identifier",
+            "value": "1416"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English%2C%20Active%20American%20Colonies%201749-58%3B%201767%20%28P.%2010%2C%20Handbook%20Of%20The%20Colby%20Co",
+        "label": "English, Active American Colonies 1749-58; 1767 (P. 10, Handbook Of The Colby Co",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

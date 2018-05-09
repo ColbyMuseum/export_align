@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1840/preferred_id",
+            "type": "Identifier",
+            "value": "1840"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1840/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1840/first_name",
-                    "type": "Name",
-                    "value": "Egon"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1840/last_name",
                     "type": "Name",
                     "value": "Schiele"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1840/first_name",
+                    "type": "Name",
+                    "value": "Egon"
                 }
             ],
             "type": "Name",
             "value": "Egon Schiele"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1840/preferred_id",
-            "type": "Identifier",
-            "value": "1840"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Austrian",
+        "label": "Austrian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

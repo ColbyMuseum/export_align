@@ -44,6 +44,14 @@
             "value": "Gorham"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28Providence%20R.I.%29",
+        "label": "American (Providence R.I.)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

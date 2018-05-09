@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/373/preferred_id",
-            "type": "Identifier",
-            "value": "373"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/373/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/373/last_name",
-                    "type": "Name",
-                    "value": "Counts"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/373/first_name",
                     "type": "Name",
                     "value": "Charles"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/373/last_name",
+                    "type": "Name",
+                    "value": "Counts"
                 }
             ],
             "type": "Name",
             "value": "Charles Counts"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/373/preferred_id",
+            "type": "Identifier",
+            "value": "373"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

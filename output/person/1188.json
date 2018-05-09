@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1188/preferred_id",
-            "type": "Identifier",
-            "value": "1188"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1188/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1188/last_name",
-                    "type": "Name",
-                    "value": "Scheving"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1188/first_name",
                     "type": "Name",
                     "value": "Gunnlaugur"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1188/last_name",
+                    "type": "Name",
+                    "value": "Scheving"
                 }
             ],
             "type": "Name",
             "value": "Gunnlaugur Scheving"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1188/preferred_id",
+            "type": "Identifier",
+            "value": "1188"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Icelandic",
+        "label": "Icelandic",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

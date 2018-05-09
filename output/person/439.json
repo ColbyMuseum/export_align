@@ -18,19 +18,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/439/first_name",
-                    "type": "Name",
-                    "value": "Lisa"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/439/last_name",
                     "type": "Name",
                     "value": "Dinhofer"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/439/first_name",
+                    "type": "Name",
+                    "value": "Lisa"
                 }
             ],
             "type": "Name",
@@ -45,6 +45,14 @@
             "value": "439"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

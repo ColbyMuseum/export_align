@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1323/first_name",
-                    "type": "Name",
-                    "value": "Augustin"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1323/last_name",
                     "type": "Name",
                     "value": "Ubeda"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1323/first_name",
+                    "type": "Name",
+                    "value": "Augustin"
                 }
             ],
             "type": "Name",
             "value": "Augustin Ubeda"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28b.%20Spain%29",
+        "label": "French (b. Spain)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

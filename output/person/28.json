@@ -44,6 +44,14 @@
             "value": "Anonymous, Pre-Columbian, Carchi"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Pre-Columbian%2C%20Carchi",
+        "label": "Pre-Columbian, Carchi",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

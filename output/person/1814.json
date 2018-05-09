@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1814/first_name",
-                    "type": "Name",
-                    "value": "Carmen"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1814/last_name",
                     "type": "Name",
                     "value": "Herrera"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1814/first_name",
+                    "type": "Name",
+                    "value": "Carmen"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1814"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Cuban",
+        "label": "Cuban",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

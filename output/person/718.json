@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/718/last_name",
-                    "type": "Name",
-                    "value": "Julien"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/718/first_name",
                     "type": "Name",
                     "value": "Isaac"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/718/last_name",
+                    "type": "Name",
+                    "value": "Julien"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "718"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

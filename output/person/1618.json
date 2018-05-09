@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1618/first_name",
-                    "type": "Name",
-                    "value": "An-My"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1618/last_name",
                     "type": "Name",
                     "value": "L&#234;"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1618/first_name",
+                    "type": "Name",
+                    "value": "An-My"
                 }
             ],
             "type": "Name",
             "value": "An-My L&#234;"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Vietnam%29",
+        "label": "American (b. Vietnam)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

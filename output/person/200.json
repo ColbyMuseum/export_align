@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/200/first_name",
-                    "type": "Name",
-                    "value": "Albert"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/200/last_name",
                     "type": "Name",
                     "value": "Bierstadt"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/200/first_name",
+                    "type": "Name",
+                    "value": "Albert"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "200"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20Germany",
+        "label": "American, b. Germany",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

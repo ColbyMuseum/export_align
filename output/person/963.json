@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/963/preferred_id",
-            "type": "Identifier",
-            "value": "963"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/963/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/963/first_name",
-                    "type": "Name",
-                    "value": "Dean"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/963/last_name",
                     "type": "Name",
                     "value": "Mullavey"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/963/first_name",
+                    "type": "Name",
+                    "value": "Dean"
                 }
             ],
             "type": "Name",
             "value": "Dean Mullavey"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/963/preferred_id",
+            "type": "Identifier",
+            "value": "963"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Canadian%20%28b.%20USA%29",
+        "label": "Canadian (b. USA)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

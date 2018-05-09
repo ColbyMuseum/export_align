@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/910/preferred_id",
+            "type": "Identifier",
+            "value": "910"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/910/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/910/last_name",
-                    "type": "Name",
-                    "value": "McLean"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/910/first_name",
                     "type": "Name",
                     "value": "Melville"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/910/last_name",
+                    "type": "Name",
+                    "value": "McLean"
                 }
             ],
             "type": "Name",
             "value": "Melville McLean"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/910/preferred_id",
-            "type": "Identifier",
-            "value": "910"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Canadian",
+        "label": "Canadian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

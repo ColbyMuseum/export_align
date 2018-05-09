@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1993/preferred_id",
+            "type": "Identifier",
+            "value": "1993"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1993/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1993/first_name",
-                    "type": "Name",
-                    "value": "Nan Chung"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1993/last_name",
                     "type": "Name",
                     "value": "Jiang"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1993/first_name",
+                    "type": "Name",
+                    "value": "Nan Chung"
                 }
             ],
             "type": "Name",
             "value": "Nan Chung Jiang"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1993/preferred_id",
-            "type": "Identifier",
-            "value": "1993"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese",
+        "label": "Chinese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

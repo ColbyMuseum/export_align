@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1081/preferred_id",
+            "type": "Identifier",
+            "value": "1081"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1081/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1081/first_name",
-                    "type": "Name",
-                    "value": "Frank"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1081/last_name",
                     "type": "Name",
                     "value": "Prenix"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1081/first_name",
+                    "type": "Name",
+                    "value": "Frank"
                 }
             ],
             "type": "Name",
             "value": "Frank Prenix"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1081/preferred_id",
-            "type": "Identifier",
-            "value": "1081"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

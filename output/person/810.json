@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/810/first_name",
-                    "type": "Name",
-                    "value": "Robert"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/810/last_name",
                     "type": "Name",
                     "value": "Laurent"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/810/first_name",
+                    "type": "Name",
+                    "value": "Robert"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "810"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20France",
+        "label": "American, b. France",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

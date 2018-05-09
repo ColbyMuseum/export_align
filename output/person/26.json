@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/26/preferred_id",
+            "type": "Identifier",
+            "value": "26"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/26/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/26/last_name",
-                    "type": "Name",
-                    "value": "Anguiano"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/26/first_name",
                     "type": "Name",
                     "value": "Raul"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/26/last_name",
+                    "type": "Name",
+                    "value": "Anguiano"
                 }
             ],
             "type": "Name",
             "value": "Raul Anguiano"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/26/preferred_id",
-            "type": "Identifier",
-            "value": "26"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Mexican",
+        "label": "Mexican",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

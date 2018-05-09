@@ -26,24 +26,31 @@
             "includes": [
                 {
                     "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/258/first_name",
+                    "type": "Name"
+                },
+                {
+                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/258/last_name",
                     "type": "Name",
                     "value": "Bucker"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/258/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Bucker"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

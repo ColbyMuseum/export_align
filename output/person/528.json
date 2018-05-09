@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/528/preferred_id",
+            "type": "Identifier",
+            "value": "528"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/528/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/528/last_name",
-                    "type": "Name",
-                    "value": "Friberg"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/528/first_name",
                     "type": "Name",
                     "value": "Berndt"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/528/last_name",
+                    "type": "Name",
+                    "value": "Friberg"
                 }
             ],
             "type": "Name",
             "value": "Berndt Friberg"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/528/preferred_id",
-            "type": "Identifier",
-            "value": "528"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Swedish",
+        "label": "Swedish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

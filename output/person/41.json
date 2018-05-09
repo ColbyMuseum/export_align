@@ -44,6 +44,14 @@
             "value": "41"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/African%2C%20Ashanti",
+        "label": "African, Ashanti",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

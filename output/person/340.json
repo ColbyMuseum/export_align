@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/340/preferred_id",
+            "type": "Identifier",
+            "value": "340"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/340/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/340/last_name",
-                    "type": "Name",
-                    "value": "Codazzi"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/340/first_name",
                     "type": "Name",
                     "value": "Viviano (Circle Of)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/340/last_name",
+                    "type": "Name",
+                    "value": "Codazzi"
                 }
             ],
             "type": "Name",
             "value": "Viviano (Circle Of) Codazzi"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/340/preferred_id",
-            "type": "Identifier",
-            "value": "340"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Italian",
+        "label": "Italian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

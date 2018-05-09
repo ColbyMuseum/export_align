@@ -46,6 +46,14 @@
             "value": "448"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20England",
+        "label": "American, b. England",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

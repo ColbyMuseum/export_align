@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1676/preferred_id",
+            "type": "Identifier",
+            "value": "1676"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1676/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1676/first_name",
-                    "type": "Name",
-                    "value": "Jen"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -31,20 +31,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1676/last_name",
                     "type": "Name",
                     "value": "Casad"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1676/first_name",
+                    "type": "Name",
+                    "value": "Jen"
                 }
             ],
             "type": "Name",
             "value": "Jen Casad"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1676/preferred_id",
-            "type": "Identifier",
-            "value": "1676"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American",
+        "label": "American",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1050/first_name",
-                    "type": "Name",
-                    "value": "Pablo (Ruiz Y)"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1050/last_name",
                     "type": "Name",
                     "value": "Picasso"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1050/first_name",
+                    "type": "Name",
+                    "value": "Pablo (Ruiz Y)"
                 }
             ],
             "type": "Name",
             "value": "Pablo (Ruiz Y) Picasso"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Spanish",
+        "label": "Spanish",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

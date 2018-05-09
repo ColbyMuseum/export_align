@@ -44,6 +44,14 @@
             "value": "Anonymous, Greece (Fabricated In Southern Italy)"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Greece%20%28Fabricated%20In%20Southern%20Italy%29",
+        "label": "Greece (Fabricated In Southern Italy)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

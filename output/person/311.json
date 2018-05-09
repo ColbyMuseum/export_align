@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/311/preferred_id",
-            "type": "Identifier",
-            "value": "311"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/311/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Marc Chagall"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/311/preferred_id",
+            "type": "Identifier",
+            "value": "311"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28b.%20Russia%29",
+        "label": "French (b. Russia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/830/first_name",
-                    "type": "Name",
-                    "value": "Julian"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/830/last_name",
                     "type": "Name",
                     "value": "Lethbridge"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/830/first_name",
+                    "type": "Name",
+                    "value": "Julian"
                 }
             ],
             "type": "Name",
             "value": "Julian Lethbridge"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Sri%20Lanka%29",
+        "label": "American (b. Sri Lanka)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1471/preferred_id",
+            "type": "Identifier",
+            "value": "1471"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1471/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1471/last_name",
-                    "type": "Name",
-                    "value": "Winstanley"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/1471/first_name",
                     "type": "Name",
                     "value": "Paul"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1471/last_name",
+                    "type": "Name",
+                    "value": "Winstanley"
                 }
             ],
             "type": "Name",
             "value": "Paul Winstanley"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1471/preferred_id",
-            "type": "Identifier",
-            "value": "1471"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/British",
+        "label": "British",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

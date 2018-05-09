@@ -14,16 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/1598/preferred_id",
+            "type": "Identifier",
+            "value": "1598"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/1598/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1598/last_name",
-                    "type": "Name",
-                    "value": "Brooks"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -31,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/1598/first_name",
                     "type": "Name",
                     "value": "R."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1598/last_name",
+                    "type": "Name",
+                    "value": "Brooks"
                 }
             ],
             "type": "Name",
             "value": "R. Brooks"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/1598/preferred_id",
-            "type": "Identifier",
-            "value": "1598"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

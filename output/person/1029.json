@@ -15,14 +15,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1029/preferred_id",
-            "type": "Identifier",
-            "value": "1029"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1029/name",
             "includes": [
                 {
@@ -44,8 +36,24 @@
             ],
             "type": "Name",
             "value": "Jules (Julius) Pascin (Pincas)"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1029/preferred_id",
+            "type": "Identifier",
+            "value": "1029"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28b.%20Bulgaria%29",
+        "label": "French (b. Bulgaria)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

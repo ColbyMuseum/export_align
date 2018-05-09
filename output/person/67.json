@@ -26,24 +26,32 @@
             "includes": [
                 {
                     "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/67/first_name",
+                    "type": "Name"
+                },
+                {
+                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/67/last_name",
                     "type": "Name",
                     "value": "Anonymous, New Guinea"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/67/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Anonymous, New Guinea"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/New%20Guinea",
+        "label": "New Guinea",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

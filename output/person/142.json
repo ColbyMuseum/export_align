@@ -14,23 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/142/preferred_id",
-            "type": "Identifier",
-            "value": "142"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/142/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/142/first_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -38,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/142/last_name",
                     "type": "Name",
                     "value": "Ashiyuki"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/142/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Ashiyuki"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/142/preferred_id",
+            "type": "Identifier",
+            "value": "142"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Japanese",
+        "label": "Japanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

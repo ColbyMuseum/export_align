@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/813/preferred_id",
-            "type": "Identifier",
-            "value": "813"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/813/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/813/first_name",
-                    "type": "Name",
-                    "value": "Bernard"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/813/last_name",
                     "type": "Name",
                     "value": "Leach"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/813/first_name",
+                    "type": "Name",
+                    "value": "Bernard"
                 }
             ],
             "type": "Name",
             "value": "Bernard Leach"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/813/preferred_id",
+            "type": "Identifier",
+            "value": "813"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

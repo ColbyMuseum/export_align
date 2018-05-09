@@ -27,25 +27,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/971/last_name",
-                    "type": "Name",
-                    "value": "Nadelman"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/971/first_name",
                     "type": "Name",
                     "value": "Elie"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/971/last_name",
+                    "type": "Name",
+                    "value": "Nadelman"
                 }
             ],
             "type": "Name",
             "value": "Elie Nadelman"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20%28b.%20Poland%29",
+        "label": "American (b. Poland)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1894/last_name",
-                    "type": "Name",
-                    "value": "Bing"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1894/first_name",
                     "type": "Name",
                     "value": "Xu"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1894/last_name",
+                    "type": "Name",
+                    "value": "Bing"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "1894"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Chinese",
+        "label": "Chinese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

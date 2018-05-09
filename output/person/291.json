@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/291/preferred_id",
-            "type": "Identifier",
-            "value": "291"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/291/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/291/last_name",
-                    "type": "Name",
-                    "value": "Carelli"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/291/first_name",
                     "type": "Name",
                     "value": "Gonsalvo"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/291/last_name",
+                    "type": "Name",
+                    "value": "Carelli"
                 }
             ],
             "type": "Name",
             "value": "Gonsalvo Carelli"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/291/preferred_id",
+            "type": "Identifier",
+            "value": "291"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Italian",
+        "label": "Italian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

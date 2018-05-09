@@ -15,6 +15,14 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/780/preferred_id",
+            "type": "Identifier",
+            "value": "780"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/780/name",
             "includes": [
                 {
@@ -36,16 +44,16 @@
             ],
             "type": "Name",
             "value": "Alfred Kubin"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/780/preferred_id",
-            "type": "Identifier",
-            "value": "780"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Austrian%20%28b.%20Czechoslovakia%29",
+        "label": "Austrian (b. Czechoslovakia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

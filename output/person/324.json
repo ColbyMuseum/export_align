@@ -19,18 +19,18 @@
             "includes": [
                 {
                     "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/324/first_name",
+                    "type": "Name"
+                },
+                {
+                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/324/last_name",
                     "type": "Name",
                     "value": "Christo"
-                },
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/324/first_name",
-                    "type": "Name"
                 }
             ],
             "type": "Name",
@@ -45,6 +45,14 @@
             "value": "324"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%20b.%20Bulgaria",
+        "label": "American b. Bulgaria",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

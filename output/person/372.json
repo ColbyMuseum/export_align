@@ -15,16 +15,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/372/preferred_id",
+            "type": "Identifier",
+            "value": "372"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/372/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/372/first_name",
-                    "type": "Name",
-                    "value": "Othon (Otakar)"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -32,20 +32,28 @@
                     "id": "http://data.museum.colby.edu/constituent/372/last_name",
                     "type": "Name",
                     "value": "Coubine (Kubin)"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/372/first_name",
+                    "type": "Name",
+                    "value": "Othon (Otakar)"
                 }
             ],
             "type": "Name",
             "value": "Othon (Otakar) Coubine (Kubin)"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/372/preferred_id",
-            "type": "Identifier",
-            "value": "372"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/French%20%28b.%20Czechoslovakia%29",
+        "label": "French (b. Czechoslovakia)",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

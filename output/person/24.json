@@ -46,6 +46,14 @@
             "value": "Audmunda Andresdottir"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Icelandic",
+        "label": "Icelandic",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

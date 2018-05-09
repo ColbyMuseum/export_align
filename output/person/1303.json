@@ -26,25 +26,33 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1303/first_name",
-                    "type": "Name",
-                    "value": "Harold"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/1303/last_name",
                     "type": "Name",
                     "value": "Thomas"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1303/first_name",
+                    "type": "Name",
+                    "value": "Harold"
                 }
             ],
             "type": "Name",
             "value": "Harold Thomas"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

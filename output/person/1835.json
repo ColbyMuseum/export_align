@@ -14,24 +14,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1835/preferred_id",
-            "type": "Identifier",
-            "value": "1835"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1835/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1835/last_name",
-                    "type": "Name",
-                    "value": "Jackson"
-                },
                 {
                     "classified_as": [
                         "aat:300404651"
@@ -39,12 +23,35 @@
                     "id": "http://data.museum.colby.edu/constituent/1835/first_name",
                     "type": "Name",
                     "value": "William H."
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1835/last_name",
+                    "type": "Name",
+                    "value": "Jackson"
                 }
             ],
             "type": "Name",
             "value": "William H. Jackson"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1835/preferred_id",
+            "type": "Identifier",
+            "value": "1835"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

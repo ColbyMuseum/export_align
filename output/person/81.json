@@ -14,14 +14,6 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/81/preferred_id",
-            "type": "Identifier",
-            "value": "81"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/81/name",
             "includes": [
                 {
@@ -42,8 +34,24 @@
             ],
             "type": "Name",
             "value": "Anonymous, Etruscan/Faliscan"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/81/preferred_id",
+            "type": "Identifier",
+            "value": "81"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Etruscan/Faliscan",
+        "label": "Etruscan/Faliscan",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

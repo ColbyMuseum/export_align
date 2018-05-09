@@ -18,19 +18,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/298/first_name",
-                    "type": "Name",
-                    "value": "Don"
-                },
-                {
-                    "classified_as": [
                         "aat:300404652"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/298/last_name",
                     "type": "Name",
                     "value": "Carr"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/298/first_name",
+                    "type": "Name",
+                    "value": "Don"
                 }
             ],
             "type": "Name",
@@ -45,6 +45,14 @@
             "value": "298"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Canadian",
+        "label": "Canadian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

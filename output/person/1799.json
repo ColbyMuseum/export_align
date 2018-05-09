@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1799/preferred_id",
-            "type": "Identifier",
-            "value": "1799"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1799/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1799/first_name",
-                    "type": "Name",
-                    "value": "Hala"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1799/last_name",
                     "type": "Name",
                     "value": "Elkoussy"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1799/first_name",
+                    "type": "Name",
+                    "value": "Hala"
                 }
             ],
             "type": "Name",
             "value": "Hala Elkoussy"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1799/preferred_id",
+            "type": "Identifier",
+            "value": "1799"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Eqyptian",
+        "label": "Eqyptian",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

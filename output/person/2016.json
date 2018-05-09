@@ -19,19 +19,19 @@
             "includes": [
                 {
                     "classified_as": [
-                        "aat:300404652"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/2016/last_name",
-                    "type": "Name",
-                    "value": "Adnan"
-                },
-                {
-                    "classified_as": [
                         "aat:300404651"
                     ],
                     "id": "http://data.museum.colby.edu/constituent/2016/first_name",
                     "type": "Name",
                     "value": "Etel"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404652"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/2016/last_name",
+                    "type": "Name",
+                    "value": "Adnan"
                 }
             ],
             "type": "Name",
@@ -46,6 +46,14 @@
             "value": "2016"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/Lebanese",
+        "label": "Lebanese",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/1027/preferred_id",
-            "type": "Identifier",
-            "value": "1027"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/1027/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/1027/first_name",
-                    "type": "Name",
-                    "value": "Simon"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/1027/last_name",
                     "type": "Name",
                     "value": "Parkes"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/1027/first_name",
+                    "type": "Name",
+                    "value": "Simon"
                 }
             ],
             "type": "Name",
             "value": "Simon Parkes"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/1027/preferred_id",
+            "type": "Identifier",
+            "value": "1027"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

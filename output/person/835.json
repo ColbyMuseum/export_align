@@ -15,24 +15,8 @@
             "classified_as": [
                 "aat:300404670"
             ],
-            "id": "http://data.museum.colby.edu/constituent/835/preferred_id",
-            "type": "Identifier",
-            "value": "835"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
             "id": "http://data.museum.colby.edu/constituent/835/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/835/first_name",
-                    "type": "Name",
-                    "value": "Wyndham"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -40,12 +24,36 @@
                     "id": "http://data.museum.colby.edu/constituent/835/last_name",
                     "type": "Name",
                     "value": "Lewis"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/835/first_name",
+                    "type": "Name",
+                    "value": "Wyndham"
                 }
             ],
             "type": "Name",
             "value": "Wyndham Lewis"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
+            "id": "http://data.museum.colby.edu/constituent/835/preferred_id",
+            "type": "Identifier",
+            "value": "835"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

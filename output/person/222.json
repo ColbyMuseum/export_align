@@ -46,6 +46,14 @@
             "value": "Richard Bosman"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/American%2C%20b.%20India",
+        "label": "American, b. India",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [

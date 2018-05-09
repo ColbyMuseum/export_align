@@ -14,15 +14,16 @@
             "classified_as": [
                 "aat:300404670"
             ],
+            "id": "http://data.museum.colby.edu/constituent/427/preferred_id",
+            "type": "Identifier",
+            "value": "427"
+        },
+        {
+            "classified_as": [
+                "aat:300404670"
+            ],
             "id": "http://data.museum.colby.edu/constituent/427/name",
             "includes": [
-                {
-                    "classified_as": [
-                        "aat:300404651"
-                    ],
-                    "id": "http://data.museum.colby.edu/constituent/427/first_name",
-                    "type": "Name"
-                },
                 {
                     "classified_as": [
                         "aat:300404652"
@@ -30,20 +31,27 @@
                     "id": "http://data.museum.colby.edu/constituent/427/last_name",
                     "type": "Name",
                     "value": "Denby Stoneware"
+                },
+                {
+                    "classified_as": [
+                        "aat:300404651"
+                    ],
+                    "id": "http://data.museum.colby.edu/constituent/427/first_name",
+                    "type": "Name"
                 }
             ],
             "type": "Name",
             "value": "Denby Stoneware"
-        },
-        {
-            "classified_as": [
-                "aat:300404670"
-            ],
-            "id": "http://data.museum.colby.edu/constituent/427/preferred_id",
-            "type": "Identifier",
-            "value": "427"
         }
     ],
+    "ore:isAggregatedBy": {
+        "classified_as": [
+            "aat:300379842"
+        ],
+        "id": "http://data.museum.colby.edu/thesauri/nationality/English",
+        "label": "English",
+        "type": "Aggregation"
+    },
     "referred_to_by": [
         {
             "classified_as": [
