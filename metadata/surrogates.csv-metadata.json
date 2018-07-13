@@ -9,14 +9,14 @@
             {
                 "name": "Objects_1_ID",
                 "suppressOutput": false,
-                "propertyUrl": "crm:P138i_has_representation",
-                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}"
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}",
+                "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                "valueUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/!512,512/0/default.jpg"
             },
             {
                 "datatype": "string",
                 "name": "File_Name",
                 "suppressOutput": true
-
             },
             {
                 "datatype": "boolean",
@@ -43,7 +43,7 @@
             },
             {
                 "virtual": true,
-                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}",
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/!512,512/0/default.jpg",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"
             },
@@ -51,6 +51,18 @@
                 "virtual": true,
                 "propertyUrl": "dcterms:conformsTo",
                 "valueUrl": "http://iiif.io/api/image"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/!512,512/0/default.jpg",
+                "propertyUrl": "rdf:type",
+                "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"
+            },
+            {
+                "virtual": true,
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/!512,512/0/default.jpg",
+                "propertyUrl": "http://purl.org/dc/elements/1.1/format",
+                "default": "image/jpeg"
             }
         ]
     }

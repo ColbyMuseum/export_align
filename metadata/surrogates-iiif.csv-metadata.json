@@ -81,25 +81,25 @@
                 "virtual": true,
                 "aboutUrl": "http://iiif.museum.colby.edu/presentation/canvas/{File_Name}/annotation",
                 "propertyUrl": "http://www.w3.org/ns/oa#hasBody",
-                "valueUrl": "http://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg"
+                "valueUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg",
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "dctypes:Image"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg",
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}/full/full/0/default.jpg",
                 "propertyUrl": "http://rdfs.org/sioc/services#has_service",
-                "valueUrl": "http://iiif.museum.colby.edu/image/{File_Name}"
+                "valueUrl": "https://iiif.museum.colby.edu/image/{File_Name}"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://iiif.museum.colby.edu/image/{File_Name}",
+                "aboutUrl": "https://iiif.museum.colby.edu/image/{File_Name}",
                 "propertyUrl": "http://usefulinc.com/ns/doap#implements",
-                "valueUrl": "https://iiif.io/api/image/2/level2.json"
+                "valueUrl": "http://iiif.io/api/image/2/level2.json"
             },
             {
                 "virtual": true,

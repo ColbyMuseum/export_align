@@ -14,7 +14,7 @@ import shutil
 from pprint import pprint
 from tempfile import NamedTemporaryFile
 
-from rdflib import Graph
+from rdflib import Graph, URIRef
 
 from embarkservice import KioskQuery, EmbarkService
 from pycsvw import CSVW
@@ -196,10 +196,7 @@ def frame_and_write(graph, context, frame, output_dir, graph_fixer = None ):
 
     empty_ctx = { "@context": {} }
     js = json.loads(graph.serialize(format = 'json-ld', context = empty_ctx ))
-    js = jsonld.compact(js, context)
-
-    with open('output/graph.json', 'w') as f:
-        json.dump(js,f)
+    #js = jsonld.compact(js, context)
 
     print("Framing entities")
     entities = jsonld.frame( js,frm )
@@ -267,6 +264,9 @@ def main():
         process_csv("data/objects_1.csv", "metadata/objects_1-iiif.csv-metadata.json", RIOT_PATH, graph)
         print("After manifests",len(graph),"statements")
         print("Framing and writing manifests")
+
+        graph.serialize('output/iiif_graph.ttl', format="turtle")
+        
         frame_and_write(graph, context = "http://iiif.io/api/presentation/2/context.json", frame = "iiif_manifest.json", output_dir = "output/manifest/", graph_fixer = fix_iiif)
 
     if args["linked_art"]:
@@ -278,8 +278,15 @@ def main():
         print("After Actors", len(graph), "statements")
         process_csv("data/surrogates.csv", "metadata/surrogates.csv-metadata.json", RIOT_PATH, graph)
         print("After IIIF Integrations", len(graph),"statements")
-        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "output/manmadeobject/")
-        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/person/")
+
+        # Override prefixes for CIDOC-CRM and ORE  
+        graph.bind('crm',URIRef('http://www.cidoc-crm.org/cidoc-crm/'), False)
+        graph.bind('ore', URIRef('http://www.openarchives.org/ore/terms/'), False)
         
+        graph.serialize('output/la_graph.ttl', format='turtle')
+
+        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame = "la_mmos.json", output_dir = "output/manmadeobject/")
+        frame_and_write(graph, context = "https://linked.art/ns/v1/linked-art.json", frame =  "la_actors.json", output_dir = "output/person/")        
+
 if __name__ == "__main__":
     main()

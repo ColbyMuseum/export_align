@@ -13,15 +13,15 @@
         }
     ],
     "tableSchema": {
-    	"aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}",
+    	"aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}",
         "primaryKey": "Objects_1_ID",
         "columns": [
             {
                 "name": "Artist_ID",
                 "suppressOutput": false,
-				"aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production",
+				"aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
-                "valueUrl": "http://data.museum.colby.edu/constituent/{Artist_ID}"
+                "valueUrl": "http://data.museum.colby.edu/collection/person/{Artist_ID}"
             },
             {
                 "datatype": "string",
@@ -29,7 +29,7 @@
                 "name": "Objects_1_ID",
                 "suppressOutput": false,
                 "titles": "ID",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/pref_id",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/pref_id",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -38,7 +38,7 @@
                 "name": "Disp_Access_No",
                 "suppressOutput": false,
                 "titles": "Accession Number",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/acc_no",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/acc_no",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "Alt_Title",
                 "suppressOutput": false,
                 "titles": "Alternate Title",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/alt_title",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/alt_title",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -56,7 +56,7 @@
                 "name": "Dedication",
                 "suppressOutput": false,
                 "titles": "Credit Line",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/credit_line",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/credit_line",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -65,7 +65,7 @@
                 "name": "Disp_Dimen",
                 "suppressOutput": false,
                 "titles": "Display Dimensions",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/dimension",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/dimension",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -74,7 +74,7 @@
                 "name": "Disp_Title",
                 "suppressOutput": false,
                 "titles": "Display Title",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/title",
                 "propertyUrl": "rdf:value"
             },
             {
@@ -110,7 +110,7 @@
                 "name": "Disp_Create_DT",
                 "suppressOutput": false,
                 "titles": "Year",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production/timespan",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production/timespan",
                 "propertyUrl": "rdfs:label"
             },
             {
@@ -118,7 +118,7 @@
                 "name": "_Disp_Start_Dat",
                 "suppressOutput": false,
                 "titles": "Start Date",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production/timespan",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production/timespan",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin"
             },
             {
@@ -126,31 +126,31 @@
                 "name": "_Disp_End_Date",
                 "suppressOutput": false,
                 "titles": "End Date",
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production/timespan",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production/timespan",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end" 
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production/timespan",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production/timespan",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E12_Production"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production/timespan"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production/timespan"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/production"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/production"
             },
             {
                 "virtual": true,
@@ -182,97 +182,97 @@
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/pref_id",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/pref_id",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/pref_id",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/pref_id",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/pref_id"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/pref_id"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/acc_no",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/acc_no",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300312355"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/acc_no"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/acc_no"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/acc_no",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/acc_no",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/alt_title"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/alt_title"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/alt_title",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/alt_title",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "https://linked.art/ns/terms/Name"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/credit_line",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/credit_line",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300026687"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/credit_line",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/credit_line",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/credit_line"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/credit_line"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/dimension",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/dimension",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/dimension",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/dimension",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300266036"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/dimension"
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/dimension"
             },
             {
                 "virtual": true,
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                "valueUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title"  
+                "valueUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/title"  
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/title",
                 "propertyUrl": "rdf:type",
                 "valueUrl": "https://linked.art/ns/terms/Name"  
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}/title",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}/title",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                 "valueUrl": "aat:300404670"  
             },
@@ -306,7 +306,7 @@
             },
             {
                 "virtual": true,
-                "aboutUrl": "http://data.museum.colby.edu/object/{Objects_1_ID}",
+                "aboutUrl": "http://data.museum.colby.edu/collection/object/{Objects_1_ID}",
                 "propertyUrl": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
                 "valueUrl": "http://embark.colby.edu/Obj{Objects_1_ID}"  
             },
